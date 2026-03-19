@@ -29,6 +29,7 @@ This repository cuts through the noise. Every resource listed here is grounded i
 - [Gut-Brain Axis & Mental Health](#gut-brain-axis--mental-health)
 - [Gut Healing Protocols](#gut-healing-protocols)
 - [Tools & Apps](#tools--apps)
+- [📋 Free Tools](#-free-tools)
 - [Contributing](#contributing)
 - [Disclaimer](#disclaimer)
 - [References](#references)
@@ -180,6 +181,16 @@ Practical tools for tracking, testing, and optimizing gut health.
 | [Cara Care](https://cara.care/) | Symptom Tracker | Free app for tracking digestive symptoms, meals, stress, and stool quality | Free |
 | [Monash FODMAP](https://www.monashfodmap.com/ibs-central/i-702/) | Diet Tool | The gold-standard FODMAP diet app from Monash University researchers | $ |
 | [Bristol Stool Chart](https://en.wikipedia.org/wiki/Bristol_stool_scale) | Assessment Tool | Standardized classification for stool consistency — used clinically worldwide | Free |
+
+---
+
+## 📋 Free Tools
+
+Put these protocols into practice with free interactive Notion templates:
+
+- **🦠 30-Day Gut Reset Checklist** — Day-by-day 4R protocol (Remove, Repair, Reinoculate, Rebalance) with trackable checkboxes, fermented food rotation schedule, and plant diversity tracker
+
+→ [Browse all free health tools on Notion](https://healthsecrets.notion.site)
 
 ---
 

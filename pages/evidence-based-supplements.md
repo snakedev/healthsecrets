@@ -32,6 +32,7 @@ For a comprehensive breakdown of which supplements actually work and how to buil
 - [Probiotics & Gut Health](#probiotics--gut-health)
 - [Supplement Interaction Checker](#supplement-interaction-checker)
 - [Dosing Protocols by Goal](#dosing-protocols-by-goal)
+- [📋 Free Tools](#-free-tools)
 - [Contributing](#contributing)
 - [Disclaimer](#disclaimer)
 - [References](#references)
@@ -254,6 +255,16 @@ For a comprehensive breakdown of which supplements actually work and how to buil
 4. Vitamin D3: 2,000 IU/day (morning — may disrupt sleep if taken at night)
 
 **Cross-reference:** See [Detox Protocols](/healthsecrets/detox-protocols/) for liver support and detox supplement protocols.
+
+---
+
+## 📋 Free Tools
+
+Build your personalized stack with free interactive Notion templates:
+
+- **💊 Evidence-Based Supplement Stack Builder** — Goal-based stacks with dosing tables, interaction checkers, and quality checklists you can customize for your needs
+
+→ [Browse all free health tools on Notion](https://healthsecrets.notion.site)
 
 ---
 
