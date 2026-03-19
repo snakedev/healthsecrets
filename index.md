@@ -7,92 +7,158 @@ author: HealthSecrets
 
 # 🌿 HealthSecrets — Evidence-Based Health Resources
 
-Welcome! We curate **evidence-based health resources** backed by peer-reviewed research. Every guide, protocol, and resource list below links to comprehensive articles on [HealthSecrets.com](https://healthsecrets.com).
+[![HealthSecrets](https://img.shields.io/badge/Visit-HealthSecrets.com-00b894?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEyIDJMMyA3djEwbDkgNSA5LTVWN2wtOS01eiIvPjwvc3ZnPg==)](https://healthsecrets.com)
+[![GitHub Pages](https://img.shields.io/badge/Hosted_on-GitHub_Pages-181717?style=for-the-badge&logo=github)](https://snakedev.github.io/healthsecrets/)
+[![Evidence-Based](https://img.shields.io/badge/All_Content-Evidence_Based-0984e3?style=for-the-badge)](#)
 
-> 🔬 **Evidence-based** — Every recommendation backed by peer-reviewed research
-> ✅ **Actionable** — Protocols, checklists, and stacks you can start today
-> 🌍 **Free forever** — All resources on this site are completely free
+Welcome to the **HealthSecrets open-source health resource hub**. Every guide, protocol, and resource below is grounded in peer-reviewed research from PubMed, Cochrane, and NIH databases.
+
+> **🔬 Evidence-based** — Every recommendation backed by peer-reviewed clinical trials and meta-analyses
+> **✅ Actionable** — Protocols, checklists, and supplement stacks you can start today
+> **📋 Free tools** — Interactive Notion templates to track your progress
+> **🌍 Open source** — All resources free forever. Contributions welcome.
 
 ---
 
-## 🦠 Gut Health
+## 📚 Resource Library
+
+### 🦠 Gut Health
 
 Your gut microbiome influences digestion, immunity, mood, and metabolism. These resources help you optimize gut health with science-backed protocols.
 
-- **[Awesome Gut Health Resources](/healthsecrets/awesome-gut-health/)** — Curated research papers, probiotic strain guides, the 4R healing protocol, and practical tools for microbiome optimization
+| Resource | What You Get |
+|----------|-------------|
+| **[🦠 Awesome Gut Health Resources](/healthsecrets/awesome-gut-health/)** | Curated research papers, probiotic strain database, the 4R healing protocol, gut-brain axis research, and practical tools |
 
-📖 Full guide: [The Complete Guide to Gut Health](https://healthsecrets.com/gut-health/complete-guide-gut-health) — HealthSecrets.com
-
----
-
-## 💧 Detox & Cleansing
-
-Forget juice cleanses — real detoxification is about supporting your liver, kidneys, and lymphatic system with proven protocols.
-
-- **[Evidence-Based Detox Protocols](/healthsecrets/detox-protocols/)** — Liver detox phases (Phase I/II/III), 28-day liver support protocol, heavy metal chelation strategies, and gut detox support
-
-📖 Full guide: [Evidence-Based Detox Guide](https://healthsecrets.com/detox/detox-guide-evidence-based) — HealthSecrets.com
+**📖 Deep dives on HealthSecrets.com:**
+- [The Complete Guide to Gut Health](https://healthsecrets.com/gut-health/complete-guide-gut-health) — Microbiome science, protocols, and product recommendations
+- [Bloating Relief: Natural Remedies That Work](https://healthsecrets.com/gut-health/bloating-relief-natural) — Evidence-based natural solutions for gas and bloating
 
 ---
 
-## 💊 Supplements
+### 💊 Supplements
 
 Cut through the noise. Find out which supplements have real evidence behind them — and which are just marketing.
 
-- **[Evidence-Based Supplements Database](/healthsecrets/evidence-based-supplements/)** — A-to-D graded supplement database with dosing protocols, interaction checker, and goal-based stacks (immune, cognitive, longevity, sleep)
+| Resource | What You Get |
+|----------|-------------|
+| **[💊 Evidence-Based Supplements Database](/healthsecrets/evidence-based-supplements/)** | A-to-D graded supplement database, dosing protocols, interaction checker, and goal-based stacks (immune, cognitive, longevity, sleep) |
 
-📖 Full guide: [Evidence-Based Supplements Guide](https://healthsecrets.com/supplements/supplements-guide-evidence-based) — HealthSecrets.com
+**📖 Deep dives on HealthSecrets.com:**
+- [Evidence-Based Supplements Guide](https://healthsecrets.com/supplements/supplements-guide-evidence-based) — Comprehensive guide with full dosing protocols
+- [Milk Thistle & Liver Health](https://healthsecrets.com/supplements/milk-thistle-liver-health) — Deep dive on milk thistle research
+- [CoQ10 Benefits Guide](https://healthsecrets.com/supplements/coq10-benefits) — Complete CoQ10 evidence review
 
 ---
 
-## ⏳ Longevity & Anti-Aging
+### 💧 Detox & Cleansing
+
+Forget juice cleanses — real detoxification is about supporting your liver, kidneys, and lymphatic system with proven protocols.
+
+| Resource | What You Get |
+|----------|-------------|
+| **[💧 Evidence-Based Detox Protocols](/healthsecrets/detox-protocols/)** | Liver detox phases (Phase I/II/III), 28-day liver support protocol, heavy metal chelation strategies, and gut detox support |
+
+**📖 Deep dives on HealthSecrets.com:**
+- [Evidence-Based Detox Guide](https://healthsecrets.com/detox/detox-guide-evidence-based) — The science of detoxification
+- [Milk Thistle & Liver Health](https://healthsecrets.com/supplements/milk-thistle-liver-health) — Liver support supplementation
+
+---
+
+### ⏳ Longevity & Anti-Aging
 
 What does the science actually say about living longer? Protocols, biomarkers, and daily habits from longevity research.
 
-- **[Biohacker Stack: Longevity & Optimization Protocols](/healthsecrets/biohacker-stack/)** — NAD+ optimization, sleep architecture, longevity biomarker panels, nootropic stacks, fasting protocols, and weekly frameworks
+| Resource | What You Get |
+|----------|-------------|
+| **[⏳ Biohacker Stack: Longevity Protocols](/healthsecrets/biohacker-stack/)** | NAD+ optimization, sleep architecture, longevity biomarker panels, nootropic stacks, fasting protocols, and weekly frameworks |
 
-📖 Full guide: [Longevity Secrets: Science-Backed Strategies](https://healthsecrets.com/longevity/longevity-secrets-science-backed-strategies-to-live-longer) — HealthSecrets.com
+**📖 Deep dives on HealthSecrets.com:**
+- [Longevity Secrets: Science-Backed Strategies](https://healthsecrets.com/longevity/longevity-secrets-science-backed-strategies-to-live-longer) — Comprehensive longevity guide
+- [Sleep Hygiene: 15 Rules for Better Sleep](https://healthsecrets.com/mental-wellness/sleep-hygiene-rules) — Optimize your sleep for longevity
 
 ---
 
-## 🛡️ Immune System
+### 🛡️ Immune System
 
 Strengthen your natural defenses with evidence-based strategies — from nutrition and supplements to lifestyle habits.
 
-*Resources coming soon.*
+*GitHub resources coming soon.*
 
-📖 Full guide: [How to Boost Your Immune System Naturally](https://healthsecrets.com/immune-system/how-to-boost-your-immune-system-naturally-15-science-backed-strategies) — HealthSecrets.com
+**📖 On HealthSecrets.com:**
+- [How to Boost Your Immune System Naturally](https://healthsecrets.com/immune-system/how-to-boost-your-immune-system-naturally-15-science-backed-strategies) — 15 science-backed strategies
 
 ---
 
-## 🔥 Inflammation & Pain
+### 🔥 Inflammation & Pain
 
 Chronic inflammation is linked to nearly every major disease. Learn how to reduce it naturally through diet, lifestyle, and targeted supplementation.
 
-*Resources coming soon.*
+*GitHub resources coming soon.*
 
-📖 Full guide: [Reduce Inflammation Naturally](https://healthsecrets.com/inflammation/reduce-inflammation-naturally-complete-anti-inflammatory-guide) — HealthSecrets.com
+**📖 On HealthSecrets.com:**
+- [Reduce Inflammation Naturally](https://healthsecrets.com/inflammation/reduce-inflammation-naturally-complete-anti-inflammatory-guide) — Complete anti-inflammatory guide
 
 ---
 
-## 🧠 Mental Wellness
+### 🧠 Mental Wellness
 
 From brain fog to sleep quality to stress management — evidence-based strategies for optimizing your mental health naturally.
 
-*Resources coming soon.*
+*GitHub resources coming soon.*
 
-📖 Full guide: [Sleep Hygiene: 15 Rules for Better Sleep](https://healthsecrets.com/mental-wellness/sleep-hygiene-rules) — HealthSecrets.com
-📖 More: [Brain Fog: Causes and Natural Solutions](https://healthsecrets.com/mental-wellness/brain-fog-causes-solutions) — HealthSecrets.com
+**📖 On HealthSecrets.com:**
+- [Sleep Hygiene: 15 Rules for Better Sleep](https://healthsecrets.com/mental-wellness/sleep-hygiene-rules)
+- [Brain Fog: Causes and Natural Solutions](https://healthsecrets.com/mental-wellness/brain-fog-causes-solutions)
 
 ---
 
-## 🌿 Natural Remedies
+### 🌿 Natural Remedies
 
 Traditional remedies backed by modern science. Find out which natural treatments have clinical evidence and how to use them safely.
 
-*Resources coming soon.*
+*GitHub resources coming soon.*
 
-📖 Full guide: [Natural Remedies Guide](https://healthsecrets.com/natural-remedies/natural-remedies-guide) — HealthSecrets.com
+**📖 On HealthSecrets.com:**
+- [Natural Remedies Guide](https://healthsecrets.com/natural-remedies/natural-remedies-guide)
+
+---
+
+## 📋 Free Interactive Tools
+
+We also publish **free interactive Notion pages** — checklists, supplement stack builders, and meal plan templates you can duplicate and use.
+
+| Tool | Description |
+|------|-------------|
+| **🦠 30-Day Gut Reset Checklist** | Day-by-day 4R protocol with trackable checkboxes for each phase |
+| **💊 Evidence-Based Supplement Stack Builder** | Goal-based stacks with dosing tables, interaction checkers, and quality checklists |
+| **💧 7-Day Detox Meal Plan Template** | Structured meal plan supporting liver and gut detox |
+| **🦠 Probiotic Strain Guide & Comparison Chart** | Compare probiotic strains by condition, evidence grade, and dose |
+
+→ [Browse all free tools on Notion](https://healthsecrets.notion.site)
+
+---
+
+## 🗺️ Quick Navigation
+
+| Pillar | GitHub Resource | HealthSecrets.com Guide |
+|--------|----------------|------------------------|
+| 🦠 Gut Health | [Awesome Gut Health](/healthsecrets/awesome-gut-health/) | [Complete Gut Health Guide](https://healthsecrets.com/gut-health/complete-guide-gut-health) |
+| 💊 Supplements | [Supplements Database](/healthsecrets/evidence-based-supplements/) | [Supplements Guide](https://healthsecrets.com/supplements/supplements-guide-evidence-based) |
+| 💧 Detox | [Detox Protocols](/healthsecrets/detox-protocols/) | [Detox Guide](https://healthsecrets.com/detox/detox-guide-evidence-based) |
+| ⏳ Longevity | [Biohacker Stack](/healthsecrets/biohacker-stack/) | [Longevity Secrets](https://healthsecrets.com/longevity/longevity-secrets-science-backed-strategies-to-live-longer) |
+| 🛡️ Immune | *Coming soon* | [Immune System Guide](https://healthsecrets.com/immune-system/how-to-boost-your-immune-system-naturally-15-science-backed-strategies) |
+| 🔥 Inflammation | *Coming soon* | [Anti-Inflammatory Guide](https://healthsecrets.com/inflammation/reduce-inflammation-naturally-complete-anti-inflammatory-guide) |
+
+---
+
+## Contributing
+
+We welcome contributions! See each resource page for specific contribution guidelines. All submissions must:
+
+1. Be backed by peer-reviewed research (PubMed, Cochrane, NIH preferred)
+2. Include evidence grades and citations
+3. Follow our [contribution standards](/healthsecrets/awesome-gut-health/#contributing)
 
 ---
 
