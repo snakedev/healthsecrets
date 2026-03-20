@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /anxiety-relief-toolkit/
 title: "🧘 Natural Anxiety Relief Toolkit — Evidence-Based Remedies & Protocols"
 description: "A curated collection of evidence-based natural anxiety remedies, supplement protocols, dosing guides, and calming techniques backed by clinical research."
 keywords: "natural anxiety remedies evidence based, ashwagandha anxiety research, L-theanine calm, anxiety supplement protocols, natural anxiety relief"
