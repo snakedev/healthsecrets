@@ -50,7 +50,8 @@ author: Health Secrets
           {"@type": "ListItem", "position": 14, "url": "https://snakedev.github.io/healthsecrets/anti-inflammation-toolkit/", "name": "Anti-Inflammation Toolkit"},
           {"@type": "ListItem", "position": 15, "url": "https://snakedev.github.io/healthsecrets/natural-headache-relief/", "name": "Natural Headache Relief"},
           {"@type": "ListItem", "position": 16, "url": "https://snakedev.github.io/healthsecrets/anxiety-relief-toolkit/", "name": "Anxiety Relief Toolkit"},
-          {"@type": "ListItem", "position": 17, "url": "https://snakedev.github.io/healthsecrets/gut-health-meal-plan-resources/", "name": "Gut Health Meal Plan Resources"}
+          {"@type": "ListItem", "position": 17, "url": "https://snakedev.github.io/healthsecrets/gut-health-meal-plan-resources/", "name": "Gut Health Meal Plan Resources"},
+          {"@type": "ListItem", "position": 18, "url": "https://snakedev.github.io/healthsecrets/omega-3-brain-health-guide/", "name": "Omega-3 Brain Health Resources"}
         ]
       }
     }
@@ -152,6 +153,7 @@ From brain fog to sleep quality to stress management — evidence-based strategi
 |----------|-------------|
 | **[Brain Health Optimization Resources](/healthsecrets/brain-health-resources/)** | Nootropic protocols, sleep optimization, brain fog elimination strategies, and cognitive performance tools backed by neuroscience research |
 | **[Anxiety Relief Toolkit](/healthsecrets/anxiety-relief-toolkit/)** | Evidence-based natural anxiety remedies, breathing techniques, supplement protocols, and lifestyle interventions for anxiety management |
+| **[Omega-3 Brain Health Resources](/healthsecrets/omega-3-brain-health-guide/)** | DHA vs EPA comparison, dosing protocols by condition, supplement quality checklist, and food sources for optimal brain function |
 
 ---
 
@@ -177,7 +179,7 @@ Traditional remedies backed by modern science. Find out which natural treatments
 | Longevity | [Biohacker Stack](/healthsecrets/biohacker-stack/) | [Longevity Secrets](https://healthsecrets.com/longevity/longevity-secrets-science-backed-strategies-to-live-longer) |
 | Immune | [Immune System Guide](/healthsecrets/immune-system-guide/) - [Immune Recipes](/healthsecrets/immune-nutrition-recipes/) | [Immune System Guide](https://healthsecrets.com/immune-system/how-to-boost-your-immune-system-naturally-15-science-backed-strategies) |
 | Inflammation | [Anti-Inflammation Toolkit](/healthsecrets/anti-inflammation-toolkit/) - [Headache Relief](/healthsecrets/natural-headache-relief/) | [Anti-Inflammatory Guide](https://healthsecrets.com/inflammation/reduce-inflammation-naturally-complete-anti-inflammatory-guide) |
-| Mental Wellness | [Brain Health Resources](/healthsecrets/brain-health-resources/) - [Anxiety Relief](/healthsecrets/anxiety-relief-toolkit/) | [Mental Wellness Guide](https://healthsecrets.com/mental-wellness/mental-wellness-guide) |
+| Mental Wellness | [Brain Health Resources](/healthsecrets/brain-health-resources/) - [Anxiety Relief](/healthsecrets/anxiety-relief-toolkit/) - [Omega-3 Guide](/healthsecrets/omega-3-brain-health-guide/) | [Mental Wellness Guide](https://healthsecrets.com/mental-wellness/mental-wellness-guide) |
 | Natural Remedies | [Natural Remedies DB](/healthsecrets/natural-remedies-db/) - [Rosacea Care](/healthsecrets/rosacea-natural-care/) - [Bronchitis](/healthsecrets/bronchitis-natural-remedies/) | [Natural Remedies Guide](https://healthsecrets.com/natural-remedies/natural-remedies-guide) |
 
 ---
