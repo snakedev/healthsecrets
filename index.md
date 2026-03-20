@@ -42,7 +42,8 @@ author: Health Secrets
           {"@type": "ListItem", "position": 6, "url": "https://snakedev.github.io/healthsecrets/lymphatic-drainage-guide/", "name": "Lymphatic Drainage Guide"},
           {"@type": "ListItem", "position": 7, "url": "https://snakedev.github.io/healthsecrets/biohacker-stack/", "name": "Biohacker Stack: Longevity Protocols"},
           {"@type": "ListItem", "position": 8, "url": "https://snakedev.github.io/healthsecrets/immune-system-guide/", "name": "Immune System Optimization Guide"},
-          {"@type": "ListItem", "position": 9, "url": "https://snakedev.github.io/healthsecrets/brain-health-resources/", "name": "Brain Health Optimization Resources"}
+          {"@type": "ListItem", "position": 9, "url": "https://snakedev.github.io/healthsecrets/brain-health-resources/", "name": "Brain Health Optimization Resources"},
+          {"@type": "ListItem", "position": 10, "url": "https://snakedev.github.io/healthsecrets/natural-remedies-db/", "name": "Natural Remedies Database"}
         ]
       }
     }
@@ -179,10 +180,15 @@ From brain fog to sleep quality to stress management — evidence-based strategi
 
 Traditional remedies backed by modern science. Find out which natural treatments have clinical evidence and how to use them safely.
 
-*GitHub resources coming soon.*
+| Resource | What You Get |
+|----------|-------------|
+| **[🌿 Natural Remedies Database](/healthsecrets/natural-remedies-db/)** | Evidence-graded database of 50+ herbal and natural remedies with PubMed citations, dosing protocols, safety profiles, and drug interaction warnings |
 
 **📖 On [HealthSecrets.com](https://healthsecrets.com):**
-- [Natural Remedies Guide](https://healthsecrets.com/natural-remedies/natural-remedies-guide)
+- [Natural Remedies Guide](https://healthsecrets.com/natural-remedies/natural-remedies-guide) — Complete evidence-based natural remedies guide
+- [Natural Remedies for Anxiety](https://healthsecrets.com/natural-remedies/natural-remedies-anxiety) — Natural anxiety solutions
+- [Natural Remedies for Bronchitis](https://healthsecrets.com/natural-remedies/natural-remedies-bronchitis) — Bronchitis protocols
+- [Natural Remedies for Rosacea](https://healthsecrets.com/natural-remedies/natural-remedies-rosacea) — Rosacea management
 
 ---
 
@@ -217,8 +223,8 @@ We also publish **free interactive Notion pages** — checklists, supplement sta
 | ⏳ Longevity | [Biohacker Stack](/healthsecrets/biohacker-stack/) | [Longevity Secrets](https://healthsecrets.com/longevity/longevity-secrets-science-backed-strategies-to-live-longer) |
 | 🛡️ Immune | [Immune System Guide](/healthsecrets/immune-system-guide/) | [Immune System Guide](https://healthsecrets.com/immune-system/how-to-boost-your-immune-system-naturally-15-science-backed-strategies) |
 | 🧠 Mental Wellness | [Brain Health Resources](/healthsecrets/brain-health-resources/) | [Mental Wellness Guide](https://healthsecrets.com/mental-wellness/mental-wellness-guide) |
+| 🌿 Natural Remedies | [Natural Remedies Database](/healthsecrets/natural-remedies-db/) | [Natural Remedies Guide](https://healthsecrets.com/natural-remedies/natural-remedies-guide) |
 | 🔥 Inflammation | *Coming soon* | [Anti-Inflammatory Guide](https://healthsecrets.com/inflammation/reduce-inflammation-naturally-complete-anti-inflammatory-guide) |
-| 🌿 Natural Remedies | *Coming soon* | [Natural Remedies Guide](https://healthsecrets.com/natural-remedies/natural-remedies-guide) |
 
 ---
 
