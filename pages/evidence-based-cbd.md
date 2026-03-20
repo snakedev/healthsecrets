@@ -167,7 +167,7 @@ The laboratory data is genuinely impressive. CBD reduces inflammatory markers ac
 Human trials paint a more nuanced picture. The gap between what CBD does in a petri dish and what it does in your body is significant:
 
 | Study Type | Finding | Quality |
-|-----------|---------|---------|
+|-----------|---------|---------| 
 | Systematic review of 40 studies (2024) | Sufficient evidence CBD reduces pain via TRPV-1, 5HT-1A, CB1 pathways | Moderate [1] |
 | CANOA trial (knee OA) | Full-spectrum CBD oil showed no significant difference from placebo after 60 days | High [8] |
 | Meta-analysis of 15 studies | 42-66% pain reduction with CBD alone or with THC | Moderate [2] |
@@ -402,12 +402,12 @@ This protocol is adapted from dosing patterns used in clinical trials [1, 2, 9].
 - [Natural Headache Relief](/healthsecrets/natural-headache-relief/) — Evidence-based headache protocols
 - [Evidence-Based Supplements Database](/healthsecrets/evidence-based-supplements/) — Full supplement reference with evidence grades
 
+**Free Notion tools:**
+- [CBD Dosing & Pain Tracker](https://healthsecrets.notion.site) — Interactive dosing log, product comparison, drug interaction checklist, and 8-week protocol timeline
+
 **Full guides on [HealthSecrets.com](https://healthsecrets.com):**
 - [CBD for Inflammation and Pain: Cannabidiol Guide](https://healthsecrets.com/inflammation/cbd-inflammation-pain-guide) — Complete evidence-based guide
 - [Reduce Inflammation Naturally](https://healthsecrets.com/inflammation/reduce-inflammation-naturally-complete-anti-inflammatory-guide) — Comprehensive anti-inflammatory strategies
-
-📋 **Free Tools:** Download our CBD Dosing & Pain Tracker — a free, interactive checklist based on this research.
-<!-- TODO: Add Notion page link when published -->
 
 ---
 
