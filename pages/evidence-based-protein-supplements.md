@@ -220,7 +220,7 @@ Here's why this matters for your supplement choice:
 **Distribute 20-40g protein across 3-4 meals for maximal muscle protein synthesis.** Research shows the "muscle full" effect kicks in around 20g for younger adults and 40g for older adults [10]. Consuming all your protein in one sitting is less efficient than spreading it throughout the day.
 
 | Timing | Amount | Priority | Best Type |
-|--------|--------|----------|-----------|
+|--------|--------|----------|----------|
 | **Breakfast** | 20-40g | High | Any (breaks overnight fast) |
 | **Post-workout** | 20-40g | High | Fast-digesting (whey, pea) |
 | **Lunch/Dinner** | 20-40g | Medium | Any whole food or supplement |
