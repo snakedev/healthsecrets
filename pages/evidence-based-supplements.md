@@ -3,9 +3,40 @@ layout: default
 title: "Evidence-Based Supplements Database"
 description: "Curated database of dietary supplements graded by scientific evidence with dosing protocols and interactions"
 keywords: "supplements, evidence-based, dosing guide, supplement database, health"
-author: HealthSecrets
+author: Health Secrets
 permalink: /evidence-based-supplements/
 ---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "Evidence-Based Supplements Database",
+      "description": "Curated database of dietary supplements graded by scientific evidence with dosing protocols and interactions",
+      "url": "https://snakedev.github.io/healthsecrets/evidence-based-supplements/",
+      "datePublished": "2026-03-19",
+      "dateModified": "2026-03-20",
+      "author": {"@type": "Organization", "name": "Health Secrets", "url": "https://healthsecrets.com"},
+      "publisher": {"@type": "Organization", "name": "Health Secrets", "url": "https://healthsecrets.com"},
+      "mainEntityOfPage": {"@type": "WebPage", "@id": "https://snakedev.github.io/healthsecrets/evidence-based-supplements/"},
+      "about": [
+        {"@type": "Thing", "name": "Dietary Supplements"},
+        {"@type": "Thing", "name": "Evidence-Based Medicine"},
+        {"@type": "Thing", "name": "Vitamins and Minerals"}
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Health Secrets", "item": "https://snakedev.github.io/healthsecrets/"},
+        {"@type": "ListItem", "position": 2, "name": "Evidence-Based Supplements Database", "item": "https://snakedev.github.io/healthsecrets/evidence-based-supplements/"}
+      ]
+    }
+  ]
+}
+</script>
 
 [← Back to all resources](/healthsecrets/)
 
@@ -19,7 +50,7 @@ A curated, open-source database of dietary supplements graded by scientific evid
 
 The supplement industry is worth over $177 billion globally — and most of it runs on marketing, not science [1]. This repository exists to cut through the noise. Every supplement listed here has been evaluated against peer-reviewed clinical trials, meta-analyses, and systematic reviews from PubMed, Cochrane, and NIH databases.
 
-For a comprehensive breakdown of which supplements actually work and how to build an evidence-based stack, see the [HealthSecrets supplements guide](https://healthsecrets.com/supplements/supplements-guide-evidence-based).
+For a comprehensive breakdown of which supplements actually work and how to build an evidence-based stack, see the [Health Secrets supplements guide](https://healthsecrets.com/supplements/supplements-guide-evidence-based).
 
 ---
 
@@ -96,7 +127,7 @@ For a comprehensive breakdown of which supplements actually work and how to buil
 - **Interactions:** B6 >100 mg/day long-term may cause peripheral neuropathy
 - **Safety:** Water-soluble; excess generally excreted
 
-**Further reading:** [HealthSecrets supplements guide](https://healthsecrets.com/supplements/supplements-guide-evidence-based) — full vitamin & mineral deep-dive with dosing calculators.
+**Further reading:** [Health Secrets supplements guide](https://healthsecrets.com/supplements/supplements-guide-evidence-based) — full vitamin & mineral deep-dive with dosing calculators.
 
 ---
 
@@ -180,7 +211,7 @@ For a comprehensive breakdown of which supplements actually work and how to buil
 - **Interactions:** May reduce efficacy of warfarin; statins deplete CoQ10 (supplementation recommended with statin use)
 - **Safety:** Very well-tolerated; rare mild GI effects
 
-**Further reading:** For evidence-based supplement stacks organized by health goal, see the [HealthSecrets supplements guide](https://healthsecrets.com/supplements/supplements-guide-evidence-based).
+**Further reading:** For evidence-based supplement stacks organized by health goal, see the [Health Secrets supplements guide](https://healthsecrets.com/supplements/supplements-guide-evidence-based).
 
 ---
 
@@ -318,8 +349,8 @@ This repository is for educational purposes only. The information provided does 
 
 ## Further Reading
 
-- 📖 [HealthSecrets Evidence-Based Supplements Guide](https://healthsecrets.com/supplements/supplements-guide-evidence-based) — Comprehensive guide with full dosing protocols
-- 📖 [HealthSecrets Milk Thistle & Liver Health](https://healthsecrets.com/supplements/milk-thistle-liver-health) — Deep dive on milk thistle research
-- 📖 [HealthSecrets CoQ10 Guide](https://healthsecrets.com/supplements/coq10-benefits) — Complete CoQ10 evidence review
+- 📖 [Health Secrets Evidence-Based Supplements Guide](https://healthsecrets.com/supplements/supplements-guide-evidence-based) — Comprehensive guide with full dosing protocols
+- 📖 [Health Secrets Milk Thistle & Liver Health](https://healthsecrets.com/supplements/milk-thistle-liver-health) — Deep dive on milk thistle research
+- 📖 [Health Secrets CoQ10 Guide](https://healthsecrets.com/supplements/coq10-benefits) — Complete CoQ10 evidence review
 - 🔗 [Awesome Gut Health](/healthsecrets/awesome-gut-health/) — Gut health resources
 - 🔗 [Detox Protocols](/healthsecrets/detox-protocols/) — Detox and liver support protocols
