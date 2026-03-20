@@ -42,11 +42,14 @@ author: Health Secrets
           {"@type": "ListItem", "position": 6, "url": "https://snakedev.github.io/healthsecrets/lymphatic-drainage-guide/", "name": "Lymphatic Drainage Guide"},
           {"@type": "ListItem", "position": 7, "url": "https://snakedev.github.io/healthsecrets/biohacker-stack/", "name": "Biohacker Stack: Longevity Protocols"},
           {"@type": "ListItem", "position": 8, "url": "https://snakedev.github.io/healthsecrets/immune-system-guide/", "name": "Immune System Optimization Guide"},
-          {"@type": "ListItem", "position": 9, "url": "https://snakedev.github.io/healthsecrets/brain-health-resources/", "name": "Brain Health Optimization Resources"},
-          {"@type": "ListItem", "position": 10, "url": "https://snakedev.github.io/healthsecrets/natural-remedies-db/", "name": "Natural Remedies Database"},
-          {"@type": "ListItem", "position": 11, "url": "https://snakedev.github.io/healthsecrets/rosacea-natural-care/", "name": "Rosacea Natural Care"},
-          {"@type": "ListItem", "position": 12, "url": "https://snakedev.github.io/healthsecrets/bronchitis-natural-remedies/", "name": "Bronchitis Natural Remedies"},
-          {"@type": "ListItem", "position": 13, "url": "https://snakedev.github.io/healthsecrets/immune-nutrition-recipes/", "name": "Immune Nutrition Recipes"}
+          {"@type": "ListItem", "position": 9, "url": "https://snakedev.github.io/healthsecrets/immune-nutrition-recipes/", "name": "Immune Nutrition Recipes"},
+          {"@type": "ListItem", "position": 10, "url": "https://snakedev.github.io/healthsecrets/brain-health-resources/", "name": "Brain Health Optimization Resources"},
+          {"@type": "ListItem", "position": 11, "url": "https://snakedev.github.io/healthsecrets/natural-remedies-db/", "name": "Natural Remedies Database"},
+          {"@type": "ListItem", "position": 12, "url": "https://snakedev.github.io/healthsecrets/rosacea-natural-care/", "name": "Rosacea Natural Care"},
+          {"@type": "ListItem", "position": 13, "url": "https://snakedev.github.io/healthsecrets/bronchitis-natural-remedies/", "name": "Bronchitis Natural Remedies"},
+          {"@type": "ListItem", "position": 14, "url": "https://snakedev.github.io/healthsecrets/anti-inflammation-toolkit/", "name": "Anti-Inflammation Toolkit"},
+          {"@type": "ListItem", "position": 15, "url": "https://snakedev.github.io/healthsecrets/natural-headache-relief/", "name": "Natural Headache Relief"},
+          {"@type": "ListItem", "position": 16, "url": "https://snakedev.github.io/healthsecrets/anxiety-relief-toolkit/", "name": "Anxiety Relief Toolkit"}
         ]
       }
     }
@@ -129,7 +132,10 @@ Strengthen your natural defenses with evidence-based strategies — from nutriti
 
 Chronic inflammation is linked to nearly every major disease. Learn how to reduce it naturally through diet, lifestyle, and targeted supplementation.
 
-*GitHub resources coming soon.*
+| Resource | What You Get |
+|----------|-------------|
+| **[Anti-Inflammation Toolkit](/healthsecrets/anti-inflammation-toolkit/)** | Diet templates, supplement protocols, inflammatory biomarker reference, 7-day meal framework, and tracking protocol for reducing chronic inflammation |
+| **[Natural Headache Relief](/healthsecrets/natural-headache-relief/)** | Evidence-based headache protocols, trigger identification, natural remedies, and prevention strategies |
 
 **On [HealthSecrets.com](https://healthsecrets.com):**
 - [Reduce Inflammation Naturally](https://healthsecrets.com/inflammation/reduce-inflammation-naturally-complete-anti-inflammatory-guide) — Complete anti-inflammatory guide
@@ -143,6 +149,7 @@ From brain fog to sleep quality to stress management — evidence-based strategi
 | Resource | What You Get |
 |----------|-------------|
 | **[Brain Health Optimization Resources](/healthsecrets/brain-health-resources/)** | Nootropic protocols, sleep optimization, brain fog elimination strategies, and cognitive performance tools backed by neuroscience research |
+| **[Anxiety Relief Toolkit](/healthsecrets/anxiety-relief-toolkit/)** | Evidence-based natural anxiety remedies, breathing techniques, supplement protocols, and lifestyle interventions for anxiety management |
 
 ---
 
@@ -167,9 +174,9 @@ Traditional remedies backed by modern science. Find out which natural treatments
 | Detox | [Detox Protocols](/healthsecrets/detox-protocols/) - [Lymphatic Drainage](/healthsecrets/lymphatic-drainage-guide/) | [Detox Guide](https://healthsecrets.com/detox/detox-guide-evidence-based) |
 | Longevity | [Biohacker Stack](/healthsecrets/biohacker-stack/) | [Longevity Secrets](https://healthsecrets.com/longevity/longevity-secrets-science-backed-strategies-to-live-longer) |
 | Immune | [Immune System Guide](/healthsecrets/immune-system-guide/) - [Immune Recipes](/healthsecrets/immune-nutrition-recipes/) | [Immune System Guide](https://healthsecrets.com/immune-system/how-to-boost-your-immune-system-naturally-15-science-backed-strategies) |
-| Mental Wellness | [Brain Health Resources](/healthsecrets/brain-health-resources/) | [Mental Wellness Guide](https://healthsecrets.com/mental-wellness/mental-wellness-guide) |
+| Inflammation | [Anti-Inflammation Toolkit](/healthsecrets/anti-inflammation-toolkit/) - [Headache Relief](/healthsecrets/natural-headache-relief/) | [Anti-Inflammatory Guide](https://healthsecrets.com/inflammation/reduce-inflammation-naturally-complete-anti-inflammatory-guide) |
+| Mental Wellness | [Brain Health Resources](/healthsecrets/brain-health-resources/) - [Anxiety Relief](/healthsecrets/anxiety-relief-toolkit/) | [Mental Wellness Guide](https://healthsecrets.com/mental-wellness/mental-wellness-guide) |
 | Natural Remedies | [Natural Remedies DB](/healthsecrets/natural-remedies-db/) - [Rosacea Care](/healthsecrets/rosacea-natural-care/) - [Bronchitis](/healthsecrets/bronchitis-natural-remedies/) | [Natural Remedies Guide](https://healthsecrets.com/natural-remedies/natural-remedies-guide) |
-| Inflammation | *Coming soon* | [Anti-Inflammatory Guide](https://healthsecrets.com/inflammation/reduce-inflammation-naturally-complete-anti-inflammatory-guide) |
 
 ---
 
