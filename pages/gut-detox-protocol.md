@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /gut-detox-protocol/
 title: "Gut Detox Protocol: 7-Day Evidence-Based Digestive Reset"
 description: "A step-by-step 7-day gut detox protocol with elimination diet guidance, supplement dosing tables, daily food lists, and a complete schedule for resetting your digestive system."
 author: Health Secrets
