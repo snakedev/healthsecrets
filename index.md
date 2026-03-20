@@ -41,7 +41,8 @@ author: Health Secrets
           {"@type": "ListItem", "position": 5, "url": "https://snakedev.github.io/healthsecrets/gut-detox-protocol/", "name": "Gut Detox Protocol"},
           {"@type": "ListItem", "position": 6, "url": "https://snakedev.github.io/healthsecrets/lymphatic-drainage-guide/", "name": "Lymphatic Drainage Guide"},
           {"@type": "ListItem", "position": 7, "url": "https://snakedev.github.io/healthsecrets/biohacker-stack/", "name": "Biohacker Stack: Longevity Protocols"},
-          {"@type": "ListItem", "position": 8, "url": "https://snakedev.github.io/healthsecrets/immune-system-guide/", "name": "Immune System Optimization Guide"}
+          {"@type": "ListItem", "position": 8, "url": "https://snakedev.github.io/healthsecrets/immune-system-guide/", "name": "Immune System Optimization Guide"},
+          {"@type": "ListItem", "position": 9, "url": "https://snakedev.github.io/healthsecrets/brain-health-resources/", "name": "Brain Health Optimization Resources"}
         ]
       }
     }
@@ -163,9 +164,12 @@ Chronic inflammation is linked to nearly every major disease. Learn how to reduc
 
 From brain fog to sleep quality to stress management — evidence-based strategies for optimizing your mental health naturally.
 
-*GitHub resources coming soon.*
+| Resource | What You Get |
+|----------|-------------|
+| **[🧠 Brain Health Optimization Resources](/healthsecrets/brain-health-resources/)** | Nootropic protocols, sleep optimization, brain fog elimination strategies, and cognitive performance tools backed by neuroscience research |
 
 **📖 On [HealthSecrets.com](https://healthsecrets.com):**
+- [Mental Wellness Guide](https://healthsecrets.com/mental-wellness/mental-wellness-guide) — Complete natural mental wellness strategies
 - [Sleep Hygiene: 15 Rules for Better Sleep](https://healthsecrets.com/mental-wellness/sleep-hygiene-rules)
 - [Brain Fog: Causes and Natural Solutions](https://healthsecrets.com/mental-wellness/brain-fog-causes-solutions)
 
@@ -212,7 +216,9 @@ We also publish **free interactive Notion pages** — checklists, supplement sta
 | 💧 Detox | [Detox Protocols](/healthsecrets/detox-protocols/) · [Lymphatic Drainage Guide](/healthsecrets/lymphatic-drainage-guide/) | [Detox Guide](https://healthsecrets.com/detox/detox-guide-evidence-based) |
 | ⏳ Longevity | [Biohacker Stack](/healthsecrets/biohacker-stack/) | [Longevity Secrets](https://healthsecrets.com/longevity/longevity-secrets-science-backed-strategies-to-live-longer) |
 | 🛡️ Immune | [Immune System Guide](/healthsecrets/immune-system-guide/) | [Immune System Guide](https://healthsecrets.com/immune-system/how-to-boost-your-immune-system-naturally-15-science-backed-strategies) |
+| 🧠 Mental Wellness | [Brain Health Resources](/healthsecrets/brain-health-resources/) | [Mental Wellness Guide](https://healthsecrets.com/mental-wellness/mental-wellness-guide) |
 | 🔥 Inflammation | *Coming soon* | [Anti-Inflammatory Guide](https://healthsecrets.com/inflammation/reduce-inflammation-naturally-complete-anti-inflammatory-guide) |
+| 🌿 Natural Remedies | *Coming soon* | [Natural Remedies Guide](https://healthsecrets.com/natural-remedies/natural-remedies-guide) |
 
 ---
 
