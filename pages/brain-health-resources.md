@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /brain-health-resources/
 title: "🧠 Brain Health Optimization Resources — Evidence-Based Protocols"
 description: "Science-backed brain health resources, nootropic protocols, sleep optimization tools, and brain fog solutions. Curated from clinical research by HealthSecrets.com."
 author: Health Secrets
@@ -326,7 +327,7 @@ Chronic stress elevates cortisol, which:
 ### Brain Stack: Beginner vs Advanced
 
 | Level | Morning | Afternoon | Evening |
-|-------|---------|-----------|----------|
+|-------|---------|-----------|---------|
 | **Beginner** | Caffeine + L-theanine, omega-3 | — | Magnesium glycinate 300mg |
 | **Intermediate** | + Creatine 5g, citicoline 250mg | Rhodiola 200mg (if stressed) | + L-theanine 200mg |
 | **Advanced** | + Lion's Mane 1g, alpha-GPC 300mg | + Bacopa 300mg (with lunch) | + Glycine 3g |
