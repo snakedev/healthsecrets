@@ -165,7 +165,7 @@ Traditional remedies backed by modern science. Find out which natural treatments
 | **[Natural Remedies Database](/healthsecrets/natural-remedies-db/)** | Evidence-graded database of 50+ herbal and natural remedies with PubMed citations, dosing protocols, safety profiles, and drug interaction warnings |
 | **[Rosacea Natural Care](/healthsecrets/rosacea-natural-care/)** | Trigger database, evidence-graded natural treatments, skincare ingredient safety ratings, and anti-inflammatory protocols for rosacea management |
 | **[Bronchitis Natural Remedies](/healthsecrets/bronchitis-natural-remedies/)** | Steam inhalation protocols, herbal tea database, honey dosing by age, supplement stacks, and day-by-day recovery timeline |
-| **[Nausea Remedies Protocols](/healthsecrets/nausea-remedies-protocols/)** | Evidence-based nausea relief protocols: ginger dosing by cause, P6 acupressure technique, peppermint aromatherapy, and vitamin B6 for pregnancy |
+| **[Nausea Remedies Protocols](/healthsecrets/nausea-remedies-protocols/)** | Evidence-based nausea remedy protocols: ginger dosing by cause, P6 acupressure technique, peppermint aromatherapy, vitamin B6, and remedy comparisons |
 
 ---
 
@@ -180,7 +180,7 @@ Traditional remedies backed by modern science. Find out which natural treatments
 | Immune | [Immune System Guide](/healthsecrets/immune-system-guide/) - [Immune Recipes](/healthsecrets/immune-nutrition-recipes/) | [Immune System Guide](https://healthsecrets.com/immune-system/how-to-boost-your-immune-system-naturally-15-science-backed-strategies) |
 | Inflammation | [Anti-Inflammation Toolkit](/healthsecrets/anti-inflammation-toolkit/) - [Headache Relief](/healthsecrets/natural-headache-relief/) | [Anti-Inflammatory Guide](https://healthsecrets.com/inflammation/reduce-inflammation-naturally-complete-anti-inflammatory-guide) |
 | Mental Wellness | [Brain Health Resources](/healthsecrets/brain-health-resources/) - [Anxiety Relief](/healthsecrets/anxiety-relief-toolkit/) | [Mental Wellness Guide](https://healthsecrets.com/mental-wellness/mental-wellness-guide) |
-| Natural Remedies | [Natural Remedies DB](/healthsecrets/natural-remedies-db/) - [Rosacea Care](/healthsecrets/rosacea-natural-care/) - [Bronchitis](/healthsecrets/bronchitis-natural-remedies/) - [Nausea Protocols](/healthsecrets/nausea-remedies-protocols/) | [Natural Remedies Guide](https://healthsecrets.com/natural-remedies/natural-remedies-guide) |
+| Natural Remedies | [Natural Remedies DB](/healthsecrets/natural-remedies-db/) - [Rosacea Care](/healthsecrets/rosacea-natural-care/) - [Bronchitis](/healthsecrets/bronchitis-natural-remedies/) - [Nausea Remedies](/healthsecrets/nausea-remedies-protocols/) | [Natural Remedies Guide](https://healthsecrets.com/natural-remedies/natural-remedies-guide) |
 
 ---
 
