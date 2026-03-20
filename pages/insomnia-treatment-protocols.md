@@ -574,6 +574,8 @@ Verdict: Below 85% → sleep restriction or maintain current window
 
 ## Free Tools & Checklists
 
+📋 **Free Tools:** Download our [😴 CBT-I Sleep Restriction & Insomnia Type Tracker](https://www.notion.so/dedd31fbe5cc4bdb8290a89b4d7d9492)
+
 📖 **Full guide on [HealthSecrets.com](https://healthsecrets.com):**
 - [Insomnia Types and Natural Treatments](https://healthsecrets.com/natural-remedies/insomnia-types-treatments) — Comprehensive insomnia guide with CBT-I protocols, product reviews, and step-by-step action plans
 
