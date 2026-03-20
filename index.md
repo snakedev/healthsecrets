@@ -52,8 +52,8 @@ author: Health Secrets
           {"@type": "ListItem", "position": 16, "url": "https://snakedev.github.io/healthsecrets/anxiety-relief-toolkit/", "name": "Anxiety Relief Toolkit"},
           {"@type": "ListItem", "position": 17, "url": "https://snakedev.github.io/healthsecrets/gut-health-meal-plan-resources/", "name": "Gut Health Meal Plan Resources"},
           {"@type": "ListItem", "position": 18, "url": "https://snakedev.github.io/healthsecrets/omega-3-brain-health-guide/", "name": "Omega-3 Brain Health Resources"},
-          {"@type": "ListItem", "position": 19, "url": "https://snakedev.github.io/healthsecrets/evidence-based-glutathione/", "name": "Evidence-Based Glutathione"},
-          {"@type": "ListItem", "position": 20, "url": "https://snakedev.github.io/healthsecrets/evidence-based-telomere-health/", "name": "Evidence-Based Telomere Health Resources"}
+          {"@type": "ListItem", "position": 19, "url": "https://snakedev.github.io/healthsecrets/supplement-myths-fact-checker/", "name": "Supplement Myths Fact-Checker"},
+          {"@type": "ListItem", "position": 20, "url": "https://snakedev.github.io/healthsecrets/evidence-based-glutathione/", "name": "Evidence-Based Glutathione"}
         ]
       }
     }
@@ -98,6 +98,7 @@ Cut through the noise. Find out which supplements have real evidence behind them
 | Resource | What You Get |
 |----------|-------------|
 | **[Evidence-Based Supplements Database](/healthsecrets/evidence-based-supplements/)** | A-to-D graded supplement database, dosing protocols, interaction checker, and goal-based stacks (immune, cognitive, longevity, sleep) |
+| **[Supplement Myths Fact-Checker](/healthsecrets/supplement-myths-fact-checker/)** | Myth-by-myth evidence database with toxicity thresholds, interaction risk matrix, and third-party testing certifications |
 
 ---
 
@@ -109,7 +110,7 @@ Forget juice cleanses — real detoxification is about supporting your liver, ki
 |----------|-------------|
 | **[Evidence-Based Detox Protocols](/healthsecrets/detox-protocols/)** | Liver detox phases (Phase I/II/III), 28-day liver support protocol, heavy metal chelation strategies, and gut detox support |
 | **[Lymphatic Drainage Guide](/healthsecrets/lymphatic-drainage-guide/)** | Dry brushing patterns, self-lymphatic massage sequences, rebounding protocols, contrast hydrotherapy, and morning/evening routines |
-| **[Evidence-Based Glutathione](/healthsecrets/evidence-based-glutathione/)** | Supplement forms comparison, NAC vs direct GSH, precursor stacking protocols, dosing guides by health goal, and curated PubMed research |
+| **[Evidence-Based Glutathione](/healthsecrets/evidence-based-glutathione/)** | Glutathione supplement evidence, dosing protocols, form comparisons, precursor stacks, and curated PubMed research |
 
 ---
 
@@ -120,7 +121,6 @@ What does the science actually say about living longer? Protocols, biomarkers, a
 | Resource | What You Get |
 |----------|-------------|
 | **[Biohacker Stack: Longevity Protocols](/healthsecrets/biohacker-stack/)** | NAD+ optimization, sleep architecture, longevity biomarker panels, nootropic stacks, fasting protocols, and weekly frameworks |
-| **[Evidence-Based Telomere Health](/healthsecrets/evidence-based-telomere-health/)** | Telomere science protocols, Dean Ornish study data, exercise and stress management protocols, supplement guides, and curated PubMed research on telomere lengthening |
 
 ---
 
@@ -178,9 +178,9 @@ Traditional remedies backed by modern science. Find out which natural treatments
 | Pillar | GitHub Resource | HealthSecrets.com Guide |
 |--------|----------------|------------------------|
 | Gut Health | [Awesome Gut Health](/healthsecrets/awesome-gut-health/) - [Bloating Relief](/healthsecrets/bloating-relief-protocol/) - [Gut Detox](/healthsecrets/gut-detox-protocol/) - [Meal Plan](/healthsecrets/gut-health-meal-plan-resources/) | [Complete Gut Health Guide](https://healthsecrets.com/gut-health/complete-guide-gut-health) |
-| Supplements | [Supplements Database](/healthsecrets/evidence-based-supplements/) | [Supplements Guide](https://healthsecrets.com/supplements/supplements-guide-evidence-based) |
+| Supplements | [Supplements Database](/healthsecrets/evidence-based-supplements/) - [Myths Fact-Checker](/healthsecrets/supplement-myths-fact-checker/) | [Supplements Guide](https://healthsecrets.com/supplements/supplements-guide-evidence-based) |
 | Detox | [Detox Protocols](/healthsecrets/detox-protocols/) - [Lymphatic Drainage](/healthsecrets/lymphatic-drainage-guide/) - [Glutathione](/healthsecrets/evidence-based-glutathione/) | [Detox Guide](https://healthsecrets.com/detox/detox-guide-evidence-based) |
-| Longevity | [Biohacker Stack](/healthsecrets/biohacker-stack/) - [Telomere Health](/healthsecrets/evidence-based-telomere-health/) | [Longevity Secrets](https://healthsecrets.com/longevity/longevity-secrets-science-backed-strategies-to-live-longer) |
+| Longevity | [Biohacker Stack](/healthsecrets/biohacker-stack/) | [Longevity Secrets](https://healthsecrets.com/longevity/longevity-secrets-science-backed-strategies-to-live-longer) |
 | Immune | [Immune System Guide](/healthsecrets/immune-system-guide/) - [Immune Recipes](/healthsecrets/immune-nutrition-recipes/) | [Immune System Guide](https://healthsecrets.com/immune-system/how-to-boost-your-immune-system-naturally-15-science-backed-strategies) |
 | Inflammation | [Anti-Inflammation Toolkit](/healthsecrets/anti-inflammation-toolkit/) - [Headache Relief](/healthsecrets/natural-headache-relief/) | [Anti-Inflammatory Guide](https://healthsecrets.com/inflammation/reduce-inflammation-naturally-complete-anti-inflammatory-guide) |
 | Mental Wellness | [Brain Health Resources](/healthsecrets/brain-health-resources/) - [Anxiety Relief](/healthsecrets/anxiety-relief-toolkit/) - [Omega-3 Guide](/healthsecrets/omega-3-brain-health-guide/) | [Mental Wellness Guide](https://healthsecrets.com/mental-wellness/mental-wellness-guide) |
@@ -194,8 +194,7 @@ We welcome contributions! See each resource page for specific contribution guide
 
 1. Be backed by peer-reviewed research (PubMed, Cochrane, NIH preferred)
 2. Include evidence grades and citations
-3. No supplement marketing materials
-4. Submit a PR with a brief description
+3. Follow our [contribution standards](/healthsecrets/awesome-gut-health/#contributing)
 
 ---
 
