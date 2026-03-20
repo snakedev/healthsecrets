@@ -1,0 +1,62 @@
+name: Fix missing permalinks
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/fix-permalinks.yml']
+
+permissions:
+  contents: write
+
+jobs:
+  fix-permalinks:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Add missing permalinks to page files
+        run: |
+          slugs=(
+            "lymphatic-drainage-guide"
+            "anti-inflammation-toolkit"
+            "anxiety-relief-toolkit"
+            "brain-health-resources"
+            "bronchitis-natural-remedies"
+            "gut-detox-protocol"
+            "immune-nutrition-recipes"
+            "immune-system-guide"
+            "natural-headache-relief"
+            "natural-remedies-db"
+            "rosacea-natural-care"
+          )
+
+          changed=0
+          for slug in "${slugs[@]}"; do
+            file="pages/${slug}.md"
+            if [ -f "$file" ] && ! grep -q "^permalink:" "$file"; then
+              sed -i "/^layout: default$/a permalink: /${slug}/" "$file"
+              echo "✅ Added permalink: /${slug}/ to $file"
+              changed=$((changed + 1))
+            else
+              echo "⏭️ Skipping $file (already has permalink or doesn't exist)"
+            fi
+          done
+          echo "Fixed $changed files"
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add pages/
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "fix: Add missing permalink to 11 page files (fixes 404s)
+
+            Adds permalink: /{slug}/ to front matter of 11 pages that were
+            defaulting to /pages/{slug}/ instead of /{slug}/, causing 404 errors
+            at the URLs listed on the homepage."
+            git push
+            echo "✅ Changes pushed successfully"
+          fi
