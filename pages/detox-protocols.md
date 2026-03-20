@@ -3,9 +3,40 @@ layout: default
 title: "Evidence-Based Detox Protocols"
 description: "Evidence-based detoxification protocols including liver detox phases, heavy metal chelation, and gut detox support"
 keywords: "detox, liver detox, heavy metals, chelation, evidence-based detox"
-author: HealthSecrets
+author: Health Secrets
 permalink: /detox-protocols/
 ---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "Evidence-Based Detox Protocols",
+      "description": "Evidence-based detoxification protocols including liver detox phases, heavy metal chelation, and gut detox support",
+      "url": "https://snakedev.github.io/healthsecrets/detox-protocols/",
+      "datePublished": "2026-03-19",
+      "dateModified": "2026-03-20",
+      "author": {"@type": "Organization", "name": "Health Secrets", "url": "https://healthsecrets.com"},
+      "publisher": {"@type": "Organization", "name": "Health Secrets", "url": "https://healthsecrets.com"},
+      "mainEntityOfPage": {"@type": "WebPage", "@id": "https://snakedev.github.io/healthsecrets/detox-protocols/"},
+      "about": [
+        {"@type": "Thing", "name": "Detoxification"},
+        {"@type": "Thing", "name": "Liver Health"},
+        {"@type": "Thing", "name": "Heavy Metal Chelation"}
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Health Secrets", "item": "https://snakedev.github.io/healthsecrets/"},
+        {"@type": "ListItem", "position": 2, "name": "Evidence-Based Detox Protocols", "item": "https://snakedev.github.io/healthsecrets/detox-protocols/"}
+      ]
+    }
+  ]
+}
+</script>
 
 [← Back to all resources](/healthsecrets/)
 
@@ -63,7 +94,8 @@ Your liver processes toxins through three biochemical phases:
 ### Phase III — Elimination (Transport)
 
 | Route | Requirements | Supporting Actions |
-|-------|-------------|--------------------|n| **Bile → Gut → Feces** | Healthy bile flow, adequate fiber | Bitter foods, fiber (25-35g/day), healthy gut |
+|-------|--------------|--------------------|
+| **Bile → Gut → Feces** | Healthy bile flow, adequate fiber | Bitter foods, fiber (25-35g/day), healthy gut |
 | **Blood → Kidneys → Urine** | Adequate hydration | 2+ liters water daily |
 | **Sweat** | Functional sweat glands | Exercise, sauna (infrared) |
 
@@ -234,9 +266,9 @@ This repository is for educational purposes only. The information provided does 
 
 ## Further Reading
 
-- 📖 [Evidence-Based Detox Guide — HealthSecrets](https://healthsecrets.com/detox/detox-guide-evidence-based)
-- 📖 [Liver Detox: Natural Support — HealthSecrets](https://healthsecrets.com/detox/liver-detox-naturally)
-- 📖 [Milk Thistle for Liver Health — HealthSecrets](https://healthsecrets.com/supplements/milk-thistle-liver-health)
-- 📖 [Heavy Metal Detox: Safe Chelation — HealthSecrets](https://healthsecrets.com/detox/heavy-metal-detox-chelation)
+- 📖 [Evidence-Based Detox Guide — Health Secrets](https://healthsecrets.com/detox/detox-guide-evidence-based)
+- 📖 [Liver Detox: Natural Support — Health Secrets](https://healthsecrets.com/detox/liver-detox-naturally)
+- 📖 [Milk Thistle for Liver Health — Health Secrets](https://healthsecrets.com/supplements/milk-thistle-liver-health)
+- 📖 [Heavy Metal Detox: Safe Chelation — Health Secrets](https://healthsecrets.com/detox/heavy-metal-detox-chelation)
 - 📖 [Awesome Gut Health](/healthsecrets/awesome-gut-health/) — Gut-liver axis resources
 - 📖 [Evidence-Based Supplements](/healthsecrets/evidence-based-supplements/) — Supplement database
