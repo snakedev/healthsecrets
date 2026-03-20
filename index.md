@@ -40,7 +40,8 @@ author: Health Secrets
           {"@type": "ListItem", "position": 4, "url": "https://snakedev.github.io/healthsecrets/detox-protocols/", "name": "Evidence-Based Detox Protocols"},
           {"@type": "ListItem", "position": 5, "url": "https://snakedev.github.io/healthsecrets/gut-detox-protocol/", "name": "Gut Detox Protocol"},
           {"@type": "ListItem", "position": 6, "url": "https://snakedev.github.io/healthsecrets/lymphatic-drainage-guide/", "name": "Lymphatic Drainage Guide"},
-          {"@type": "ListItem", "position": 7, "url": "https://snakedev.github.io/healthsecrets/biohacker-stack/", "name": "Biohacker Stack: Longevity Protocols"}
+          {"@type": "ListItem", "position": 7, "url": "https://snakedev.github.io/healthsecrets/biohacker-stack/", "name": "Biohacker Stack: Longevity Protocols"},
+          {"@type": "ListItem", "position": 8, "url": "https://snakedev.github.io/healthsecrets/immune-system-guide/", "name": "Immune System Optimization Guide"}
         ]
       }
     }
@@ -108,6 +109,8 @@ Forget juice cleanses — real detoxification is about supporting your liver, ki
 | **[💧 Evidence-Based Detox Protocols](/healthsecrets/detox-protocols/)** | Liver detox phases (Phase I/II/III), 28-day liver support protocol, heavy metal chelation strategies, and gut detox support |
 | **[💧 Lymphatic Drainage Guide](/healthsecrets/lymphatic-drainage-guide/)** | Dry brushing patterns, self-lymphatic massage sequences, rebounding protocols, contrast hydrotherapy, and morning/evening routines |
 
+📋 **Free Tools:** Download our [🫀 Liver Detox Support Protocol](https://healthsecrets.notion.site) and [⚠️ Heavy Metal Detox Safety Checklist](https://healthsecrets.notion.site) — free interactive detox guides.
+
 **📖 Deep dives on [HealthSecrets.com](https://healthsecrets.com):**
 - [Evidence-Based Detox Guide](https://healthsecrets.com/detox/detox-guide-evidence-based) — The science of detoxification
 - [Lymphatic Drainage Support](https://healthsecrets.com/detox/lymphatic-drainage-support) — Complete lymphatic drainage article
@@ -133,10 +136,15 @@ What does the science actually say about living longer? Protocols, biomarkers, a
 
 Strengthen your natural defenses with evidence-based strategies — from nutrition and supplements to lifestyle habits.
 
-*GitHub resources coming soon.*
+| Resource | What You Get |
+|----------|-------------|
+| **[🛡️ Immune System Optimization Guide](/healthsecrets/immune-system-guide/)** | Essential immune nutrients, evidence-based supplement protocols, garlic & allicin research, seasonal immune strategies, and daily optimization routines |
 
-**📖 On [HealthSecrets.com](https://healthsecrets.com):**
+📋 **Free Tools:** Download our [🛡️ Immune System Daily Checklist](https://healthsecrets.notion.site) and [🧄 Garlic for Immunity Quick Reference](https://healthsecrets.notion.site) — free interactive immune tools.
+
+**📖 Deep dives on [HealthSecrets.com](https://healthsecrets.com):**
 - [How to Boost Your Immune System Naturally](https://healthsecrets.com/immune-system/how-to-boost-your-immune-system-naturally-15-science-backed-strategies) — 15 science-backed strategies
+- [Garlic for Immune Health](https://healthsecrets.com/immune-system/garlic-immune-health) — Complete allicin research and dosing guide
 
 ---
 
@@ -184,7 +192,12 @@ We also publish **free interactive Notion pages** — checklists, supplement sta
 | **🦠 30-Day Gut Reset Checklist** | Day-by-day 4R protocol with trackable checkboxes for each phase |
 | **💊 Evidence-Based Supplement Stack Builder** | Goal-based stacks with dosing tables, interaction checkers, and quality checklists |
 | **💧 7-Day Detox Meal Plan Template** | Structured meal plan supporting liver and gut detox |
+| **🫀 Liver Detox Support Protocol** | Daily supplement schedule, food lists, and 28-day protocol |
+| **⚠️ Heavy Metal Detox Safety Checklist** | Testing options, safe chelation methods, red flags, and exposure reduction guide |
+| **🌱 Milk Thistle & Liver Supplement Guide** | Form comparison, dosing by goal, quality checklist, and complementary stack |
 | **🦠 Probiotic Strain Guide & Comparison Chart** | Compare probiotic strains by condition, evidence grade, and dose |
+| **🛡️ Immune System Daily Checklist** | Morning-to-evening immune optimization routine with supplement timing and food guides |
+| **🧄 Garlic for Immunity Quick Reference** | Form comparison, dosing protocols, the 10-minute rule, and recipe ideas |
 
 → [Browse all free tools on Notion](https://healthsecrets.notion.site)
 
@@ -198,7 +211,7 @@ We also publish **free interactive Notion pages** — checklists, supplement sta
 | 💊 Supplements | [Supplements Database](/healthsecrets/evidence-based-supplements/) | [Supplements Guide](https://healthsecrets.com/supplements/supplements-guide-evidence-based) |
 | 💧 Detox | [Detox Protocols](/healthsecrets/detox-protocols/) · [Lymphatic Drainage Guide](/healthsecrets/lymphatic-drainage-guide/) | [Detox Guide](https://healthsecrets.com/detox/detox-guide-evidence-based) |
 | ⏳ Longevity | [Biohacker Stack](/healthsecrets/biohacker-stack/) | [Longevity Secrets](https://healthsecrets.com/longevity/longevity-secrets-science-backed-strategies-to-live-longer) |
-| 🛡️ Immune | *Coming soon* | [Immune System Guide](https://healthsecrets.com/immune-system/how-to-boost-your-immune-system-naturally-15-science-backed-strategies) |
+| 🛡️ Immune | [Immune System Guide](/healthsecrets/immune-system-guide/) | [Immune System Guide](https://healthsecrets.com/immune-system/how-to-boost-your-immune-system-naturally-15-science-backed-strategies) |
 | 🔥 Inflammation | *Coming soon* | [Anti-Inflammatory Guide](https://healthsecrets.com/inflammation/reduce-inflammation-naturally-complete-anti-inflammatory-guide) |
 
 ---
