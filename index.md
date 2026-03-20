@@ -38,7 +38,9 @@ author: Health Secrets
           {"@type": "ListItem", "position": 2, "url": "https://snakedev.github.io/healthsecrets/bloating-relief-protocol/", "name": "Bloating Relief Protocol"},
           {"@type": "ListItem", "position": 3, "url": "https://snakedev.github.io/healthsecrets/evidence-based-supplements/", "name": "Evidence-Based Supplements Database"},
           {"@type": "ListItem", "position": 4, "url": "https://snakedev.github.io/healthsecrets/detox-protocols/", "name": "Evidence-Based Detox Protocols"},
-          {"@type": "ListItem", "position": 5, "url": "https://snakedev.github.io/healthsecrets/biohacker-stack/", "name": "Biohacker Stack: Longevity Protocols"}
+          {"@type": "ListItem", "position": 5, "url": "https://snakedev.github.io/healthsecrets/gut-detox-protocol/", "name": "Gut Detox Protocol"},
+          {"@type": "ListItem", "position": 6, "url": "https://snakedev.github.io/healthsecrets/lymphatic-drainage-guide/", "name": "Lymphatic Drainage Guide"},
+          {"@type": "ListItem", "position": 7, "url": "https://snakedev.github.io/healthsecrets/biohacker-stack/", "name": "Biohacker Stack: Longevity Protocols"}
         ]
       }
     }
@@ -71,12 +73,14 @@ Your gut microbiome influences digestion, immunity, mood, and metabolism. These 
 |----------|-------------|
 | **[🦠 Awesome Gut Health Resources](/healthsecrets/awesome-gut-health/)** | Curated research papers, probiotic strain database, the 4R healing protocol, gut-brain axis research, and practical tools |
 | **[🦠 Bloating Relief Protocol](/healthsecrets/bloating-relief-protocol/)** | Evidence-graded natural remedies, trigger food database, elimination protocols, and supplement stacks for bloating relief |
+| **[🦠 Gut Detox Protocol](/healthsecrets/gut-detox-protocol/)** | 7-day step-by-step digestive reset with elimination diet, supplement dosing tables, daily food lists, and reintroduction schedule |
 
 📋 **Free Tools:** Download our [💨 Bloating Relief & Food Diary](https://healthsecrets.notion.site) — a free, interactive food diary and symptom tracker based on this research.
 
 **📖 Deep dives on [HealthSecrets.com](https://healthsecrets.com):**
 - [The Complete Guide to Gut Health](https://healthsecrets.com/gut-health/complete-guide-gut-health) — Microbiome science, protocols, and product recommendations
 - [Bloating Relief: Natural Remedies That Work](https://healthsecrets.com/gut-health/bloating-relief-natural) — Evidence-based natural solutions for gas and bloating
+- [Gut Detox Protocol](https://healthsecrets.com/detox/gut-detox-protocol) — Complete gut detox article with research citations and FAQ
 
 ---
 
@@ -102,9 +106,11 @@ Forget juice cleanses — real detoxification is about supporting your liver, ki
 | Resource | What You Get |
 |----------|-------------|
 | **[💧 Evidence-Based Detox Protocols](/healthsecrets/detox-protocols/)** | Liver detox phases (Phase I/II/III), 28-day liver support protocol, heavy metal chelation strategies, and gut detox support |
+| **[💧 Lymphatic Drainage Guide](/healthsecrets/lymphatic-drainage-guide/)** | Dry brushing patterns, self-lymphatic massage sequences, rebounding protocols, contrast hydrotherapy, and morning/evening routines |
 
 **📖 Deep dives on [HealthSecrets.com](https://healthsecrets.com):**
 - [Evidence-Based Detox Guide](https://healthsecrets.com/detox/detox-guide-evidence-based) — The science of detoxification
+- [Lymphatic Drainage Support](https://healthsecrets.com/detox/lymphatic-drainage-support) — Complete lymphatic drainage article
 - [Milk Thistle & Liver Health](https://healthsecrets.com/supplements/milk-thistle-liver-health) — Liver support supplementation
 
 ---
@@ -188,9 +194,9 @@ We also publish **free interactive Notion pages** — checklists, supplement sta
 
 | Pillar | GitHub Resource | HealthSecrets.com Guide |
 |--------|----------------|------------------------|
-| 🦠 Gut Health | [Awesome Gut Health](/healthsecrets/awesome-gut-health/) · [Bloating Relief Protocol](/healthsecrets/bloating-relief-protocol/) | [Complete Gut Health Guide](https://healthsecrets.com/gut-health/complete-guide-gut-health) |
+| 🦠 Gut Health | [Awesome Gut Health](/healthsecrets/awesome-gut-health/) · [Bloating Relief Protocol](/healthsecrets/bloating-relief-protocol/) · [Gut Detox Protocol](/healthsecrets/gut-detox-protocol/) | [Complete Gut Health Guide](https://healthsecrets.com/gut-health/complete-guide-gut-health) |
 | 💊 Supplements | [Supplements Database](/healthsecrets/evidence-based-supplements/) | [Supplements Guide](https://healthsecrets.com/supplements/supplements-guide-evidence-based) |
-| 💧 Detox | [Detox Protocols](/healthsecrets/detox-protocols/) | [Detox Guide](https://healthsecrets.com/detox/detox-guide-evidence-based) |
+| 💧 Detox | [Detox Protocols](/healthsecrets/detox-protocols/) · [Lymphatic Drainage Guide](/healthsecrets/lymphatic-drainage-guide/) | [Detox Guide](https://healthsecrets.com/detox/detox-guide-evidence-based) |
 | ⏳ Longevity | [Biohacker Stack](/healthsecrets/biohacker-stack/) | [Longevity Secrets](https://healthsecrets.com/longevity/longevity-secrets-science-backed-strategies-to-live-longer) |
 | 🛡️ Immune | *Coming soon* | [Immune System Guide](https://healthsecrets.com/immune-system/how-to-boost-your-immune-system-naturally-15-science-backed-strategies) |
 | 🔥 Inflammation | *Coming soon* | [Anti-Inflammatory Guide](https://healthsecrets.com/inflammation/reduce-inflammation-naturally-complete-anti-inflammatory-guide) |
