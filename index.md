@@ -51,7 +51,8 @@ author: Health Secrets
           {"@type": "ListItem", "position": 15, "url": "https://snakedev.github.io/healthsecrets/natural-headache-relief/", "name": "Natural Headache Relief"},
           {"@type": "ListItem", "position": 16, "url": "https://snakedev.github.io/healthsecrets/anxiety-relief-toolkit/", "name": "Anxiety Relief Toolkit"},
           {"@type": "ListItem", "position": 17, "url": "https://snakedev.github.io/healthsecrets/gut-health-meal-plan-resources/", "name": "Gut Health Meal Plan Resources"},
-          {"@type": "ListItem", "position": 18, "url": "https://snakedev.github.io/healthsecrets/evidence-based-probiotics/", "name": "Evidence-Based Probiotics Resource Hub"}
+          {"@type": "ListItem", "position": 18, "url": "https://snakedev.github.io/healthsecrets/evidence-based-probiotics/", "name": "Evidence-Based Probiotics Resource Hub"},
+          {"@type": "ListItem", "position": 19, "url": "https://snakedev.github.io/healthsecrets/evidence-based-protein-supplements/", "name": "Evidence-Based Protein Supplements"}
         ]
       }
     }
@@ -97,6 +98,7 @@ Cut through the noise. Find out which supplements have real evidence behind them
 | Resource | What You Get |
 |----------|-------------|
 | **[Evidence-Based Supplements Database](/healthsecrets/evidence-based-supplements/)** | A-to-D graded supplement database, dosing protocols, interaction checker, and goal-based stacks (immune, cognitive, longevity, sleep) |
+| **[Evidence-Based Protein Supplements](/healthsecrets/evidence-based-protein-supplements/)** | PDCAAS/DIAAS quality scores, 11-type protein comparison database, dosing calculator by goal, timing protocols, and quality checklist |
 
 ---
 
@@ -174,7 +176,7 @@ Traditional remedies backed by modern science. Find out which natural treatments
 | Pillar | GitHub Resource | HealthSecrets.com Guide |
 |--------|----------------|------------------------|
 | Gut Health | [Awesome Gut Health](/healthsecrets/awesome-gut-health/) - [Bloating Relief](/healthsecrets/bloating-relief-protocol/) - [Gut Detox](/healthsecrets/gut-detox-protocol/) - [Meal Plan](/healthsecrets/gut-health-meal-plan-resources/) - [Probiotics Hub](/healthsecrets/evidence-based-probiotics/) | [Complete Gut Health Guide](https://healthsecrets.com/gut-health/complete-guide-gut-health) |
-| Supplements | [Supplements Database](/healthsecrets/evidence-based-supplements/) | [Supplements Guide](https://healthsecrets.com/supplements/supplements-guide-evidence-based) |
+| Supplements | [Supplements Database](/healthsecrets/evidence-based-supplements/) - [Protein Supplements](/healthsecrets/evidence-based-protein-supplements/) | [Supplements Guide](https://healthsecrets.com/supplements/supplements-guide-evidence-based) |
 | Detox | [Detox Protocols](/healthsecrets/detox-protocols/) - [Lymphatic Drainage](/healthsecrets/lymphatic-drainage-guide/) | [Detox Guide](https://healthsecrets.com/detox/detox-guide-evidence-based) |
 | Longevity | [Biohacker Stack](/healthsecrets/biohacker-stack/) | [Longevity Secrets](https://healthsecrets.com/longevity/longevity-secrets-science-backed-strategies-to-live-longer) |
 | Immune | [Immune System Guide](/healthsecrets/immune-system-guide/) - [Immune Recipes](/healthsecrets/immune-nutrition-recipes/) | [Immune System Guide](https://healthsecrets.com/immune-system/how-to-boost-your-immune-system-naturally-15-science-backed-strategies) |
