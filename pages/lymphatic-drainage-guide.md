@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /lymphatic-drainage-guide/
 title: "Lymphatic Drainage Guide: Techniques, Protocols & Daily Routines"
 description: "Complete guide to lymphatic drainage techniques including dry brushing, self-massage, rebounding, and deep breathing. Step-by-step protocols with morning and evening routines."
 author: Health Secrets
