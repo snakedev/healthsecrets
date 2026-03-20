@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /immune-nutrition-recipes/
 title: "Immune Nutrition Recipes — Evidence-Based Meals to Strengthen Immunity"
 description: "A curated database of 15+ immune-boosting recipes organized by meal type, with nutrient breakdowns mapping each recipe to immune-supporting compounds like vitamin C, zinc, selenium, and omega-3. Backed by nutrition science from HealthSecrets.com."
 author: Health Secrets
@@ -90,7 +91,8 @@ Your immune system requires a constant supply of specific nutrients to function 
 **Prep time:** 10 min | **Immune nutrients:** Vitamin C, Zinc, Selenium, Prebiotic Fiber, Vitamin E
 
 | Ingredient | Amount | Key Immune Nutrient |
-|-----------|--------|--------------------|n| Frozen mixed berries | 1.5 cups | Vitamin C, anthocyanins |
+|-----------|--------|-------------------|
+| Frozen mixed berries | 1.5 cups | Vitamin C, anthocyanins |
 | Baby spinach | 1 cup | Vitamin A, folate |
 | Banana (frozen) | 1 medium | Prebiotic fiber |
 | Plain kefir or yogurt | 0.5 cup | Probiotics |
@@ -111,7 +113,8 @@ Your immune system requires a constant supply of specific nutrients to function 
 **Prep time:** 15 min | **Immune nutrients:** Beta-glucan, Vitamin A, Prebiotic Fiber
 
 | Ingredient | Amount | Key Immune Nutrient |
-|-----------|--------|--------------------|n| Steel-cut oats | 0.5 cup | Beta-glucan |
+|-----------|--------|-------------------|
+| Steel-cut oats | 0.5 cup | Beta-glucan |
 | Unsweetened almond milk | 1 cup | Vitamin E |
 | Ground turmeric | 1 tsp | Curcumin |
 | Black pepper | Pinch | Piperine (enhances curcumin 2,000%) [11] |
@@ -128,7 +131,8 @@ Your immune system requires a constant supply of specific nutrients to function 
 **Prep time:** 15 min | **Immune nutrients:** Allicin, Beta-glucan, Vitamin D, Selenium, Zinc
 
 | Ingredient | Amount | Key Immune Nutrient |
-|-----------|--------|--------------------|n| Eggs (pasture-raised) | 3 large | Vitamin D, selenium, zinc |
+|-----------|--------|-------------------|
+| Eggs (pasture-raised) | 3 large | Vitamin D, selenium, zinc |
 | Shiitake mushrooms | 1 cup | Beta-glucan, vitamin D |
 | Garlic (crushed, rested 10 min) | 3 cloves | Allicin [9] |
 | Baby spinach | 2 cups | Vitamin A, vitamin C |
@@ -147,7 +151,8 @@ Your immune system requires a constant supply of specific nutrients to function 
 Research shows chicken soup inhibits neutrophil migration, reducing inflammation in upper respiratory infections [12].
 
 | Ingredient | Amount | Key Immune Nutrient |
-|-----------|--------|--------------------|n| Chicken thighs (bone-in) | 1 lb | Zinc, protein, cysteine |
+|-----------|--------|-------------------|
+| Chicken thighs (bone-in) | 1 lb | Zinc, protein, cysteine |
 | Garlic (crushed, rested) | 6 cloves | Allicin |
 | Onion (diced) | 1 large | Quercetin, prebiotic fiber |
 | Carrots | 3 medium | Vitamin A |
@@ -166,7 +171,8 @@ Research shows chicken soup inhibits neutrophil migration, reducing inflammation
 **Prep time:** 20 min | **Immune nutrients:** Omega-3, Vitamin D, Selenium, Zinc
 
 | Ingredient | Amount | Key Immune Nutrient |
-|-----------|--------|--------------------|n| Wild salmon (sushi-grade) | 6 oz | Omega-3 (1,500mg EPA/DHA), vitamin D, selenium |
+|-----------|--------|-------------------|
+| Wild salmon (sushi-grade) | 6 oz | Omega-3 (1,500mg EPA/DHA), vitamin D, selenium |
 | Brown rice (cooked) | 1 cup | Selenium, fiber |
 | Avocado | 0.5 | Vitamin E |
 | Edamame | 0.5 cup | Zinc, protein |
@@ -182,7 +188,8 @@ Research shows chicken soup inhibits neutrophil migration, reducing inflammation
 **Prep time:** 15 min | **Cook time:** 25 min | **Immune nutrients:** Zinc, Prebiotic Fiber, Vitamin C, Vitamin A
 
 | Ingredient | Amount | Key Immune Nutrient |
-|-----------|--------|--------------------|n| Green or brown lentils | 1 cup (dry) | Zinc, selenium, prebiotic fiber |
+|-----------|--------|-------------------|
+| Green or brown lentils | 1 cup (dry) | Zinc, selenium, prebiotic fiber |
 | Cherry tomatoes | 1 cup | Vitamin C, lycopene |
 | Baby kale | 2 cups | Vitamin A, vitamin C |
 | Red bell pepper (roasted) | 1 whole | Vitamin C (169% DV) |
@@ -202,7 +209,8 @@ Research shows chicken soup inhibits neutrophil migration, reducing inflammation
 **Prep time:** 15 min | **Cook time:** 25 min | **Immune nutrients:** Omega-3, Allicin, Vitamin A, Vitamin D
 
 | Ingredient | Amount | Key Immune Nutrient |
-|-----------|--------|--------------------|n| Wild salmon fillets | 2 (6 oz each) | Omega-3, vitamin D, selenium |
+|-----------|--------|-------------------|
+| Wild salmon fillets | 2 (6 oz each) | Omega-3, vitamin D, selenium |
 | Garlic (minced, rested 10 min) | 4 cloves | Allicin |
 | Fresh ginger (grated) | 1 tbsp | Gingerols |
 | Sweet potatoes (cubed) | 2 medium | Vitamin A |
@@ -219,7 +227,8 @@ Research shows chicken soup inhibits neutrophil migration, reducing inflammation
 **Prep time:** 15 min | **Cook time:** 35 min | **Immune nutrients:** Zinc, Selenium, Vitamin C, Prebiotic Fiber, Allicin
 
 | Ingredient | Amount | Key Immune Nutrient |
-|-----------|--------|--------------------|n| Ground turkey | 1 lb | Zinc, selenium |
+|-----------|--------|-------------------|
+| Ground turkey | 1 lb | Zinc, selenium |
 | Kidney beans | 1 can | Zinc, prebiotic fiber |
 | Black beans | 1 can | Zinc, iron |
 | Chickpeas | 1 can | Zinc, selenium |
@@ -241,7 +250,8 @@ Research shows chicken soup inhibits neutrophil migration, reducing inflammation
 Shiitake and maitake mushrooms contain different beta-glucan structures that activate complementary immune pathways [10].
 
 | Ingredient | Amount | Key Immune Nutrient |
-|-----------|--------|--------------------|n| Firm tofu | 14 oz block | Zinc, selenium |
+|-----------|--------|-------------------|
+| Firm tofu | 14 oz block | Zinc, selenium |
 | Shiitake mushrooms | 2 cups | Beta-glucan (lentinan) |
 | Maitake mushrooms | 1 cup | Beta-glucan (D-fraction) |
 | Garlic (crushed, rested) | 4 cloves | Allicin |
@@ -259,7 +269,8 @@ Shiitake and maitake mushrooms contain different beta-glucan structures that act
 ### 10. Immune Trail Mix
 
 | Ingredient | Amount | Key Immune Nutrient |
-|-----------|--------|--------------------|n| Brazil nuts | 4 | Selenium |
+|-----------|--------|-------------------|
+| Brazil nuts | 4 | Selenium |
 | Pumpkin seeds | 0.25 cup | Zinc |
 | Almonds | 0.25 cup | Vitamin E |
 | Walnuts | 0.25 cup | Omega-3 (ALA) |
@@ -310,7 +321,7 @@ Kale + green apple + celery + cucumber + ginger + lemon + fresh turmeric. Contai
 ## Nutrient Database
 
 | Recipe | Vit C | Zinc | Selenium | Omega-3 | Vit A | Vit D | Vit E | Fiber | Allicin |
-|--------|-------|------|----------|---------|-------|-------|-------|-------|---------|
+|--------|-------|------|----------|---------|-------|-------|-------|-------|---------
 | #1 Smoothie Bowl | 85mg | 3mg | 110mcg | 2g ALA | 180mcg | - | 8mg | 12g | - |
 | #2 Turmeric Oatmeal | 15mg | 2mg | 12mcg | 1.5g ALA | 25mcg | - | 6mg | 8g | - |
 | #3 Garlic Scramble | 95mg | 4mg | 45mcg | - | 350mcg | 3mcg | 3mg | 4g | High |
