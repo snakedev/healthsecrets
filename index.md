@@ -1,17 +1,57 @@
 ---
 layout: default
-title: "HealthSecrets — Evidence-Based Health Resources"
+title: "Health Secrets — Evidence-Based Health Resources"
 description: "Free, evidence-based health guides, protocols, and curated resources from HealthSecrets.com"
-author: HealthSecrets
+author: Health Secrets
 ---
 
-# 🌿 HealthSecrets — Evidence-Based Health Resources
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "name": "Health Secrets",
+      "url": "https://snakedev.github.io/healthsecrets/",
+      "description": "Free, evidence-based health guides, protocols, and curated resources",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Health Secrets",
+        "url": "https://healthsecrets.com",
+        "sameAs": ["https://healthsecrets.com", "https://github.com/snakedev/healthsecrets"]
+      }
+    },
+    {
+      "@type": "CollectionPage",
+      "name": "Health Secrets — Evidence-Based Health Resources",
+      "url": "https://snakedev.github.io/healthsecrets/",
+      "description": "Free, evidence-based health guides, protocols, and curated resources from HealthSecrets.com",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Health Secrets",
+        "url": "https://healthsecrets.com"
+      },
+      "mainEntity": {
+        "@type": "ItemList",
+        "itemListElement": [
+          {"@type": "ListItem", "position": 1, "url": "https://snakedev.github.io/healthsecrets/awesome-gut-health/", "name": "Awesome Gut Health Resources"},
+          {"@type": "ListItem", "position": 2, "url": "https://snakedev.github.io/healthsecrets/evidence-based-supplements/", "name": "Evidence-Based Supplements Database"},
+          {"@type": "ListItem", "position": 3, "url": "https://snakedev.github.io/healthsecrets/detox-protocols/", "name": "Evidence-Based Detox Protocols"},
+          {"@type": "ListItem", "position": 4, "url": "https://snakedev.github.io/healthsecrets/biohacker-stack/", "name": "Biohacker Stack: Longevity Protocols"}
+        ]
+      }
+    }
+  ]
+}
+</script>
 
-[![HealthSecrets](https://img.shields.io/badge/Visit-HealthSecrets.com-00b894?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEyIDJMMyA3djEwbDkgNSA5LTVWN2wtOS01eiIvPjwvc3ZnPg==)](https://healthsecrets.com)
+# 🌿 Health Secrets — Evidence-Based Health Resources
+
+[![HealthSecrets.com](https://img.shields.io/badge/Visit-HealthSecrets.com-00b894?style=for-the-badge)](https://healthsecrets.com)
 [![GitHub Pages](https://img.shields.io/badge/Hosted_on-GitHub_Pages-181717?style=for-the-badge&logo=github)](https://snakedev.github.io/healthsecrets/)
 [![Evidence-Based](https://img.shields.io/badge/All_Content-Evidence_Based-0984e3?style=for-the-badge)](#)
 
-Welcome to the **HealthSecrets open-source health resource hub**. Every guide, protocol, and resource below is grounded in peer-reviewed research from PubMed, Cochrane, and NIH databases.
+Welcome to the **Health Secrets open-source health resource hub**. Every guide, protocol, and resource below is grounded in peer-reviewed research from PubMed, Cochrane, and NIH databases.
 
 > **🔬 Evidence-based** — Every recommendation backed by peer-reviewed clinical trials and meta-analyses
 > **✅ Actionable** — Protocols, checklists, and supplement stacks you can start today
@@ -30,7 +70,7 @@ Your gut microbiome influences digestion, immunity, mood, and metabolism. These 
 |----------|-------------|
 | **[🦠 Awesome Gut Health Resources](/healthsecrets/awesome-gut-health/)** | Curated research papers, probiotic strain database, the 4R healing protocol, gut-brain axis research, and practical tools |
 
-**📖 Deep dives on HealthSecrets.com:**
+**📖 Deep dives on [HealthSecrets.com](https://healthsecrets.com):**
 - [The Complete Guide to Gut Health](https://healthsecrets.com/gut-health/complete-guide-gut-health) — Microbiome science, protocols, and product recommendations
 - [Bloating Relief: Natural Remedies That Work](https://healthsecrets.com/gut-health/bloating-relief-natural) — Evidence-based natural solutions for gas and bloating
 
@@ -44,7 +84,7 @@ Cut through the noise. Find out which supplements have real evidence behind them
 |----------|-------------|
 | **[💊 Evidence-Based Supplements Database](/healthsecrets/evidence-based-supplements/)** | A-to-D graded supplement database, dosing protocols, interaction checker, and goal-based stacks (immune, cognitive, longevity, sleep) |
 
-**📖 Deep dives on HealthSecrets.com:**
+**📖 Deep dives on [HealthSecrets.com](https://healthsecrets.com):**
 - [Evidence-Based Supplements Guide](https://healthsecrets.com/supplements/supplements-guide-evidence-based) — Comprehensive guide with full dosing protocols
 - [Milk Thistle & Liver Health](https://healthsecrets.com/supplements/milk-thistle-liver-health) — Deep dive on milk thistle research
 - [CoQ10 Benefits Guide](https://healthsecrets.com/supplements/coq10-benefits) — Complete CoQ10 evidence review
@@ -59,7 +99,7 @@ Forget juice cleanses — real detoxification is about supporting your liver, ki
 |----------|-------------|
 | **[💧 Evidence-Based Detox Protocols](/healthsecrets/detox-protocols/)** | Liver detox phases (Phase I/II/III), 28-day liver support protocol, heavy metal chelation strategies, and gut detox support |
 
-**📖 Deep dives on HealthSecrets.com:**
+**📖 Deep dives on [HealthSecrets.com](https://healthsecrets.com):**
 - [Evidence-Based Detox Guide](https://healthsecrets.com/detox/detox-guide-evidence-based) — The science of detoxification
 - [Milk Thistle & Liver Health](https://healthsecrets.com/supplements/milk-thistle-liver-health) — Liver support supplementation
 
@@ -73,7 +113,7 @@ What does the science actually say about living longer? Protocols, biomarkers, a
 |----------|-------------|
 | **[⏳ Biohacker Stack: Longevity Protocols](/healthsecrets/biohacker-stack/)** | NAD+ optimization, sleep architecture, longevity biomarker panels, nootropic stacks, fasting protocols, and weekly frameworks |
 
-**📖 Deep dives on HealthSecrets.com:**
+**📖 Deep dives on [HealthSecrets.com](https://healthsecrets.com):**
 - [Longevity Secrets: Science-Backed Strategies](https://healthsecrets.com/longevity/longevity-secrets-science-backed-strategies-to-live-longer) — Comprehensive longevity guide
 - [Sleep Hygiene: 15 Rules for Better Sleep](https://healthsecrets.com/mental-wellness/sleep-hygiene-rules) — Optimize your sleep for longevity
 
@@ -85,7 +125,7 @@ Strengthen your natural defenses with evidence-based strategies — from nutriti
 
 *GitHub resources coming soon.*
 
-**📖 On HealthSecrets.com:**
+**📖 On [HealthSecrets.com](https://healthsecrets.com):**
 - [How to Boost Your Immune System Naturally](https://healthsecrets.com/immune-system/how-to-boost-your-immune-system-naturally-15-science-backed-strategies) — 15 science-backed strategies
 
 ---
@@ -96,7 +136,7 @@ Chronic inflammation is linked to nearly every major disease. Learn how to reduc
 
 *GitHub resources coming soon.*
 
-**📖 On HealthSecrets.com:**
+**📖 On [HealthSecrets.com](https://healthsecrets.com):**
 - [Reduce Inflammation Naturally](https://healthsecrets.com/inflammation/reduce-inflammation-naturally-complete-anti-inflammatory-guide) — Complete anti-inflammatory guide
 
 ---
@@ -107,7 +147,7 @@ From brain fog to sleep quality to stress management — evidence-based strategi
 
 *GitHub resources coming soon.*
 
-**📖 On HealthSecrets.com:**
+**📖 On [HealthSecrets.com](https://healthsecrets.com):**
 - [Sleep Hygiene: 15 Rules for Better Sleep](https://healthsecrets.com/mental-wellness/sleep-hygiene-rules)
 - [Brain Fog: Causes and Natural Solutions](https://healthsecrets.com/mental-wellness/brain-fog-causes-solutions)
 
@@ -119,7 +159,7 @@ Traditional remedies backed by modern science. Find out which natural treatments
 
 *GitHub resources coming soon.*
 
-**📖 On HealthSecrets.com:**
+**📖 On [HealthSecrets.com](https://healthsecrets.com):**
 - [Natural Remedies Guide](https://healthsecrets.com/natural-remedies/natural-remedies-guide)
 
 ---
