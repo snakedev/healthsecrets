@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /bronchitis-natural-remedies/
 title: "Bronchitis Natural Remedies — Evidence-Based Respiratory Relief Protocol"
 description: "A structured database of natural bronchitis treatments with evidence grades, steam protocols, herbal remedies, honey dosing, and when-to-see-doctor red flags. Curated from respiratory research by HealthSecrets.com."
 author: Health Secrets
