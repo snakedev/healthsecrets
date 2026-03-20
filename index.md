@@ -50,7 +50,8 @@ author: Health Secrets
           {"@type": "ListItem", "position": 14, "url": "https://snakedev.github.io/healthsecrets/anti-inflammation-toolkit/", "name": "Anti-Inflammation Toolkit"},
           {"@type": "ListItem", "position": 15, "url": "https://snakedev.github.io/healthsecrets/natural-headache-relief/", "name": "Natural Headache Relief"},
           {"@type": "ListItem", "position": 16, "url": "https://snakedev.github.io/healthsecrets/anxiety-relief-toolkit/", "name": "Anxiety Relief Toolkit"},
-          {"@type": "ListItem", "position": 17, "url": "https://snakedev.github.io/healthsecrets/evidence-based-autophagy/", "name": "Evidence-Based Autophagy Protocols"}
+          {"@type": "ListItem", "position": 17, "url": "https://snakedev.github.io/healthsecrets/evidence-based-autophagy/", "name": "Evidence-Based Autophagy Protocols"},
+          {"@type": "ListItem", "position": 18, "url": "https://snakedev.github.io/healthsecrets/coq10-mitochondrial-guide/", "name": "CoQ10 Mitochondrial Support Guide"}
         ]
       }
     }
@@ -116,6 +117,7 @@ What does the science actually say about living longer? Protocols, biomarkers, a
 |----------|-------------|
 | **[Biohacker Stack: Longevity Protocols](/healthsecrets/biohacker-stack/)** | NAD+ optimization, sleep architecture, longevity biomarker panels, nootropic stacks, fasting protocols, and weekly frameworks |
 | **[Evidence-Based Autophagy Protocols](/healthsecrets/evidence-based-autophagy/)** | Fasting protocols, exercise strategies, supplement research, mTOR-AMPK pathway database, and biomarker tracking for autophagy optimization |
+| **[CoQ10 Mitochondrial Support Guide](/healthsecrets/coq10-mitochondrial-guide/)** | Evidence-based CoQ10 dosing protocols, ubiquinone vs ubiquinol comparison, statin supplementation data, and absorption optimization strategies |
 
 ---
 
@@ -174,7 +176,7 @@ Traditional remedies backed by modern science. Find out which natural treatments
 | Gut Health | [Awesome Gut Health](/healthsecrets/awesome-gut-health/) - [Bloating Relief](/healthsecrets/bloating-relief-protocol/) - [Gut Detox](/healthsecrets/gut-detox-protocol/) | [Complete Gut Health Guide](https://healthsecrets.com/gut-health/complete-guide-gut-health) |
 | Supplements | [Supplements Database](/healthsecrets/evidence-based-supplements/) | [Supplements Guide](https://healthsecrets.com/supplements/supplements-guide-evidence-based) |
 | Detox | [Detox Protocols](/healthsecrets/detox-protocols/) - [Lymphatic Drainage](/healthsecrets/lymphatic-drainage-guide/) | [Detox Guide](https://healthsecrets.com/detox/detox-guide-evidence-based) |
-| Longevity | [Biohacker Stack](/healthsecrets/biohacker-stack/) - [Autophagy Protocols](/healthsecrets/evidence-based-autophagy/) | [Longevity Secrets](https://healthsecrets.com/longevity/longevity-secrets-science-backed-strategies-to-live-longer) |
+| Longevity | [Biohacker Stack](/healthsecrets/biohacker-stack/) - [Autophagy Protocols](/healthsecrets/evidence-based-autophagy/) - [CoQ10 Guide](/healthsecrets/coq10-mitochondrial-guide/) | [Longevity Secrets](https://healthsecrets.com/longevity/longevity-secrets-science-backed-strategies-to-live-longer) |
 | Immune | [Immune System Guide](/healthsecrets/immune-system-guide/) - [Immune Recipes](/healthsecrets/immune-nutrition-recipes/) | [Immune System Guide](https://healthsecrets.com/immune-system/how-to-boost-your-immune-system-naturally-15-science-backed-strategies) |
 | Inflammation | [Anti-Inflammation Toolkit](/healthsecrets/anti-inflammation-toolkit/) - [Headache Relief](/healthsecrets/natural-headache-relief/) | [Anti-Inflammatory Guide](https://healthsecrets.com/inflammation/reduce-inflammation-naturally-complete-anti-inflammatory-guide) |
 | Mental Wellness | [Brain Health Resources](/healthsecrets/brain-health-resources/) - [Anxiety Relief](/healthsecrets/anxiety-relief-toolkit/) | [Mental Wellness Guide](https://healthsecrets.com/mental-wellness/mental-wellness-guide) |
