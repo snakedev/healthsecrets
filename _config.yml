@@ -1,6 +1,14 @@
-title: HealthSecrets — Evidence-Based Health Resources
-description: Free, evidence-based health guides, protocols, and curated resources
+title: "Health Secrets — Evidence-Based Health Resources"
+description: "Free, evidence-based health guides, protocols, and curated resources from HealthSecrets.com"
 url: https://snakedev.github.io
 baseurl: /healthsecrets
 theme: jekyll-theme-cayman
-author: HealthSecrets
+author: Health Secrets
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+social:
+  name: Health Secrets
+  links:
+    - https://healthsecrets.com
+    - https://github.com/snakedev/healthsecrets
