@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /rosacea-natural-care/
 title: "Rosacea Natural Care — Evidence-Based Treatment Database"
 description: "A structured database of rosacea triggers, evidence-graded natural treatments, skincare ingredient safety ratings, and anti-inflammatory protocols. Curated from dermatology research by HealthSecrets.com."
 author: Health Secrets
@@ -88,7 +89,8 @@ Identifying and avoiding personal triggers is the single most effective rosacea 
 ### Environmental Triggers
 
 | Trigger | Prevalence | Mechanism | Avoidance Strategy |
-|---------|-----------|-----------|--------------------|n| **Sun exposure** | 81% | UV-induced inflammation, VEGF upregulation | Mineral SPF 30+ daily, wide-brim hat, seek shade [1] |
+|---------|-----------|-----------|-------------------|
+| **Sun exposure** | 81% | UV-induced inflammation, VEGF upregulation | Mineral SPF 30+ daily, wide-brim hat, seek shade [1] |
 | **Hot weather** | 75% | Vasodilation, increased flushing | Stay cool, misting spray, cooling fabrics |
 | **Cold weather** | 46% | Barrier disruption, reactive vasodilation | Barrier cream, scarf protection, humidifier indoors |
 | **Wind** | 57% | Physical barrier disruption, dehydration | Physical barriers, rich moisturizer pre-exposure |
@@ -119,7 +121,7 @@ Identifying and avoiding personal triggers is the single most effective rosacea 
 ### Product and Chemical Triggers
 
 | Trigger | Prevalence | Mechanism | Alternative |
-|---------|-----------|-----------|-------------|
+|---------|-----------|-----------|------------|
 | **Fragrance** | 30%+ | Contact irritation, sensitization | Fragrance-free products only |
 | **Alcohol (in products)** | 25%+ | Barrier disruption, irritation | Avoid SD alcohol, denatured alcohol |
 | **Menthol/camphor** | 20%+ | TRPM8 activation, cooling-then-burning | Avoid in all skincare |
