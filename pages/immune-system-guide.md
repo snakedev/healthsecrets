@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /immune-system-guide/
 title: "🛡️ Immune System Optimization Guide — Evidence-Based Protocols"
 description: "Science-backed immune system protocols, nutrient guides, seasonal strategies, and supplement stacks. Curated from clinical research by HealthSecrets.com."
 author: Health Secrets
@@ -92,7 +93,7 @@ Your immune system has two main branches:
 ### Core Immune Support (Year-Round)
 
 | Supplement | Dose | When | Key Evidence |
-|-----------|------|------|--------------|
+|-----------|------|------|-------------|
 | **Vitamin D3** | 2,000–5,000 IU/day | With fatty meal | Meta-analysis: 12% reduction in respiratory infections (Martineau et al., 2017, BMJ) |
 | **Vitamin C** | 500–1,000mg/day | Split AM/PM | Reduces cold duration 8% in adults, 14% in children (Hemilä & Chalker, 2013, Cochrane) |
 | **Zinc** | 15–30mg/day (zinc picolinate or glycinate) | With food | Reduces cold duration by 33% when started within 24 hours (Science et al., 2012) |
