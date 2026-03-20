@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /natural-remedies-db/
 title: "🌿 Natural Remedies Database — Evidence-Based Herbal & Natural Treatments"
 description: "A structured, evidence-graded database of natural remedies with PubMed citations, dosing protocols, safety profiles, and condition-specific recommendations. Curated by HealthSecrets.com."
 author: Health Secrets
@@ -57,15 +58,6 @@ This is not a list of folk wisdom. Every remedy below has been evaluated against
 - [How to Use This Database](#how-to-use-this-database)
 - [Evidence Grading System](#evidence-grading-system)
 - [Remedies by Condition](#remedies-by-condition)
-  - [Anxiety & Stress](#anxiety--stress)
-  - [Digestive Health](#digestive-health)
-  - [Inflammation & Pain](#inflammation--pain)
-  - [Immune Support](#immune-support)
-  - [Sleep & Insomnia](#sleep--insomnia)
-  - [Respiratory Health](#respiratory-health)
-  - [Skin Conditions](#skin-conditions)
-  - [Cardiovascular Health](#cardiovascular-health)
-  - [Energy & Fatigue](#energy--fatigue)
 - [Master Remedy Index](#master-remedy-index)
 - [Drug Interaction Warnings](#drug-interaction-warnings)
 - [References](#references)
@@ -100,7 +92,7 @@ This is not a list of folk wisdom. Every remedy below has been evaluated against
 ### Anxiety & Stress
 
 | Remedy | Grade | Dose | Mechanism | Key Evidence | Interactions |
-|--------|-------|------|-----------|-------------|---------------|
+|--------|-------|------|-----------|-------------|--------------|
 | **Ashwagandha** (KSM-66) | **B** | 300–600mg/day | Cortisol reduction, GABAergic activity | 30% cortisol reduction in stressed adults (Chandrasekhar et al., 2012) [1] | Thyroid meds, sedatives, immunosuppressants |
 | **L-Theanine** | **B** | 200–400mg/day | Alpha brain wave promotion, GABA modulation | Reduced stress and anxiety in acute stress (Kimura et al., 2007) [2] | Minimal known interactions |
 | **Passionflower** | **B** | 400–800mg/day extract | GABAergic activity | Comparable to oxazepam for generalized anxiety (Akhondzadeh et al., 2001) [3] | Sedatives, blood thinners |
@@ -115,7 +107,7 @@ This is not a list of folk wisdom. Every remedy below has been evaluated against
 ### Digestive Health
 
 | Remedy | Grade | Dose | Condition | Key Evidence | Interactions |
-|--------|-------|------|-----------|-------------|---------------|
+|--------|-------|------|-----------|-------------|--------------|
 | **Peppermint oil** (enteric-coated) | **A** | 0.2–0.4mL 3x/day | IBS | Meta-analysis: superior to placebo (Alammar et al., 2019) [9] | Cyclosporine, antacids |
 | **Ginger** | **A** | 1–2g/day | Nausea, motion sickness | Meta-analysis: effective for nausea (Lete & Allué, 2016) [10] | Blood thinners, diabetes meds |
 | **Psyllium husk** | **A** | 5–10g/day with water | Constipation, IBS-C | Improved stool frequency (McRorie, 2015) [11] | ⚠️ Take 2hrs apart from medications |
@@ -128,7 +120,7 @@ This is not a list of folk wisdom. Every remedy below has been evaluated against
 ### Inflammation & Pain
 
 | Remedy | Grade | Dose | Condition | Key Evidence | Interactions |
-|--------|-------|------|-----------|-------------|---------------|
+|--------|-------|------|-----------|-------------|--------------|
 | **Curcumin** (w/ piperine) | **A** | 500–1,000mg/day | Systemic inflammation | Reduces CRP and IL-6 (Sahebkar et al., 2014) [14] | Blood thinners, diabetes meds |
 | **Omega-3 (EPA/DHA)** | **A** | 2–4g/day | Systemic inflammation | Reduces CRP, IL-6, TNF-α (Calder, 2017) [15] | Blood thinners (high doses) |
 | **Boswellia serrata** | **B** | 300–500mg 3x/day | Osteoarthritis, IBD | Improved joint function (Yu et al., 2020) [16] | NSAIDs, immunosuppressants |
@@ -141,7 +133,7 @@ This is not a list of folk wisdom. Every remedy below has been evaluated against
 ### Immune Support
 
 | Remedy | Grade | Dose | Condition | Key Evidence | Interactions |
-|--------|-------|------|-----------|-------------|---------------|
+|--------|-------|------|-----------|-------------|--------------|
 | **Elderberry** | **B** | 600–900mg/day (illness) | Cold/flu duration | Reduced duration and severity (Hawkins et al., 2019) [20] | Immunosuppressants |
 | **Echinacea** | **B** | 300–500mg 3x/day | Cold prevention | Reduced incidence by 58% (Shah et al., 2007) [21] | Immunosuppressants |
 | **Garlic** | **B** | 600–1,200mg aged extract | Immune, cold prevention | Reduced cold incidence (Lissiman et al., 2014) [22] | Blood thinners |
@@ -153,7 +145,7 @@ This is not a list of folk wisdom. Every remedy below has been evaluated against
 ### Sleep & Insomnia
 
 | Remedy | Grade | Dose | Mechanism | Key Evidence | Interactions |
-|--------|-------|------|-----------|-------------|---------------|
+|--------|-------|------|-----------|-------------|--------------|
 | **Magnesium glycinate** | **A** | 300–400mg before bed | GABA activation | Improved sleep quality (Grober et al., 2024) [25] | Minimal; space from antibiotics |
 | **Valerian root** | **B** | 300–600mg before bed | GABA reuptake inhibition | Improved sleep quality; requires 2–4 weeks [26] | Sedatives, alcohol |
 | **Glycine** | **B** | 3g before bed | NMDA receptor, body temp | Improved sleep and next-day alertness [27] | Clozapine |
@@ -165,7 +157,7 @@ This is not a list of folk wisdom. Every remedy below has been evaluated against
 ### Respiratory Health
 
 | Remedy | Grade | Dose | Condition | Key Evidence | Interactions |
-|--------|-------|------|-----------|-------------|---------------|
+|--------|-------|------|-----------|-------------|--------------|
 | **NAC** | **A** | 600–1,200mg/day | COPD, bronchitis | Reduces exacerbations (Cazzola et al., 2015) [30] | Nitroglycerin |
 | **Ivy leaf extract** | **B** | 25–35 drops | Acute bronchitis | Improved cough symptoms [31] | Minimal |
 | **Pelargonium sidoides** | **B** | 30 drops 3x/day | Acute bronchitis | Shortened duration (Timmer et al., 2013) [32] | Blood thinners |
@@ -176,7 +168,7 @@ This is not a list of folk wisdom. Every remedy below has been evaluated against
 ### Skin Conditions
 
 | Remedy | Grade | Dose | Condition | Key Evidence | Interactions |
-|--------|-------|------|-----------|-------------|---------------|
+|--------|-------|------|-----------|-------------|--------------|
 | **Tea tree oil** (topical) | **A** | 5% solution | Acne, fungal | Comparable to benzoyl peroxide (Bassett et al., 1990) [35] | ⚠️ Never ingest |
 | **Aloe vera** (topical) | **B** | Gel 2–3x/day | Burns, psoriasis | Accelerated healing [34] | Minimal topically |
 | **Colloidal oatmeal** | **B** | Cream/bath | Eczema, itch | FDA-recognized protectant [36] | None significant |
@@ -187,7 +179,7 @@ This is not a list of folk wisdom. Every remedy below has been evaluated against
 ### Cardiovascular Health
 
 | Remedy | Grade | Dose | Target | Key Evidence | Interactions |
-|--------|-------|------|--------|-------------|---------------|
+|--------|-------|------|--------|-------------|--------------|
 | **Omega-3** | **A** | 2–4g/day | Triglycerides | Reduces TG 15–30% (Maki et al., 2017) [37] | Blood thinners |
 | **CoQ10** | **B** | 100–300mg/day | BP, heart failure | Reduces SBP by 11mmHg (Rosenfeldt et al., 2007) [38] | Statins, blood thinners |
 | **Berberine** | **A** | 500mg 2–3x/day | Blood sugar, cholesterol | Comparable to metformin (Liang et al., 2019) [40] | ⚠️ Many drug interactions |
@@ -198,7 +190,7 @@ This is not a list of folk wisdom. Every remedy below has been evaluated against
 ### Energy & Fatigue
 
 | Remedy | Grade | Dose | Mechanism | Key Evidence | Interactions |
-|--------|-------|------|-----------|-------------|---------------|
+|--------|-------|------|-----------|-------------|--------------|
 | **Rhodiola** | **B** | 200–600mg/day | HPA axis, anti-fatigue | Reduced mental fatigue [7] | Antidepressants |
 | **Iron** (if deficient) | **A** | Per deficiency level | Oxygen transport | Resolves fatigue 80%+ [43] | ⚠️ Many interactions |
 | **B12** | **A** | 500–1,000mcg/day | Methylation, energy | Resolves B12-related fatigue [44] | Minimal |
@@ -284,7 +276,7 @@ This is not a list of folk wisdom. Every remedy below has been evaluated against
 23. Hemilä H, Chalker E. *Cochrane Database Syst Rev.* 2013;(1):CD000980.
 24. Hemilä H. *Open Forum Infect Dis.* 2017;4(2):ofx059.
 25. Grober U, et al. *Nature and Science of Sleep.* 2024.
-26. Fernández-San-Martín MI, et al. *Sleep Med.* 2010;11(6):505-511.
+26. Fernandez-San-Martin MI, et al. *Sleep Med.* 2010;11(6):505-511.
 27. Bannai M, et al. *Sleep Biol Rhythms.* 2012;10:152-159.
 28. Howatson G, et al. *Eur J Nutr.* 2012;51(8):909-916.
 29. Shannon S, et al. *Perm J.* 2019;23:18-041.
