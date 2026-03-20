@@ -44,7 +44,8 @@ author: Health Secrets
           {"@type": "ListItem", "position": 8, "url": "https://snakedev.github.io/healthsecrets/immune-system-guide/", "name": "Immune System Optimization Guide"},
           {"@type": "ListItem", "position": 9, "url": "https://snakedev.github.io/healthsecrets/brain-health-resources/", "name": "Brain Health Optimization Resources"},
           {"@type": "ListItem", "position": 10, "url": "https://snakedev.github.io/healthsecrets/natural-remedies-db/", "name": "Natural Remedies Database"},
-          {"@type": "ListItem", "position": 11, "url": "https://snakedev.github.io/healthsecrets/rosacea-natural-care/", "name": "Rosacea Natural Care"}
+          {"@type": "ListItem", "position": 11, "url": "https://snakedev.github.io/healthsecrets/rosacea-natural-care/", "name": "Rosacea Natural Care"},
+          {"@type": "ListItem", "position": 12, "url": "https://snakedev.github.io/healthsecrets/bronchitis-natural-remedies/", "name": "Bronchitis Natural Remedies"}
         ]
       }
     }
@@ -185,6 +186,7 @@ Traditional remedies backed by modern science. Find out which natural treatments
 |----------|-------------|
 | **[Natural Remedies Database](/healthsecrets/natural-remedies-db/)** | Evidence-graded database of 50+ herbal and natural remedies with PubMed citations, dosing protocols, safety profiles, and drug interaction warnings |
 | **[Rosacea Natural Care](/healthsecrets/rosacea-natural-care/)** | Trigger database, evidence-graded natural treatments, skincare ingredient safety ratings, and anti-inflammatory protocols for rosacea management |
+| **[Bronchitis Natural Remedies](/healthsecrets/bronchitis-natural-remedies/)** | Steam inhalation protocols, herbal tea database, honey dosing by age, supplement stacks, and day-by-day recovery timeline |
 
 **On [HealthSecrets.com](https://healthsecrets.com):**
 - [Natural Remedies Guide](https://healthsecrets.com/natural-remedies/natural-remedies-guide) — Complete evidence-based natural remedies guide
@@ -225,7 +227,7 @@ We also publish **free interactive Notion pages** — checklists, supplement sta
 | Longevity | [Biohacker Stack](/healthsecrets/biohacker-stack/) | [Longevity Secrets](https://healthsecrets.com/longevity/longevity-secrets-science-backed-strategies-to-live-longer) |
 | Immune | [Immune System Guide](/healthsecrets/immune-system-guide/) | [Immune System Guide](https://healthsecrets.com/immune-system/how-to-boost-your-immune-system-naturally-15-science-backed-strategies) |
 | Mental Wellness | [Brain Health Resources](/healthsecrets/brain-health-resources/) | [Mental Wellness Guide](https://healthsecrets.com/mental-wellness/mental-wellness-guide) |
-| Natural Remedies | [Natural Remedies Database](/healthsecrets/natural-remedies-db/) - [Rosacea Natural Care](/healthsecrets/rosacea-natural-care/) | [Natural Remedies Guide](https://healthsecrets.com/natural-remedies/natural-remedies-guide) |
+| Natural Remedies | [Natural Remedies Database](/healthsecrets/natural-remedies-db/) - [Rosacea Natural Care](/healthsecrets/rosacea-natural-care/) - [Bronchitis Natural Remedies](/healthsecrets/bronchitis-natural-remedies/) | [Natural Remedies Guide](https://healthsecrets.com/natural-remedies/natural-remedies-guide) |
 | Inflammation | *Coming soon* | [Anti-Inflammatory Guide](https://healthsecrets.com/inflammation/reduce-inflammation-naturally-complete-anti-inflammatory-guide) |
 
 ---
