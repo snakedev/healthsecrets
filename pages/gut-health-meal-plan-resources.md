@@ -171,7 +171,7 @@ Most people fail at gut health diets not because they pick the wrong foods, but 
 This menu delivers ~30g fiber/day, 1-2 fermented food servings, and 35+ different plant foods across the week. All meals emphasize anti-inflammatory ingredients.
 
 | Day | Breakfast | Lunch | Dinner | Snacks | Fermented Food |
-|-----|-----------|-------|--------|--------|-----------|
+|-----|-----------|-------|--------|--------|------------|
 | **Mon** | Overnight oats with yogurt, chia seeds, blueberries | Quinoa salmon salad with mixed greens, tomatoes, avocado | Baked cod with roasted broccoli, Brussels sprouts, sweet potato | Greek yogurt + flaxseed; apple + almond butter | Yogurt (2x) |
 | **Tue** | Green smoothie with kefir, spinach, mango, flaxseed | Lentil vegetable soup with turmeric and cumin | Chicken bone broth soup with kale, carrots, zucchini, kimchi | Carrots + hummus; kombucha + walnuts | Kefir, kimchi, kombucha |
 | **Wed** | Veggie omelet with spinach, peppers, mushrooms + sauerkraut | Quinoa buddha bowl with tempeh, sweet potato, broccoli, tahini | Baked salmon with asparagus and brown rice | Chia pudding + berries; celery + almond butter | Sauerkraut, tempeh |
@@ -256,7 +256,7 @@ What makes fermented foods uniquely powerful:
 Start slow to avoid GI discomfort (bloating and gas are common initially as your microbiome adjusts):
 
 | Week | Daily Amount | Suggested Foods |
-|------|-----------|-----------------|
+|------|-----------|------------------|
 | 1 | 1 tbsp | Sauerkraut or yogurt (one source) |
 | 2 | ¼ cup | Rotate two sources (yogurt + sauerkraut) |
 | 3-4 | 1-2 servings | Add kefir, kimchi, miso, tempeh |
