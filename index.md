@@ -53,7 +53,8 @@ author: Health Secrets
           {"@type": "ListItem", "position": 17, "url": "https://snakedev.github.io/healthsecrets/gut-health-meal-plan-resources/", "name": "Gut Health Meal Plan Resources"},
           {"@type": "ListItem", "position": 18, "url": "https://snakedev.github.io/healthsecrets/omega-3-brain-health-guide/", "name": "Omega-3 Brain Health Resources"},
           {"@type": "ListItem", "position": 19, "url": "https://snakedev.github.io/healthsecrets/supplement-myths-fact-checker/", "name": "Supplement Myths Fact-Checker"},
-          {"@type": "ListItem", "position": 20, "url": "https://snakedev.github.io/healthsecrets/evidence-based-glutathione/", "name": "Evidence-Based Glutathione"}
+          {"@type": "ListItem", "position": 20, "url": "https://snakedev.github.io/healthsecrets/evidence-based-glutathione/", "name": "Evidence-Based Glutathione"},
+          {"@type": "ListItem", "position": 21, "url": "https://snakedev.github.io/healthsecrets/evidence-based-cbd/", "name": "Evidence-Based CBD Resources"}
         ]
       }
     }
@@ -143,9 +144,11 @@ Chronic inflammation is linked to nearly every major disease. Learn how to reduc
 |----------|-------------|
 | **[Anti-Inflammation Toolkit](/healthsecrets/anti-inflammation-toolkit/)** | Diet templates, supplement protocols, inflammatory biomarker reference, 7-day meal framework, and tracking protocol for reducing chronic inflammation |
 | **[Natural Headache Relief](/healthsecrets/natural-headache-relief/)** | Evidence-based headache protocols, trigger identification, natural remedies, and prevention strategies |
+| **[Evidence-Based CBD Resources](/healthsecrets/evidence-based-cbd/)** | CBD research database, dosing protocols, product comparison matrix, drug interaction reference, and 8-week pain management protocol backed by 15+ PubMed citations |
 
 **On [HealthSecrets.com](https://healthsecrets.com):**
 - [Reduce Inflammation Naturally](https://healthsecrets.com/inflammation/reduce-inflammation-naturally-complete-anti-inflammatory-guide) — Complete anti-inflammatory guide
+- [CBD for Inflammation and Pain](https://healthsecrets.com/inflammation/cbd-inflammation-pain-guide) — Evidence-based cannabidiol guide
 
 ---
 
@@ -182,7 +185,7 @@ Traditional remedies backed by modern science. Find out which natural treatments
 | Detox | [Detox Protocols](/healthsecrets/detox-protocols/) - [Lymphatic Drainage](/healthsecrets/lymphatic-drainage-guide/) - [Glutathione](/healthsecrets/evidence-based-glutathione/) | [Detox Guide](https://healthsecrets.com/detox/detox-guide-evidence-based) |
 | Longevity | [Biohacker Stack](/healthsecrets/biohacker-stack/) | [Longevity Secrets](https://healthsecrets.com/longevity/longevity-secrets-science-backed-strategies-to-live-longer) |
 | Immune | [Immune System Guide](/healthsecrets/immune-system-guide/) - [Immune Recipes](/healthsecrets/immune-nutrition-recipes/) | [Immune System Guide](https://healthsecrets.com/immune-system/how-to-boost-your-immune-system-naturally-15-science-backed-strategies) |
-| Inflammation | [Anti-Inflammation Toolkit](/healthsecrets/anti-inflammation-toolkit/) - [Headache Relief](/healthsecrets/natural-headache-relief/) | [Anti-Inflammatory Guide](https://healthsecrets.com/inflammation/reduce-inflammation-naturally-complete-anti-inflammatory-guide) |
+| Inflammation | [Anti-Inflammation Toolkit](/healthsecrets/anti-inflammation-toolkit/) - [Headache Relief](/healthsecrets/natural-headache-relief/) - [CBD Resources](/healthsecrets/evidence-based-cbd/) | [Anti-Inflammatory Guide](https://healthsecrets.com/inflammation/reduce-inflammation-naturally-complete-anti-inflammatory-guide) |
 | Mental Wellness | [Brain Health Resources](/healthsecrets/brain-health-resources/) - [Anxiety Relief](/healthsecrets/anxiety-relief-toolkit/) - [Omega-3 Guide](/healthsecrets/omega-3-brain-health-guide/) | [Mental Wellness Guide](https://healthsecrets.com/mental-wellness/mental-wellness-guide) |
 | Natural Remedies | [Natural Remedies DB](/healthsecrets/natural-remedies-db/) - [Rosacea Care](/healthsecrets/rosacea-natural-care/) - [Bronchitis](/healthsecrets/bronchitis-natural-remedies/) | [Natural Remedies Guide](https://healthsecrets.com/natural-remedies/natural-remedies-guide) |
 
