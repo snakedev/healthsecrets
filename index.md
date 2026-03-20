@@ -35,9 +35,10 @@ author: Health Secrets
         "@type": "ItemList",
         "itemListElement": [
           {"@type": "ListItem", "position": 1, "url": "https://snakedev.github.io/healthsecrets/awesome-gut-health/", "name": "Awesome Gut Health Resources"},
-          {"@type": "ListItem", "position": 2, "url": "https://snakedev.github.io/healthsecrets/evidence-based-supplements/", "name": "Evidence-Based Supplements Database"},
-          {"@type": "ListItem", "position": 3, "url": "https://snakedev.github.io/healthsecrets/detox-protocols/", "name": "Evidence-Based Detox Protocols"},
-          {"@type": "ListItem", "position": 4, "url": "https://snakedev.github.io/healthsecrets/biohacker-stack/", "name": "Biohacker Stack: Longevity Protocols"}
+          {"@type": "ListItem", "position": 2, "url": "https://snakedev.github.io/healthsecrets/bloating-relief-protocol/", "name": "Bloating Relief Protocol"},
+          {"@type": "ListItem", "position": 3, "url": "https://snakedev.github.io/healthsecrets/evidence-based-supplements/", "name": "Evidence-Based Supplements Database"},
+          {"@type": "ListItem", "position": 4, "url": "https://snakedev.github.io/healthsecrets/detox-protocols/", "name": "Evidence-Based Detox Protocols"},
+          {"@type": "ListItem", "position": 5, "url": "https://snakedev.github.io/healthsecrets/biohacker-stack/", "name": "Biohacker Stack: Longevity Protocols"}
         ]
       }
     }
@@ -69,6 +70,9 @@ Your gut microbiome influences digestion, immunity, mood, and metabolism. These 
 | Resource | What You Get |
 |----------|-------------|
 | **[🦠 Awesome Gut Health Resources](/healthsecrets/awesome-gut-health/)** | Curated research papers, probiotic strain database, the 4R healing protocol, gut-brain axis research, and practical tools |
+| **[🦠 Bloating Relief Protocol](/healthsecrets/bloating-relief-protocol/)** | Evidence-graded natural remedies, trigger food database, elimination protocols, and supplement stacks for bloating relief |
+
+📋 **Free Tools:** Download our [💨 Bloating Relief & Food Diary](https://healthsecrets.notion.site) — a free, interactive food diary and symptom tracker based on this research.
 
 **📖 Deep dives on [HealthSecrets.com](https://healthsecrets.com):**
 - [The Complete Guide to Gut Health](https://healthsecrets.com/gut-health/complete-guide-gut-health) — Microbiome science, protocols, and product recommendations
@@ -170,6 +174,7 @@ We also publish **free interactive Notion pages** — checklists, supplement sta
 
 | Tool | Description |
 |------|-------------|
+| **💨 Bloating Relief & Food Diary** | Daily food + symptom tracker with trigger food reference and weekly score summary |
 | **🦠 30-Day Gut Reset Checklist** | Day-by-day 4R protocol with trackable checkboxes for each phase |
 | **💊 Evidence-Based Supplement Stack Builder** | Goal-based stacks with dosing tables, interaction checkers, and quality checklists |
 | **💧 7-Day Detox Meal Plan Template** | Structured meal plan supporting liver and gut detox |
@@ -183,7 +188,7 @@ We also publish **free interactive Notion pages** — checklists, supplement sta
 
 | Pillar | GitHub Resource | HealthSecrets.com Guide |
 |--------|----------------|------------------------|
-| 🦠 Gut Health | [Awesome Gut Health](/healthsecrets/awesome-gut-health/) | [Complete Gut Health Guide](https://healthsecrets.com/gut-health/complete-guide-gut-health) |
+| 🦠 Gut Health | [Awesome Gut Health](/healthsecrets/awesome-gut-health/) · [Bloating Relief Protocol](/healthsecrets/bloating-relief-protocol/) | [Complete Gut Health Guide](https://healthsecrets.com/gut-health/complete-guide-gut-health) |
 | 💊 Supplements | [Supplements Database](/healthsecrets/evidence-based-supplements/) | [Supplements Guide](https://healthsecrets.com/supplements/supplements-guide-evidence-based) |
 | 💧 Detox | [Detox Protocols](/healthsecrets/detox-protocols/) | [Detox Guide](https://healthsecrets.com/detox/detox-guide-evidence-based) |
 | ⏳ Longevity | [Biohacker Stack](/healthsecrets/biohacker-stack/) | [Longevity Secrets](https://healthsecrets.com/longevity/longevity-secrets-science-backed-strategies-to-live-longer) |
