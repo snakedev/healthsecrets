@@ -3,9 +3,40 @@ layout: default
 title: "Awesome Gut Health Resources"
 description: "Evidence-based gut health resources, protocols, and research — curated by HealthSecrets.com"
 keywords: "gut health, microbiome, probiotics, gut healing protocol"
-author: HealthSecrets
+author: Health Secrets
 permalink: /awesome-gut-health/
 ---
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "headline": "Awesome Gut Health Resources",
+      "description": "Evidence-based gut health resources, protocols, and research — curated by HealthSecrets.com",
+      "url": "https://snakedev.github.io/healthsecrets/awesome-gut-health/",
+      "datePublished": "2026-03-19",
+      "dateModified": "2026-03-20",
+      "author": {"@type": "Organization", "name": "Health Secrets", "url": "https://healthsecrets.com"},
+      "publisher": {"@type": "Organization", "name": "Health Secrets", "url": "https://healthsecrets.com"},
+      "mainEntityOfPage": {"@type": "WebPage", "@id": "https://snakedev.github.io/healthsecrets/awesome-gut-health/"},
+      "about": [
+        {"@type": "MedicalCondition", "name": "Gut Health"},
+        {"@type": "Thing", "name": "Microbiome"},
+        {"@type": "Thing", "name": "Probiotics"}
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Health Secrets", "item": "https://snakedev.github.io/healthsecrets/"},
+        {"@type": "ListItem", "position": 2, "name": "Awesome Gut Health Resources", "item": "https://snakedev.github.io/healthsecrets/awesome-gut-health/"}
+      ]
+    }
+  ]
+}
+</script>
 
 [← Back to all resources](/healthsecrets/)
 
@@ -19,7 +50,7 @@ A curated collection of **evidence-based gut health resources** — research pap
 
 Your gut microbiome contains trillions of microorganisms that influence digestion, immunity, mental health, metabolism, and nearly every system in your body. Despite the hype surrounding gut health, separating science from marketing noise is harder than ever.
 
-This repository cuts through the noise. Every resource listed here is grounded in peer-reviewed research and organized for practical use. For a comprehensive, evidence-based walkthrough of gut health fundamentals, protocols, and product recommendations, see the [HealthSecrets gut health guide](https://healthsecrets.com/gut-health/complete-guide-gut-health).
+This repository cuts through the noise. Every resource listed here is grounded in peer-reviewed research and organized for practical use. For a comprehensive, evidence-based walkthrough of gut health fundamentals, protocols, and product recommendations, see the [Health Secrets gut health guide](https://healthsecrets.com/gut-health/complete-guide-gut-health).
 
 ## Table of Contents
 
@@ -52,7 +83,7 @@ Foundational resources for understanding gut microbiology, dysbiosis, and intest
 | [Microbiome 2.0: Lessons from 2024 Gut Microbiota Summit](https://pmc.ncbi.nlm.nih.gov/articles/PMC11404604/) | Conference Report | Latest consensus from leading microbiome researchers on clinical applications | A |
 
 ### Further Reading
-- For the science behind microbiome diversity and why variety matters: [HealthSecrets gut health guide](https://healthsecrets.com/gut-health/complete-guide-gut-health)
+- For the science behind microbiome diversity and why variety matters: [Health Secrets gut health guide](https://healthsecrets.com/gut-health/complete-guide-gut-health)
 
 ---
 
@@ -81,7 +112,7 @@ Research on specific probiotic strains, clinical efficacy, fermented food scienc
 | *Lactobacillus helveticus R0052* | Anxiety, stress (psychobiotic) | B — Emerging evidence | 3-10B CFU |
 
 ### Further Reading
-- Bloating-specific natural solutions: [HealthSecrets bloating relief guide](https://healthsecrets.com/gut-health/bloating-relief-natural)
+- Bloating-specific natural solutions: [Health Secrets bloating relief guide](https://healthsecrets.com/gut-health/bloating-relief-natural)
 
 ---
 
@@ -124,7 +155,7 @@ Research connecting the microbiome to mood, cognition, stress, and neurological 
 | [Yano et al., 2015 - "Gut microbiota regulate host serotonin biosynthesis"](https://doi.org/10.1016/j.cell.2015.02.047) | Research Paper | Landmark study showing gut bacteria regulate 90% of serotonin production | A |
 
 ### Further Reading
-- For the complete gut health protocol including gut-brain optimization: [HealthSecrets gut health guide](https://healthsecrets.com/gut-health/complete-guide-gut-health)
+- For the complete gut health protocol including gut-brain optimization: [Health Secrets gut health guide](https://healthsecrets.com/gut-health/complete-guide-gut-health)
 
 ---
 
@@ -244,7 +275,7 @@ This repository is for educational purposes only. The information provided does 
 
 ## Further Reading
 
-- 📖 [The Complete Guide to Gut Health — HealthSecrets](https://healthsecrets.com/gut-health/complete-guide-gut-health) — Comprehensive guide covering microbiome science, the 4R protocol, supplements, and long-term optimization
-- 📖 [Bloating Relief: Natural Remedies — HealthSecrets](https://healthsecrets.com/gut-health/bloating-relief-natural) — Evidence-based natural solutions for gas and bloating
+- 📖 [The Complete Guide to Gut Health — Health Secrets](https://healthsecrets.com/gut-health/complete-guide-gut-health) — Comprehensive guide covering microbiome science, the 4R protocol, supplements, and long-term optimization
+- 📖 [Bloating Relief: Natural Remedies — Health Secrets](https://healthsecrets.com/gut-health/bloating-relief-natural) — Evidence-based natural solutions for gas and bloating
 - 📖 [Evidence-Based Supplements Database](/healthsecrets/evidence-based-supplements/) — Curated supplement database with evidence grades
 - 📖 [Detox Protocols](/healthsecrets/detox-protocols/) — Liver and gut detox protocols with citations
