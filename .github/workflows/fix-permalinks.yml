@@ -36,10 +36,10 @@ jobs:
             file="pages/${slug}.md"
             if [ -f "$file" ] && ! grep -q "^permalink:" "$file"; then
               sed -i "/^layout: default$/a permalink: /${slug}/" "$file"
-              echo "✅ Added permalink: /${slug}/ to $file"
+              echo "Added permalink: /${slug}/ to $file"
               changed=$((changed + 1))
             else
-              echo "⏭️ Skipping $file (already has permalink or doesn't exist)"
+              echo "Skipping $file (already has permalink or does not exist)"
             fi
           done
           echo "Fixed $changed files"
@@ -52,11 +52,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "fix: Add missing permalink to 11 page files (fixes 404s)
-
-            Adds permalink: /{slug}/ to front matter of 11 pages that were
-            defaulting to /pages/{slug}/ instead of /{slug}/, causing 404 errors
-            at the URLs listed on the homepage."
+            git commit -m "fix: Add missing permalink to page files (fixes 404s)"
             git push
-            echo "✅ Changes pushed successfully"
+            echo "Changes pushed successfully"
           fi
