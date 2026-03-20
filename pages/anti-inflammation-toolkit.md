@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /anti-inflammation-toolkit/
 title: "Anti-Inflammation Toolkit — Evidence-Based Protocols & Resources"
 description: "Science-backed anti-inflammatory diet templates, supplement protocols, and inflammatory marker reference. Curated from clinical research by HealthSecrets.com."
 author: Health Secrets
@@ -264,7 +265,7 @@ Daily staples: 2-4 tbsp EVOO, 1 clove garlic, 2+ cups leafy greens, 8+ glasses w
 ### Expected Timeline
 
 | Timeframe | Expected Changes |
-|-----------|------------------|
+|-----------|-----------------|
 | Week 1-2 | Reduced bloating, improved digestion |
 | Week 3-4 | Better sleep, fewer aches |
 | Month 2-3 | Visible skin improvements, sustained energy |
