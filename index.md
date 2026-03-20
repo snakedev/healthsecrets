@@ -54,7 +54,8 @@ author: Health Secrets
           {"@type": "ListItem", "position": 18, "url": "https://snakedev.github.io/healthsecrets/omega-3-brain-health-guide/", "name": "Omega-3 Brain Health Resources"},
           {"@type": "ListItem", "position": 19, "url": "https://snakedev.github.io/healthsecrets/supplement-myths-fact-checker/", "name": "Supplement Myths Fact-Checker"},
           {"@type": "ListItem", "position": 20, "url": "https://snakedev.github.io/healthsecrets/evidence-based-glutathione/", "name": "Evidence-Based Glutathione"},
-          {"@type": "ListItem", "position": 21, "url": "https://snakedev.github.io/healthsecrets/evidence-based-cbd/", "name": "Evidence-Based CBD Resources"}
+          {"@type": "ListItem", "position": 21, "url": "https://snakedev.github.io/healthsecrets/evidence-based-cbd/", "name": "Evidence-Based CBD Resources"},
+          {"@type": "ListItem", "position": 22, "url": "https://snakedev.github.io/healthsecrets/insomnia-treatment-protocols/", "name": "Insomnia Treatment Protocols"}
         ]
       }
     }
@@ -161,6 +162,7 @@ From brain fog to sleep quality to stress management — evidence-based strategi
 | **[Brain Health Optimization Resources](/healthsecrets/brain-health-resources/)** | Nootropic protocols, sleep optimization, brain fog elimination strategies, and cognitive performance tools backed by neuroscience research |
 | **[Anxiety Relief Toolkit](/healthsecrets/anxiety-relief-toolkit/)** | Evidence-based natural anxiety remedies, breathing techniques, supplement protocols, and lifestyle interventions for anxiety management |
 | **[Omega-3 Brain Health Resources](/healthsecrets/omega-3-brain-health-guide/)** | DHA vs EPA comparison, dosing protocols by condition, supplement quality checklist, and food sources for optimal brain function |
+| **[Insomnia Treatment Protocols](/healthsecrets/insomnia-treatment-protocols/)** | CBT-I components, sleep restriction schedules, stimulus control rules, insomnia type classification, and supplement evidence ratings |
 
 ---
 
@@ -186,7 +188,7 @@ Traditional remedies backed by modern science. Find out which natural treatments
 | Longevity | [Biohacker Stack](/healthsecrets/biohacker-stack/) | [Longevity Secrets](https://healthsecrets.com/longevity/longevity-secrets-science-backed-strategies-to-live-longer) |
 | Immune | [Immune System Guide](/healthsecrets/immune-system-guide/) - [Immune Recipes](/healthsecrets/immune-nutrition-recipes/) | [Immune System Guide](https://healthsecrets.com/immune-system/how-to-boost-your-immune-system-naturally-15-science-backed-strategies) |
 | Inflammation | [Anti-Inflammation Toolkit](/healthsecrets/anti-inflammation-toolkit/) - [Headache Relief](/healthsecrets/natural-headache-relief/) - [CBD Resources](/healthsecrets/evidence-based-cbd/) | [Anti-Inflammatory Guide](https://healthsecrets.com/inflammation/reduce-inflammation-naturally-complete-anti-inflammatory-guide) |
-| Mental Wellness | [Brain Health Resources](/healthsecrets/brain-health-resources/) - [Anxiety Relief](/healthsecrets/anxiety-relief-toolkit/) - [Omega-3 Guide](/healthsecrets/omega-3-brain-health-guide/) | [Mental Wellness Guide](https://healthsecrets.com/mental-wellness/mental-wellness-guide) |
+| Mental Wellness | [Brain Health Resources](/healthsecrets/brain-health-resources/) - [Anxiety Relief](/healthsecrets/anxiety-relief-toolkit/) - [Omega-3 Guide](/healthsecrets/omega-3-brain-health-guide/) - [Insomnia Protocols](/healthsecrets/insomnia-treatment-protocols/) | [Mental Wellness Guide](https://healthsecrets.com/mental-wellness/mental-wellness-guide) |
 | Natural Remedies | [Natural Remedies DB](/healthsecrets/natural-remedies-db/) - [Rosacea Care](/healthsecrets/rosacea-natural-care/) - [Bronchitis](/healthsecrets/bronchitis-natural-remedies/) | [Natural Remedies Guide](https://healthsecrets.com/natural-remedies/natural-remedies-guide) |
 
 ---
