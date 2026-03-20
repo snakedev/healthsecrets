@@ -51,8 +51,7 @@ author: Health Secrets
           {"@type": "ListItem", "position": 15, "url": "https://snakedev.github.io/healthsecrets/natural-headache-relief/", "name": "Natural Headache Relief"},
           {"@type": "ListItem", "position": 16, "url": "https://snakedev.github.io/healthsecrets/anxiety-relief-toolkit/", "name": "Anxiety Relief Toolkit"},
           {"@type": "ListItem", "position": 17, "url": "https://snakedev.github.io/healthsecrets/gut-health-meal-plan-resources/", "name": "Gut Health Meal Plan Resources"},
-          {"@type": "ListItem", "position": 18, "url": "https://snakedev.github.io/healthsecrets/constipation-relief-protocols/", "name": "Evidence-Based Constipation Relief Protocols"},
-          {"@type": "ListItem", "position": 19, "url": "https://snakedev.github.io/healthsecrets/evidence-based-melatonin/", "name": "Evidence-Based Melatonin Resources"}
+          {"@type": "ListItem", "position": 18, "url": "https://snakedev.github.io/healthsecrets/nausea-remedies-protocols/", "name": "Nausea Remedies Protocols"}
         ]
       }
     }
@@ -87,7 +86,6 @@ Your gut microbiome influences digestion, immunity, mood, and metabolism. These 
 | **[Bloating Relief Protocol](/healthsecrets/bloating-relief-protocol/)** | Evidence-graded natural remedies, trigger food database, elimination protocols, and supplement stacks for bloating relief |
 | **[Gut Detox Protocol](/healthsecrets/gut-detox-protocol/)** | 7-day step-by-step digestive reset with elimination diet, supplement dosing tables, daily food lists, and reintroduction schedule |
 | **[Gut Health Meal Plan Resources](/healthsecrets/gut-health-meal-plan-resources/)** | 7-day anti-inflammatory menu, 50+ gut-healing foods database, shopping lists, meal prep protocols, and curated PubMed research |
-| **[Evidence-Based Constipation Relief Protocols](/healthsecrets/constipation-relief-protocols/)** | Natural remedies ranked by evidence level and onset time, fiber supplement comparisons, dosing guides, and a progressive 4-week protocol |
 
 ---
 
@@ -153,9 +151,8 @@ From brain fog to sleep quality to stress management — evidence-based strategi
 
 | Resource | What You Get |
 |----------|-------------|
-| **[Brain Health Optimization Resources](/healthsecrets/brain-health-resources/)** | Nootropic protocols, sleep optimization tools, and brain fog elimination strategies, and cognitive performance tools backed by neuroscience research |
+| **[Brain Health Optimization Resources](/healthsecrets/brain-health-resources/)** | Nootropic protocols, sleep optimization, brain fog elimination strategies, and cognitive performance tools backed by neuroscience research |
 | **[Anxiety Relief Toolkit](/healthsecrets/anxiety-relief-toolkit/)** | Evidence-based natural anxiety remedies, breathing techniques, supplement protocols, and lifestyle interventions for anxiety management |
-| **[Evidence-Based Melatonin Resources](/healthsecrets/evidence-based-melatonin/)** | Melatonin dosing protocols, jet lag and shift work strategies, drug interaction checker, product quality database, and sleep supplement research |
 
 ---
 
@@ -168,6 +165,7 @@ Traditional remedies backed by modern science. Find out which natural treatments
 | **[Natural Remedies Database](/healthsecrets/natural-remedies-db/)** | Evidence-graded database of 50+ herbal and natural remedies with PubMed citations, dosing protocols, safety profiles, and drug interaction warnings |
 | **[Rosacea Natural Care](/healthsecrets/rosacea-natural-care/)** | Trigger database, evidence-graded natural treatments, skincare ingredient safety ratings, and anti-inflammatory protocols for rosacea management |
 | **[Bronchitis Natural Remedies](/healthsecrets/bronchitis-natural-remedies/)** | Steam inhalation protocols, herbal tea database, honey dosing by age, supplement stacks, and day-by-day recovery timeline |
+| **[Nausea Remedies Protocols](/healthsecrets/nausea-remedies-protocols/)** | Evidence-based nausea remedy protocols: ginger dosing by cause, P6 acupressure technique, peppermint aromatherapy, vitamin B6, and remedy comparisons |
 
 ---
 
@@ -175,7 +173,33 @@ Traditional remedies backed by modern science. Find out which natural treatments
 
 | Pillar | GitHub Resource | HealthSecrets.com Guide |
 |--------|----------------|------------------------|
-| Gut Health | [Awesome Gut Health](/healthsecrets/awesome-gut-health/) - [Bloating Relief](/healthsecrets/bloating-relief-protocol/) - [Gut Detox](/healthsecrets/gut-detox-protocol/) - [Meal Plan](/healthsecrets/gut-health-meal-plan-resources/) - [Constipation Relief](/healthsecrets/constipation-relief-protocols/) | [Complete Gut Health Guide](https://healthsecrets.com/gut-health/complete-guide-gut-health) |
+| Gut Health | [Awesome Gut Health](/healthsecrets/awesome-gut-health/) - [Bloating Relief](/healthsecrets/bloating-relief-protocol/) - [Gut Detox](/healthsecrets/gut-detox-protocol/) - [Meal Plan](/healthsecrets/gut-health-meal-plan-resources/) | [Complete Gut Health Guide](https://healthsecrets.com/gut-health/complete-guide-gut-health) |
 | Supplements | [Supplements Database](/healthsecrets/evidence-based-supplements/) | [Supplements Guide](https://healthsecrets.com/supplements/supplements-guide-evidence-based) |
 | Detox | [Detox Protocols](/healthsecrets/detox-protocols/) - [Lymphatic Drainage](/healthsecrets/lymphatic-drainage-guide/) | [Detox Guide](https://healthsecrets.com/detox/detox-guide-evidence-based) |
-| Longevity | [Biohacker Stack](/healthsecrets/biohacker-stack/) | [Longev
+| Longevity | [Biohacker Stack](/healthsecrets/biohacker-stack/) | [Longevity Secrets](https://healthsecrets.com/longevity/longevity-secrets-science-backed-strategies-to-live-longer) |
+| Immune | [Immune System Guide](/healthsecrets/immune-system-guide/) - [Immune Recipes](/healthsecrets/immune-nutrition-recipes/) | [Immune System Guide](https://healthsecrets.com/immune-system/how-to-boost-your-immune-system-naturally-15-science-backed-strategies) |
+| Inflammation | [Anti-Inflammation Toolkit](/healthsecrets/anti-inflammation-toolkit/) - [Headache Relief](/healthsecrets/natural-headache-relief/) | [Anti-Inflammatory Guide](https://healthsecrets.com/inflammation/reduce-inflammation-naturally-complete-anti-inflammatory-guide) |
+| Mental Wellness | [Brain Health Resources](/healthsecrets/brain-health-resources/) - [Anxiety Relief](/healthsecrets/anxiety-relief-toolkit/) | [Mental Wellness Guide](https://healthsecrets.com/mental-wellness/mental-wellness-guide) |
+| Natural Remedies | [Natural Remedies DB](/healthsecrets/natural-remedies-db/) - [Rosacea Care](/healthsecrets/rosacea-natural-care/) - [Bronchitis](/healthsecrets/bronchitis-natural-remedies/) - [Nausea Remedies](/healthsecrets/nausea-remedies-protocols/) | [Natural Remedies Guide](https://healthsecrets.com/natural-remedies/natural-remedies-guide) |
+
+---
+
+## Contributing
+
+We welcome contributions! See each resource page for specific contribution guidelines. All submissions must:
+
+1. Be backed by peer-reviewed research (PubMed, Cochrane, NIH preferred)
+2. Include evidence grades and citations
+3. Follow our [contribution standards](/healthsecrets/awesome-gut-health/#contributing)
+
+---
+
+## About
+
+All resources are curated by **[HealthSecrets.com](https://healthsecrets.com)** — your trusted source for evidence-based health information. We review hundreds of clinical studies, meta-analyses, and expert guidelines to bring you practical health resources you can trust.
+
+Visit our full site: **[HealthSecrets.com](https://healthsecrets.com)**
+
+---
+
+*Copyright [HealthSecrets.com](https://healthsecrets.com) — Evidence-based health guides. For informational purposes only. Not medical advice.*
