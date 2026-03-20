@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /natural-headache-relief/
 title: "🤕 Natural Headache Relief — Evidence-Based Remedies, Triggers & Protocols"
 description: "A curated database of evidence-based natural headache remedies, trigger identification, headache type classification, and supplement protocols for tension, migraine, and cluster headaches."
 keywords: "natural headache remedies evidence, migraine natural treatment database, tension headache relief, headache trigger reference, magnesium headache"
@@ -129,7 +130,7 @@ A curated, evidence-based guide to natural headache relief. Covers headache type
 ### Migraine Prevention Stack
 
 | Supplement | Dose | Timing | Expected Outcome |
-|-----------|------|--------|------------------|
+|-----------|------|--------|-----------------|
 | **Magnesium glycinate** | 400-600 mg/day | Divided: 200mg AM + 200-400mg PM | 41% reduction in frequency |
 | **Riboflavin** (B2) | 400 mg/day | Morning with food | 50% reduction in 59% of patients |
 | **CoQ10** | 150-300 mg/day | With fat-containing meal | Additional 50% reduction |
@@ -165,7 +166,7 @@ A curated, evidence-based guide to natural headache relief. Covers headache type
 ### Acupressure Points
 
 | Point | Location | Best For | Technique |
-|-------|----------|----------|----------|
+|-------|----------|----------|-----------|
 | **LI-4** (Hegu) | Web between thumb and index finger | All headaches | Firm circular pressure, 2-5 min each hand |
 | **GB-20** (Feng Chi) | Base of skull, hollows on either side of spine | Tension, cervicogenic | Thumbs press upward, 2-3 min |
 | **Yintang** (Third Eye) | Between eyebrows | Tension, sinus | Gentle pressure with index finger, 1-2 min |
