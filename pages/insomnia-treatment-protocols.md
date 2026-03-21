@@ -37,7 +37,7 @@ keywords:
         "@id": "https://snakedev.github.io/healthsecrets/insomnia-treatment-protocols/"
       },
       "datePublished": "2026-03-20",
-      "dateModified": "2026-03-20",
+      "dateModified": "2026-03-21",
       "speakable": {
         "@type": "SpeakableSpecification",
         "cssSelector": ["#quick-answer", "#frequently-asked-questions"]
@@ -583,6 +583,8 @@ Verdict: Below 85% → sleep restriction or maintain current window
 - [🧠 Brain Health Optimization Resources](/healthsecrets/brain-health-resources/) — Nootropic protocols, sleep optimization tools, and cognitive performance strategies
 - [🌙 Evidence-Based Melatonin Resources](/healthsecrets/evidence-based-melatonin/) — Melatonin dosing protocols, jet lag strategies, drug interaction checker, and product quality database
 
+📰 **Newsletter:** Subscribe to [Health Secrets Weekly](https://healths.substack.com/p/the-sleep-paradox-why-spending-less?r=7xc12d&utm_campaign=post&utm_medium=web&triedRedirect=true)
+
 ---
 
 ## References
@@ -616,6 +618,8 @@ Verdict: Below 85% → sleep restriction or maintain current window
 - [💊 Evidence-Based Supplements Database](/healthsecrets/evidence-based-supplements/) — Complete supplement reference with evidence grades
 - [⏳ Biohacker Stack: Longevity Protocols](/healthsecrets/biohacker-stack/) — Sleep architecture, longevity biomarkers, and daily frameworks
 - [😌 Anxiety Relief Toolkit](/healthsecrets/anxiety-relief-toolkit/) — Natural anxiety remedies, breathing techniques, and supplement protocols
+
+📰 **Newsletter:** Subscribe to [Health Secrets Weekly](https://healths.substack.com/p/the-sleep-paradox-why-spending-less?r=7xc12d&utm_campaign=post&utm_medium=web&triedRedirect=true)
 
 📖 **Full guides on [HealthSecrets.com](https://healthsecrets.com):**
 - [Insomnia Types and Natural Treatments](https://healthsecrets.com/natural-remedies/insomnia-types-treatments) — Complete insomnia guide
