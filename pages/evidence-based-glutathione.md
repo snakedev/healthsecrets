@@ -17,7 +17,7 @@ permalink: /evidence-based-glutathione/
       "description": "Glutathione supplement evidence, dosing protocols, form comparisons, and curated PubMed research — by Health Secrets",
       "url": "https://snakedev.github.io/healthsecrets/evidence-based-glutathione/",
       "datePublished": "2026-03-20",
-      "dateModified": "2026-03-20",
+      "dateModified": "2026-03-21",
       "author": {"@type": "Organization", "name": "Health Secrets", "url": "https://healthsecrets.com"},
       "publisher": {"@type": "Organization", "name": "Health Secrets", "url": "https://healthsecrets.com"},
       "mainEntityOfPage": {"@type": "WebPage", "@id": "https://snakedev.github.io/healthsecrets/evidence-based-glutathione/"},
@@ -186,7 +186,7 @@ This is the biochemical reason glutathione status directly impacts how well your
 ### The Three-Phase Detox System
 
 | Phase | What Happens | Glutathione's Role |
-|-------|-------------|--------------------||
+|-------|-------------|--------------------|
 | **Phase I** (Oxidation) | CYP450 enzymes convert fat-soluble toxins to reactive intermediates | GSH protects against Phase I free radical byproducts |
 | **Phase II** (Conjugation) | Intermediates are bound to molecules for elimination | **GSH conjugation is one of 6 major pathways** — the most important for heavy metals and many drugs |
 | **Phase III** (Elimination) | Conjugated toxins excreted via bile, urine, sweat | GSH-conjugated compounds are exported by MRP transporters |
@@ -446,6 +446,7 @@ This repository is for educational purposes only. The information provided does 
 - 📖 [Evidence-Based Detox Guide — Health Secrets](https://healthsecrets.com/detox/detox-guide-evidence-based) — The full detox guide
 - 📖 [Milk Thistle for Liver Health — Health Secrets](https://healthsecrets.com/supplements/milk-thistle-liver-health) — Silymarin benefits, dosing, and liver support
 - 📖 [NAC for Detoxification — Health Secrets](https://healthsecrets.com/detox/nac-detoxification) — Deep dive into NAC as a glutathione precursor
+- 📰 **Newsletter:** Subscribe to [Health Secrets Weekly](https://healths.substack.com/p/glutathione-the-master-antioxidant) — Deep-dive into glutathione science and supplementation
 
 ---
 
