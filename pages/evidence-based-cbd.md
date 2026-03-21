@@ -34,7 +34,7 @@ keywords:
       },
       "url": "https://snakedev.github.io/healthsecrets/evidence-based-cbd/",
       "datePublished": "2026-03-20",
-      "dateModified": "2026-03-20",
+      "dateModified": "2026-03-21",
       "mainEntityOfPage": "https://snakedev.github.io/healthsecrets/evidence-based-cbd/",
       "speakable": {
         "@type": "SpeakableSpecification",
@@ -167,7 +167,7 @@ The laboratory data is genuinely impressive. CBD reduces inflammatory markers ac
 Human trials paint a more nuanced picture. The gap between what CBD does in a petri dish and what it does in your body is significant:
 
 | Study Type | Finding | Quality |
-|-----------|---------|---------| 
+|-----------|---------|---------|
 | Systematic review of 40 studies (2024) | Sufficient evidence CBD reduces pain via TRPV-1, 5HT-1A, CB1 pathways | Moderate [1] |
 | CANOA trial (knee OA) | Full-spectrum CBD oil showed no significant difference from placebo after 60 days | High [8] |
 | Meta-analysis of 15 studies | 42-66% pain reduction with CBD alone or with THC | Moderate [2] |
@@ -403,11 +403,13 @@ This protocol is adapted from dosing patterns used in clinical trials [1, 2, 9].
 - [Evidence-Based Supplements Database](/healthsecrets/evidence-based-supplements/) — Full supplement reference with evidence grades
 
 **Free Notion tools:**
-- [CBD Dosing & Pain Tracker](https://healthsecrets.notion.site) — Interactive dosing log, product comparison, drug interaction checklist, and 8-week protocol timeline
+- [CBD Dosing & Pain Tracker](https://healthsecrets.notion.site/CBD-Dosing-Pain-Tracker-2145a25ee82480a6b98ef21db50bb513) — Interactive dosing log, product comparison, drug interaction checklist, and 8-week protocol timeline
 
 **Full guides on [HealthSecrets.com](https://healthsecrets.com):**
 - [CBD for Inflammation and Pain: Cannabidiol Guide](https://healthsecrets.com/inflammation/cbd-inflammation-pain-guide) — Complete evidence-based guide
 - [Reduce Inflammation Naturally](https://healthsecrets.com/inflammation/reduce-inflammation-naturally-complete-anti-inflammatory-guide) — Comprehensive anti-inflammatory strategies
+
+📰 **Newsletter:** Subscribe to [Health Secrets Weekly](https://healths.substack.com/p/cbd-for-pain-separating-the-6-billion)
 
 ---
 
