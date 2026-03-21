@@ -264,7 +264,7 @@ Cycle 5 (90 min): N1 → N2 → N2 → REM (longest, up to 60 min)
 ### Circadian Misalignment: Causes and Consequences
 
 | Cause | Mechanism | Health Consequence |
-|-------|-----------|--------------------|
+|-------|-----------|-------------------|
 | **Shift work** | Forced wakefulness during biological night | 40% increased cardiovascular risk; metabolic syndrome [15] |
 | **Social jet lag** | Weekend schedule shift >2 hours from weekdays | Increased obesity risk; impaired glucose tolerance |
 | **Evening blue light** | Suppresses melatonin via ipRGCs (460-480nm) | Delayed sleep onset by 1-2 hours; reduced REM [14] |
@@ -514,6 +514,8 @@ A structured 8-week protocol based on the research covered above. Implement chan
 
 ## Free Tools & Checklists
 
+📋 **Free Tools:** Download our [Sleep Optimization Protocol Tracker & Checklist](https://www.notion.so/b0ecb02d93c04b7eafcd1e9a2cfbd191)
+
 📖 **Full guide on [HealthSecrets.com](https://healthsecrets.com):**
 - [Sleep Optimization: Complete Guide to Better Sleep](https://healthsecrets.com/mental-wellness/sleep-optimization-guide) — Comprehensive sleep guide with supplement reviews, product recommendations, and step-by-step action plans
 
@@ -562,6 +564,8 @@ A structured 8-week protocol based on the research covered above. Implement chan
 ---
 
 ## Related Resources
+
+📋 **Free Tools:** Download our [Sleep Optimization Protocol Tracker & Checklist](https://www.notion.so/b0ecb02d93c04b7eafcd1e9a2cfbd191)
 
 📚 **On this site:**
 - [🧠 Insomnia Treatment Protocols](/healthsecrets/insomnia-treatment-protocols/) — CBT-I guide, sleep restriction schedules, stimulus control rules
