@@ -38,12 +38,12 @@ permalink: /prebiotic-foods-resources/
     {
       "@type": "FAQPage",
       "mainEntity": [
-        {"@type": "Question", "name": "What are the best prebiotic foods to eat daily?", "acceptedAnswer": {"@type": "Answer", "text": "The best daily prebiotic foods are garlic (11% inulin by weight), onions (2–3g prebiotic fiber per medium onion), oats (4g beta-glucan per half cup), and slightly green bananas (rich in resistant starch). These foods selectively feed Bifidobacterium and Lactobacillus species that produce beneficial short-chain fatty acids."}},
-        {"@type": "Question", "name": "How much prebiotic fiber do you need per day?", "acceptedAnswer": {"@type": "Answer", "text": "Research suggests 5–20g of prebiotic fiber daily for meaningful microbiome benefits. The ISAPP recommends starting at 2–3g and gradually increasing over 4 weeks to avoid gas and bloating. Most Western adults consume only 1–4g daily — well below the effective threshold."}},
+        {"@type": "Question", "name": "What are the best prebiotic foods to eat daily?", "acceptedAnswer": {"@type": "Answer", "text": "The best daily prebiotic foods are garlic (11% inulin by weight), onions (2-3g prebiotic fiber per medium onion), oats (4g beta-glucan per half cup), and slightly green bananas (rich in resistant starch). These foods selectively feed Bifidobacterium and Lactobacillus species that produce beneficial short-chain fatty acids."}},
+        {"@type": "Question", "name": "How much prebiotic fiber do you need per day?", "acceptedAnswer": {"@type": "Answer", "text": "Research suggests 5-20g of prebiotic fiber daily for meaningful microbiome benefits. The ISAPP recommends starting at 2-3g and gradually increasing over 4 weeks to avoid gas and bloating. Most Western adults consume only 1-4g daily — well below the effective threshold."}},
         {"@type": "Question", "name": "What is the difference between inulin FOS and GOS prebiotics?", "acceptedAnswer": {"@type": "Answer", "text": "Inulin is a long-chain fructan found in chicory root and garlic that primarily feeds Bifidobacterium. FOS (fructooligosaccharides) are shorter-chain fructans in bananas and asparagus that feed both Bifidobacterium and Lactobacillus. GOS (galactooligosaccharides) are found in legumes and dairy and have the broadest bifidogenic effect across age groups."}},
-        {"@type": "Question", "name": "Can prebiotics cause bloating and gas?", "acceptedAnswer": {"@type": "Answer", "text": "Yes — prebiotics can cause temporary bloating and gas, especially when introduced too quickly. A 2024 study in Nutrients found that combining inulin with resistant dextrin reduced gas production compared to inulin alone. Start with 2–3g daily and increase by 2–3g per week to minimize discomfort."}},
-        {"@type": "Question", "name": "What foods are highest in resistant starch?", "acceptedAnswer": {"@type": "Answer", "text": "Cooked and cooled potatoes contain the most resistant starch (up to 3.5g per 100g after cooling). Other top sources include cooked and cooled rice, slightly green bananas, legumes (especially white beans and lentils), and raw oats. Cooling cooked starches for 12–24 hours increases resistant starch content through retrogradation."}},
-        {"@type": "Question", "name": "Are prebiotic supplements as effective as prebiotic foods?", "acceptedAnswer": {"@type": "Answer", "text": "Prebiotic supplements deliver concentrated doses of specific fibers (typically inulin or FOS at 5–15g), but whole foods provide a broader spectrum of prebiotic types plus vitamins, minerals, and polyphenols. A 2024 clinical trial found both inulin and FOS supplements significantly increased Bifidobacterium, but food-based prebiotics offer additional nutritional synergies."}}
+        {"@type": "Question", "name": "Can prebiotics cause bloating and gas?", "acceptedAnswer": {"@type": "Answer", "text": "Yes — prebiotics can cause temporary bloating and gas, especially when introduced too quickly. A 2024 study in Nutrients found that combining inulin with resistant dextrin reduced gas production compared to inulin alone. Start with 2-3g daily and increase by 2-3g per week to minimize discomfort."}},
+        {"@type": "Question", "name": "What foods are highest in resistant starch?", "acceptedAnswer": {"@type": "Answer", "text": "Cooked and cooled potatoes contain the most resistant starch (up to 3.5g per 100g after cooling). Other top sources include cooked and cooled rice, slightly green bananas, legumes (especially white beans and lentils), and raw oats. Cooling cooked starches for 12-24 hours increases resistant starch content through retrogradation."}},
+        {"@type": "Question", "name": "Are prebiotic supplements as effective as prebiotic foods?", "acceptedAnswer": {"@type": "Answer", "text": "Prebiotic supplements deliver concentrated doses of specific fibers (typically inulin or FOS at 5-15g), but whole foods provide a broader spectrum of prebiotic types plus vitamins, minerals, and polyphenols. A 2024 clinical trial found both inulin and FOS supplements significantly increased Bifidobacterium, but food-based prebiotics offer additional nutritional synergies."}}
       ]
     },
     {
@@ -72,7 +72,7 @@ permalink: /prebiotic-foods-resources/
 
 A curated, evidence-based **prebiotic foods database** cataloguing 22+ foods organized by six fiber types — inulin, FOS, GOS, resistant starch, pectin, and beta-glucan — with grams per serving, preparation tips, and a 4-week gradual introduction protocol backed by PubMed research.
 
-<div id="tldr">
+<div id="tldr" markdown="1">
 
 > **TL;DR — Prebiotic Foods at a Glance:**
 > - **Jerusalem artichoke is the most potent prebiotic food** — up to 76% of its dry weight is inulin, dramatically boosting *Bifidobacterium* populations [1]
@@ -149,7 +149,7 @@ A 2024 study found that combining inulin with resistant dextrin produced superio
 I was genuinely surprised by how much inulin some of these everyday foods contain. Garlic, for instance, is 11% inulin by weight. That means every clove you toss into a stir-fry is quietly feeding your gut bacteria.
 
 | Food | Inulin Content | Serving Size | Prebiotic Fiber per Serving | Additional Benefits | Preparation Tips |
-|------|---------------|-------------|---------------------------|--------------------|-----------------|
+|------|---------------|-------------|---------------------------|--------------------|-----------------| 
 | **Chicory root** | 41–68% fresh weight | 1 tbsp ground | 3–5g | Coffee substitute, liver support | Brew as chicory coffee or add powder to smoothies |
 | **Jerusalem artichoke** | Up to 76% dry weight | ½ cup roasted | 12–18g | Iron, potassium, thiamine | Roast at 400°F 25 min; slice raw into salads |
 | **Garlic** | 11% of weight (inulin + FOS) | 2–3 cloves | 0.5–1g | Allicin antimicrobial, heart health | Crush and wait 10 min before cooking to preserve allicin |
@@ -339,13 +339,13 @@ The optimal dose depends on your goals:
 
 ## 📋 Free Tools
 
-📋 **Free Tools:** Download our [Prebiotic Foods Checklist & Daily Fiber Tracker](https://www.notion.so/4033184c30174d048e45ed4cb0c13672) — a free, interactive checklist and daily fiber tracker based on this research.
+📋 **Free Tools:** Download our [Prebiotic Foods Checklist & Daily Fiber Tracker](https://healthsecrets.notion.site) — a free, interactive checklist and daily fiber tracker based on this research.
 
 → [Browse all free health tools on Notion](https://healthsecrets.notion.site)
 
 ---
 
-<div id="faq">
+<div id="faq" markdown="1">
 
 ## FAQ
 
