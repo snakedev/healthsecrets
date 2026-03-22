@@ -60,7 +60,8 @@ author: Health Secrets
           {"@type": "ListItem", "position": 24, "url": "https://snakedev.github.io/healthsecrets/prebiotic-foods-resources/", "name": "Evidence-Based Prebiotic Foods Database"},
           {"@type": "ListItem", "position": 25, "url": "https://snakedev.github.io/healthsecrets/evidence-based-calcium-bone-health/", "name": "Evidence-Based Calcium & Bone Health"},
           {"@type": "ListItem", "position": 26, "url": "https://snakedev.github.io/healthsecrets/evidence-based-vitamin-c/", "name": "Evidence-Based Vitamin C"},
-          {"@type": "ListItem", "position": 27, "url": "https://snakedev.github.io/healthsecrets/magnesium-supplement-guide/", "name": "Magnesium Supplement Guide"}
+          {"@type": "ListItem", "position": 27, "url": "https://snakedev.github.io/healthsecrets/magnesium-supplement-guide/", "name": "Magnesium Supplement Guide"},
+          {"@type": "ListItem", "position": 28, "url": "https://snakedev.github.io/healthsecrets/evidence-based-child-immunity/", "name": "Evidence-Based Child Immunity"}
         ]
       }
     }
@@ -149,6 +150,11 @@ Strengthen your natural defenses with evidence-based strategies — from nutriti
 |----------|-------------|
 | **[Immune System Optimization Guide](/healthsecrets/immune-system-guide/)** | Essential immune nutrients, evidence-based supplement protocols, garlic and allicin research, seasonal immune strategies, and daily optimization routines |
 | **[Immune Nutrition Recipes](/healthsecrets/immune-nutrition-recipes/)** | 15+ evidence-based recipes with nutrient breakdowns mapping each meal to immune-supporting compounds like vitamin C, zinc, selenium, and omega-3 |
+| **[🧒 Evidence-Based Child Immunity](/healthsecrets/evidence-based-child-immunity/)** | Pediatric immune development by age, safe supplement protocols, nutrition strategies for picky eaters, red flags reference, and daily immune routines backed by AAP and PubMed research |
+
+**On [HealthSecrets.com](https://healthsecrets.com):**
+- [How to Boost Your Immune System Naturally](https://healthsecrets.com/immune-system/how-to-boost-your-immune-system-naturally-15-science-backed-strategies) — 15 science-backed strategies
+- [Boosting Children's Immunity Naturally](https://healthsecrets.com/immune-system/boost-child-immunity-naturally) — Parent's guide to pediatric immune health
 
 ---
 
@@ -202,7 +208,7 @@ Traditional remedies backed by modern science. Find out which natural treatments
 | Supplements | [Supplements Database](/healthsecrets/evidence-based-supplements/) - [Myths Fact-Checker](/healthsecrets/supplement-myths-fact-checker/) - [Calcium & Bone Health](/healthsecrets/evidence-based-calcium-bone-health/) - [Vitamin C](/healthsecrets/evidence-based-vitamin-c/) - [Magnesium](/healthsecrets/magnesium-supplement-guide/) | [Supplements Guide](https://healthsecrets.com/supplements/supplements-guide-evidence-based) |
 | Detox | [Detox Protocols](/healthsecrets/detox-protocols/) - [Lymphatic Drainage](/healthsecrets/lymphatic-drainage-guide/) - [Glutathione](/healthsecrets/evidence-based-glutathione/) | [Detox Guide](https://healthsecrets.com/detox/detox-guide-evidence-based) |
 | Longevity | [Biohacker Stack](/healthsecrets/biohacker-stack/) | [Longevity Secrets](https://healthsecrets.com/longevity/longevity-secrets-science-backed-strategies-to-live-longer) |
-| Immune | [Immune System Guide](/healthsecrets/immune-system-guide/) - [Immune Recipes](/healthsecrets/immune-nutrition-recipes/) | [Immune System Guide](https://healthsecrets.com/immune-system/how-to-boost-your-immune-system-naturally-15-science-backed-strategies) |
+| Immune | [Immune System Guide](/healthsecrets/immune-system-guide/) - [Immune Recipes](/healthsecrets/immune-nutrition-recipes/) - [Child Immunity](/healthsecrets/evidence-based-child-immunity/) | [Immune System Guide](https://healthsecrets.com/immune-system/how-to-boost-your-immune-system-naturally-15-science-backed-strategies) |
 | Inflammation | [Anti-Inflammation Toolkit](/healthsecrets/anti-inflammation-toolkit/) - [Headache Relief](/healthsecrets/natural-headache-relief/) - [CBD Resources](/healthsecrets/evidence-based-cbd/) | [Anti-Inflammatory Guide](https://healthsecrets.com/inflammation/reduce-inflammation-naturally-complete-anti-inflammatory-guide) |
 | Mental Wellness | [Brain Health Resources](/healthsecrets/brain-health-resources/) - [Anxiety Relief](/healthsecrets/anxiety-relief-toolkit/) - [Omega-3 Guide](/healthsecrets/omega-3-brain-health-guide/) - [Insomnia Protocols](/healthsecrets/insomnia-treatment-protocols/) - [Sleep Optimization](/healthsecrets/evidence-based-sleep-optimization/) | [Mental Wellness Guide](https://healthsecrets.com/mental-wellness/mental-wellness-guide) |
 | Natural Remedies | [Natural Remedies DB](/healthsecrets/natural-remedies-db/) - [Rosacea Care](/healthsecrets/rosacea-natural-care/) - [Bronchitis](/healthsecrets/bronchitis-natural-remedies/) | [Natural Remedies Guide](https://healthsecrets.com/natural-remedies/natural-remedies-guide) |
