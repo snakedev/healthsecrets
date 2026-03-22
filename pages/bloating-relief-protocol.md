@@ -241,7 +241,7 @@ When you need fast relief, follow this structured protocol:
 
 Put this protocol into practice with free interactive Notion templates:
 
-- **💨 Bloating Relief & Food Diary** — Daily meal + symptom tracker with trigger food reference and weekly score summary
+- 📋 **Free Tools:** Download our [💨 Bloating Relief & Food Diary](https://healthsecrets.notion.site) — Daily meal + symptom tracker with trigger food reference and weekly score summary
 - **🦠 30-Day Gut Reset Checklist** — Complete 4R gut healing protocol
 
 → [Browse all free health tools on Notion](https://healthsecrets.notion.site)
