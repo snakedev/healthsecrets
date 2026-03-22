@@ -428,6 +428,7 @@ Contributions are welcome! To add or update pediatric immune health resources:
 
 ## Further Reading
 
+- 📋 **Free Tools:** Download our [Children's Immune Health Tracker & Supplement Dosing Guide](https://www.notion.so/c9cb0a10120d4da080a62562068643fb)
 - [Boosting Children's Immunity Naturally — Parent's Guide](https://healthsecrets.com/immune-system/boost-child-immunity-naturally) — Complete guide with product recommendations and age-specific protocols
 - [Immune System Optimization Guide](/healthsecrets/immune-system-guide/) — Adult immune health strategies
 - [Immune Nutrition Recipes](/healthsecrets/immune-nutrition-recipes/) — Evidence-based immune-boosting recipes
