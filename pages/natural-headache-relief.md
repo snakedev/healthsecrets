@@ -37,6 +37,8 @@ A curated, evidence-based guide to natural headache relief. Covers headache type
 
 > **📖 Full Guide:** Read our comprehensive guide on [natural headache remedies](https://healthsecrets.com/natural-remedies/natural-remedies-headaches) for 15 detailed methods with complete research citations.
 
+> 📋 **Free Tools:** Download our [Headache Trigger Tracker & Natural Relief Checklist](https://www.notion.so/964c04696bc14703a47ea0113667de8a)
+
 ---
 
 ## Table of Contents
@@ -244,6 +246,7 @@ Patterns typically emerge after 4-6 weeks of consistent tracking.
 
 | Resource | Link |
 |----------|------|
+| 📋 Free Tools: Headache Trigger Tracker | [Download →](https://www.notion.so/964c04696bc14703a47ea0113667de8a) |
 | 🧘 Anxiety Relief Toolkit | [View →](/healthsecrets/anxiety-relief-toolkit/) |
 | 💊 Evidence-Based Supplements Database | [View →](/healthsecrets/evidence-based-supplements/) |
 | 🛡️ Immune System Optimization Guide | [View →](/healthsecrets/immune-system-guide/) |
