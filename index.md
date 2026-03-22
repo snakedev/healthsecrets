@@ -56,7 +56,8 @@ author: Health Secrets
           {"@type": "ListItem", "position": 20, "url": "https://snakedev.github.io/healthsecrets/evidence-based-glutathione/", "name": "Evidence-Based Glutathione"},
           {"@type": "ListItem", "position": 21, "url": "https://snakedev.github.io/healthsecrets/evidence-based-cbd/", "name": "Evidence-Based CBD Resources"},
           {"@type": "ListItem", "position": 22, "url": "https://snakedev.github.io/healthsecrets/insomnia-treatment-protocols/", "name": "Insomnia Treatment Protocols"},
-          {"@type": "ListItem", "position": 23, "url": "https://snakedev.github.io/healthsecrets/evidence-based-sleep-optimization/", "name": "Evidence-Based Sleep Optimization Protocols"}
+          {"@type": "ListItem", "position": 23, "url": "https://snakedev.github.io/healthsecrets/evidence-based-sleep-optimization/", "name": "Evidence-Based Sleep Optimization Protocols"},
+          {"@type": "ListItem", "position": 24, "url": "https://snakedev.github.io/healthsecrets/prebiotic-foods-resources/", "name": "Evidence-Based Prebiotic Foods Database"}
         ]
       }
     }
@@ -91,6 +92,7 @@ Your gut microbiome influences digestion, immunity, mood, and metabolism. These 
 | **[Bloating Relief Protocol](/healthsecrets/bloating-relief-protocol/)** | Evidence-graded natural remedies, trigger food database, elimination protocols, and supplement stacks for bloating relief |
 | **[Gut Detox Protocol](/healthsecrets/gut-detox-protocol/)** | 7-day step-by-step digestive reset with elimination diet, supplement dosing tables, daily food lists, and reintroduction schedule |
 | **[Gut Health Meal Plan Resources](/healthsecrets/gut-health-meal-plan-resources/)** | 7-day anti-inflammatory menu, 50+ gut-healing foods database, shopping lists, meal prep protocols, and curated PubMed research |
+| **[Evidence-Based Prebiotic Foods Database](/healthsecrets/prebiotic-foods-resources/)** | 22+ prebiotic foods with fiber types, grams per serving, 4-week gradual introduction protocol, and curated PubMed research |
 
 ---
 
@@ -184,7 +186,7 @@ Traditional remedies backed by modern science. Find out which natural treatments
 
 | Pillar | GitHub Resource | HealthSecrets.com Guide |
 |--------|----------------|------------------------|
-| Gut Health | [Awesome Gut Health](/healthsecrets/awesome-gut-health/) - [Bloating Relief](/healthsecrets/bloating-relief-protocol/) - [Gut Detox](/healthsecrets/gut-detox-protocol/) - [Meal Plan](/healthsecrets/gut-health-meal-plan-resources/) | [Complete Gut Health Guide](https://healthsecrets.com/gut-health/complete-guide-gut-health) |
+| Gut Health | [Awesome Gut Health](/healthsecrets/awesome-gut-health/) - [Bloating Relief](/healthsecrets/bloating-relief-protocol/) - [Gut Detox](/healthsecrets/gut-detox-protocol/) - [Meal Plan](/healthsecrets/gut-health-meal-plan-resources/) - [Prebiotic Foods](/healthsecrets/prebiotic-foods-resources/) | [Complete Gut Health Guide](https://healthsecrets.com/gut-health/complete-guide-gut-health) |
 | Supplements | [Supplements Database](/healthsecrets/evidence-based-supplements/) - [Myths Fact-Checker](/healthsecrets/supplement-myths-fact-checker/) | [Supplements Guide](https://healthsecrets.com/supplements/supplements-guide-evidence-based) |
 | Detox | [Detox Protocols](/healthsecrets/detox-protocols/) - [Lymphatic Drainage](/healthsecrets/lymphatic-drainage-guide/) - [Glutathione](/healthsecrets/evidence-based-glutathione/) | [Detox Guide](https://healthsecrets.com/detox/detox-guide-evidence-based) |
 | Longevity | [Biohacker Stack](/healthsecrets/biohacker-stack/) | [Longevity Secrets](https://healthsecrets.com/longevity/longevity-secrets-science-backed-strategies-to-live-longer) |
