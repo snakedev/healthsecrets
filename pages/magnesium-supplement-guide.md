@@ -65,6 +65,7 @@ This guide exists to cut through the noise. For the complete deep-dive on magnes
 - [Deficiency Risk Checklist](#deficiency-risk-checklist)
 - [Testing Your Magnesium Levels](#testing-your-magnesium-levels)
 - [Curated Research Library](#curated-research-library)
+- [📋 Free Tools](#-free-tools)
 - [Contributing](#contributing)
 - [Disclaimer](#disclaimer)
 - [References](#references)
@@ -279,6 +280,16 @@ Key studies and reviews organized by topic, graded by evidence quality:
 
 ### Drug Interactions
 - **[A]** Gröber, U. et al. "Magnesium and Drugs." *Int J Mol Sci*, 2019. [PMC6539869](https://pmc.ncbi.nlm.nih.gov/articles/PMC6539869/)
+
+---
+
+## 📋 Free Tools
+
+Build your personalized magnesium protocol with our free interactive Notion templates:
+
+📋 **Free Tools:** Download our [💊 Magnesium Form Selector & Daily Dosing Tracker](https://healthsecrets.notion.site) — interactive template with form selector, dosing-by-goal table, deficiency risk assessment, and food sources reference
+
+→ [Browse all free health tools on Notion](https://healthsecrets.notion.site)
 
 ---
 
