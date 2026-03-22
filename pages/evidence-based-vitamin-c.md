@@ -237,6 +237,8 @@ For educational purposes only. Not medical advice. Consult a healthcare professi
 - [Anti-Inflammation Toolkit](/healthsecrets/anti-inflammation-toolkit/)
 - [Calcium & Bone Health](/healthsecrets/evidence-based-calcium-bone-health/)
 
+📋 **Free Tools:** Download our [🍊 Vitamin C Supplement Selector & Dosing Tracker](https://www.notion.so/5f9d9de620894dcfb3f2b9cabe0b67c7)
+
 **On HealthSecrets.com:**
 - [Vitamin C Complete Guide](https://healthsecrets.com/supplements/vitamin-c-complete-guide-immune-and-antioxidant-support)
 - [Immune System Guide](https://healthsecrets.com/immune-system/how-to-boost-your-immune-system-naturally-15-science-backed-strategies)
