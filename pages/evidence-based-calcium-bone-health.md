@@ -233,6 +233,9 @@ For educational purposes only. Not medical advice. Consult a healthcare professi
 
 ## Related Resources
 
+📋 **Free Tools:** Download our [Calcium & Bone Health Supplement Dosing Tracker](https://www.notion.so/cb33e09b64644d0b93a418030274e6e9)
+
+**On this site:**
 - [Evidence-Based Supplements Database](/healthsecrets/evidence-based-supplements/)
 - [Magnesium Supplement Guide](/healthsecrets/magnesium-supplement-guide/)
 - [Collagen & Gut Health Protocols](/healthsecrets/collagen-gut-health-protocols/)
