@@ -149,7 +149,7 @@ A 2024 study found that combining inulin with resistant dextrin produced superio
 I was genuinely surprised by how much inulin some of these everyday foods contain. Garlic, for instance, is 11% inulin by weight. That means every clove you toss into a stir-fry is quietly feeding your gut bacteria.
 
 | Food | Inulin Content | Serving Size | Prebiotic Fiber per Serving | Additional Benefits | Preparation Tips |
-|------|---------------|-------------|---------------------------|--------------------|-----------------| 
+|------|---------------|-------------|---------------------------|--------------------|-----------------|
 | **Chicory root** | 41–68% fresh weight | 1 tbsp ground | 3–5g | Coffee substitute, liver support | Brew as chicory coffee or add powder to smoothies |
 | **Jerusalem artichoke** | Up to 76% dry weight | ½ cup roasted | 12–18g | Iron, potassium, thiamine | Roast at 400°F 25 min; slice raw into salads |
 | **Garlic** | 11% of weight (inulin + FOS) | 2–3 cloves | 0.5–1g | Allicin antimicrobial, heart health | Crush and wait 10 min before cooking to preserve allicin |
@@ -339,9 +339,7 @@ The optimal dose depends on your goals:
 
 ## 📋 Free Tools
 
-📋 **Free Tools:** Download our [Gut-Healing Foods Shopping List & Weekly Tracker](https://healthsecrets.notion.site) — a free, interactive checklist based on this research.
-
-<!-- TODO: Add specific Notion page link when published -->
+📋 **Free Tools:** Download our [Prebiotic Foods Checklist & Daily Fiber Tracker](https://www.notion.so/4033184c30174d048e45ed4cb0c13672) — a free, interactive checklist and daily fiber tracker based on this research.
 
 → [Browse all free health tools on Notion](https://healthsecrets.notion.site)
 
