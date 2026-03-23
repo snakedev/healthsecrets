@@ -35,7 +35,7 @@ keywords:
     "@id": "https://snakedev.github.io/healthsecrets/brain-health-resources/"
   },
   "datePublished": "2026-03-20",
-  "dateModified": "2026-03-20"
+  "dateModified": "2026-03-23"
 }
 </script>
 
@@ -327,7 +327,7 @@ Chronic stress elevates cortisol, which:
 ### Brain Stack: Beginner vs Advanced
 
 | Level | Morning | Afternoon | Evening |
-|-------|---------|-----------|---------|
+|-------|---------|-----------|---------| 
 | **Beginner** | Caffeine + L-theanine, omega-3 | — | Magnesium glycinate 300mg |
 | **Intermediate** | + Creatine 5g, citicoline 250mg | Rhodiola 200mg (if stressed) | + L-theanine 200mg |
 | **Advanced** | + Lion's Mane 1g, alpha-GPC 300mg | + Bacopa 300mg (with lunch) | + Glycine 3g |
@@ -377,6 +377,9 @@ Chronic stress elevates cortisol, which:
 - [💊 Evidence-Based Supplements Database](/healthsecrets/evidence-based-supplements/) — Complete supplement reference with dosing
 - [⏳ Biohacker Stack: Longevity Protocols](/healthsecrets/biohacker-stack/) — Nootropic stacks, fasting, biomarker optimization
 - [🛡️ Immune System Optimization Guide](/healthsecrets/immune-system-guide/) — Immune health overlaps with brain health
+
+📝 **On Medium:**
+- [The Gut-Brain Connection: Why Your Mood Starts in Your Stomach](https://medium.com/healthsecrets/the-gut-brain-connection-why-your-mood-starts-in-your-stomach-c46cfdd2be28) — Deep-dive on the gut-brain axis and mental health
 
 📖 **Full guides on [HealthSecrets.com](https://healthsecrets.com):**
 - [HealthSecrets mental wellness guide](https://healthsecrets.com/mental-wellness/mental-wellness-guide) — Complete natural mental wellness strategies
