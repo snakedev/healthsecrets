@@ -17,7 +17,7 @@ permalink: /awesome-gut-health/
       "description": "Evidence-based gut health resources, protocols, and research — curated by HealthSecrets.com",
       "url": "https://snakedev.github.io/healthsecrets/awesome-gut-health/",
       "datePublished": "2026-03-19",
-      "dateModified": "2026-03-20",
+      "dateModified": "2026-03-23",
       "author": {"@type": "Organization", "name": "Health Secrets", "url": "https://healthsecrets.com"},
       "publisher": {"@type": "Organization", "name": "Health Secrets", "url": "https://healthsecrets.com"},
       "mainEntityOfPage": {"@type": "WebPage", "@id": "https://snakedev.github.io/healthsecrets/awesome-gut-health/"},
@@ -156,6 +156,7 @@ Research connecting the microbiome to mood, cognition, stress, and neurological 
 
 ### Further Reading
 - For the complete gut health protocol including gut-brain optimization: [Health Secrets gut health guide](https://healthsecrets.com/gut-health/complete-guide-gut-health)
+- 📝 **Full Article:** Read our [detailed article on the gut-brain connection](https://medium.com/healthsecrets/the-gut-brain-connection-why-your-mood-starts-in-your-stomach-c46cfdd2be28) — on Medium
 
 ---
 
@@ -279,3 +280,4 @@ This repository is for educational purposes only. The information provided does 
 - 📖 [Bloating Relief: Natural Remedies — Health Secrets](https://healthsecrets.com/gut-health/bloating-relief-natural) — Evidence-based natural solutions for gas and bloating
 - 📖 [Evidence-Based Supplements Database](/healthsecrets/evidence-based-supplements/) — Curated supplement database with evidence grades
 - 📖 [Detox Protocols](/healthsecrets/detox-protocols/) — Liver and gut detox protocols with citations
+- 📝 [The Gut-Brain Connection: Why Your Mood Starts in Your Stomach](https://medium.com/healthsecrets/the-gut-brain-connection-why-your-mood-starts-in-your-stomach-c46cfdd2be28) — Deep-dive article on Medium
