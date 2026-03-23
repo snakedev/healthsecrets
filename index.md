@@ -62,7 +62,8 @@ author: Health Secrets
           {"@type": "ListItem", "position": 26, "url": "https://snakedev.github.io/healthsecrets/evidence-based-vitamin-c/", "name": "Evidence-Based Vitamin C"},
           {"@type": "ListItem", "position": 27, "url": "https://snakedev.github.io/healthsecrets/magnesium-supplement-guide/", "name": "Magnesium Supplement Guide"},
           {"@type": "ListItem", "position": 28, "url": "https://snakedev.github.io/healthsecrets/evidence-based-child-immunity/", "name": "Evidence-Based Child Immunity"},
-          {"@type": "ListItem", "position": 29, "url": "https://snakedev.github.io/healthsecrets/zinc-supplement-guide/", "name": "Zinc Supplement Guide"}
+          {"@type": "ListItem", "position": 29, "url": "https://snakedev.github.io/healthsecrets/zinc-supplement-guide/", "name": "Zinc Supplement Guide"},
+          {"@type": "ListItem", "position": 30, "url": "https://snakedev.github.io/healthsecrets/fermented-foods-guide/", "name": "Evidence-Based Fermented Foods Resources"}
         ]
       }
     }
@@ -98,6 +99,7 @@ Your gut microbiome influences digestion, immunity, mood, and metabolism. These 
 | **[Gut Detox Protocol](/healthsecrets/gut-detox-protocol/)** | 7-day step-by-step digestive reset with elimination diet, supplement dosing tables, daily food lists, and reintroduction schedule |
 | **[Gut Health Meal Plan Resources](/healthsecrets/gut-health-meal-plan-resources/)** | 7-day anti-inflammatory menu, 50+ gut-healing foods database, shopping lists, meal prep protocols, and curated PubMed research |
 | **[Evidence-Based Prebiotic Foods Database](/healthsecrets/prebiotic-foods-resources/)** | 22+ prebiotic foods with fiber types, grams per serving, 4-week gradual introduction protocol, and curated PubMed research |
+| **[Evidence-Based Fermented Foods Resources](/healthsecrets/fermented-foods-guide/)** | Lacto-fermentation recipes, salt ratio charts, probiotic foods database, fermentation timelines, and troubleshooting guides backed by PubMed research |
 
 ---
 
@@ -207,7 +209,7 @@ Traditional remedies backed by modern science. Find out which natural treatments
 
 | Pillar | GitHub Resource | HealthSecrets.com Guide |
 |--------|----------------|------------------------|
-| Gut Health | [Awesome Gut Health](/healthsecrets/awesome-gut-health/) - [Bloating Relief](/healthsecrets/bloating-relief-protocol/) - [Gut Detox](/healthsecrets/gut-detox-protocol/) - [Meal Plan](/healthsecrets/gut-health-meal-plan-resources/) - [Prebiotic Foods](/healthsecrets/prebiotic-foods-resources/) | [Complete Gut Health Guide](https://healthsecrets.com/gut-health/complete-guide-gut-health) |
+| Gut Health | [Awesome Gut Health](/healthsecrets/awesome-gut-health/) - [Bloating Relief](/healthsecrets/bloating-relief-protocol/) - [Gut Detox](/healthsecrets/gut-detox-protocol/) - [Meal Plan](/healthsecrets/gut-health-meal-plan-resources/) - [Prebiotic Foods](/healthsecrets/prebiotic-foods-resources/) - [Fermented Foods](/healthsecrets/fermented-foods-guide/) | [Complete Gut Health Guide](https://healthsecrets.com/gut-health/complete-guide-gut-health) |
 | Supplements | [Supplements Database](/healthsecrets/evidence-based-supplements/) - [Myths Fact-Checker](/healthsecrets/supplement-myths-fact-checker/) - [Calcium & Bone Health](/healthsecrets/evidence-based-calcium-bone-health/) - [Vitamin C](/healthsecrets/evidence-based-vitamin-c/) - [Magnesium](/healthsecrets/magnesium-supplement-guide/) - [Zinc](/healthsecrets/zinc-supplement-guide/) | [Supplements Guide](https://healthsecrets.com/supplements/supplements-guide-evidence-based) |
 | Detox | [Detox Protocols](/healthsecrets/detox-protocols/) - [Lymphatic Drainage](/healthsecrets/lymphatic-drainage-guide/) - [Glutathione](/healthsecrets/evidence-based-glutathione/) | [Detox Guide](https://healthsecrets.com/detox/detox-guide-evidence-based) |
 | Longevity | [Biohacker Stack](/healthsecrets/biohacker-stack/) | [Longevity Secrets](https://healthsecrets.com/longevity/longevity-secrets-science-backed-strategies-to-live-longer) |
