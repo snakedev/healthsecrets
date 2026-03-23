@@ -311,6 +311,7 @@ The gut detox protocol works best when supported by these daily habits:
 
 - 🦠 [Awesome Gut Health Resources](/healthsecrets/awesome-gut-health/) — Curated research, probiotic database, and the 4R healing protocol
 - 💧 [Evidence-Based Detox Protocols](/healthsecrets/detox-protocols/) — Liver detox phases, heavy metal chelation, and full detox protocol suite
+- 💼 **LinkedIn:** See our [thought leadership post](https://www.linkedin.com/pulse/science-behind-gut-reset-protocols-why-most-get-wrong-healthsecrets-kp83e/)
 
 ### On HealthSecrets.com
 
