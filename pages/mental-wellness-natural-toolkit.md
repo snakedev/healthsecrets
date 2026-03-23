@@ -536,7 +536,7 @@ Social interaction triggers oxytocin release, regulates the HPA stress axis, and
 - [💊 Evidence-Based Supplements Database](/healthsecrets/evidence-based-supplements/) — Complete supplement reference with evidence grades
 - [🧲 Magnesium Supplement Guide](/healthsecrets/magnesium-supplement-guide/) — Forms comparison, dosing by goal, and food sources
 
-<!-- TODO: Add Notion page link when published -->
+📋 **Free Tools:** Download our [🧘 Daily Mental Wellness Toolkit](https://www.notion.so/bc9c00c675cd44eba8c7ac7c52e906d4)
 
 ---
 
