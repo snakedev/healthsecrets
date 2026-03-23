@@ -64,8 +64,7 @@ author: Health Secrets
           {"@type": "ListItem", "position": 28, "url": "https://snakedev.github.io/healthsecrets/evidence-based-child-immunity/", "name": "Evidence-Based Child Immunity"},
           {"@type": "ListItem", "position": 29, "url": "https://snakedev.github.io/healthsecrets/zinc-supplement-guide/", "name": "Zinc Supplement Guide"},
           {"@type": "ListItem", "position": 30, "url": "https://snakedev.github.io/healthsecrets/fermented-foods-guide/", "name": "Evidence-Based Fermented Foods Resources"},
-          {"@type": "ListItem", "position": 31, "url": "https://snakedev.github.io/healthsecrets/complete-supplement-reference/", "name": "Complete Evidence-Based Supplement Reference Guide"},
-          {"@type": "ListItem", "position": 32, "url": "https://snakedev.github.io/healthsecrets/brain-fog-natural-solutions/", "name": "Brain Fog Natural Solutions"}
+          {"@type": "ListItem", "position": 31, "url": "https://snakedev.github.io/healthsecrets/longevity-science-toolkit/", "name": "Longevity Science Toolkit"}
         ]
       }
     }
@@ -117,7 +116,6 @@ Cut through the noise. Find out which supplements have real evidence behind them
 | **[Evidence-Based Vitamin C](/healthsecrets/evidence-based-vitamin-c/)** | Forms comparison (ascorbic acid, liposomal, buffered, Ester-C), dose-dependent absorption kinetics, immune protocols, food sources, and safety profiles |
 | **[Magnesium Supplement Guide](/healthsecrets/magnesium-supplement-guide/)** | Complete forms comparison table, dosing-by-goal protocols, food sources database, drug interactions reference, and curated PubMed research |
 | **[Zinc Supplement Guide](/healthsecrets/zinc-supplement-guide/)** | Complete zinc forms comparison (7 forms), dosing charts, zinc-copper ratio calculator, food sources database, and curated PubMed research |
-| **[Complete Evidence-Based Supplement Reference Guide](/healthsecrets/complete-supplement-reference/)** | Supplement evaluation framework, vitamin and mineral databases with RDA/UL values, bioavailability comparisons by form, third-party testing certifications, and drug-supplement interaction safety profiles |
 
 **On [HealthSecrets.com](https://healthsecrets.com):**
 - [Supplements Guide](https://healthsecrets.com/supplements/supplements-guide-evidence-based) — Complete evidence-based supplements guide
@@ -147,6 +145,7 @@ What does the science actually say about living longer? Protocols, biomarkers, a
 | Resource | What You Get |
 |----------|-------------|
 | **[Biohacker Stack: Longevity Protocols](/healthsecrets/biohacker-stack/)** | NAD+ optimization, sleep architecture, longevity biomarker panels, nootropic stacks, fasting protocols, and weekly frameworks |
+| **[Longevity Science Toolkit](/healthsecrets/longevity-science-toolkit/)** | Hallmarks of aging framework, Blue Zones research, intervention evidence ratings (rapamycin, metformin, CR, fasting), biological age biomarkers, lifestyle protocols, and landmark longevity studies database |
 
 ---
 
@@ -193,7 +192,6 @@ From brain fog to sleep quality to stress management — evidence-based strategi
 | **[Omega-3 Brain Health Resources](/healthsecrets/omega-3-brain-health-guide/)** | DHA vs EPA comparison, dosing protocols by condition, supplement quality checklist, and food sources for optimal brain function |
 | **[Insomnia Treatment Protocols](/healthsecrets/insomnia-treatment-protocols/)** | CBT-I components, sleep restriction schedules, stimulus control rules, insomnia type classification, and supplement evidence ratings |
 | **[Evidence-Based Sleep Optimization Protocols](/healthsecrets/evidence-based-sleep-optimization/)** | Sleep architecture guides, circadian rhythm optimization, supplement dosing tables, sleep tracking metrics, and disorder identification resources |
-| **[Brain Fog Natural Solutions](/healthsecrets/brain-fog-natural-solutions/)** | Brain fog classification (medical vs lifestyle vs nutritional causes), elimination protocols, supplement stacks, testing guides, and severity tracking scale |
 
 ---
 
@@ -214,12 +212,12 @@ Traditional remedies backed by modern science. Find out which natural treatments
 | Pillar | GitHub Resource | HealthSecrets.com Guide |
 |--------|----------------|------------------------|
 | Gut Health | [Awesome Gut Health](/healthsecrets/awesome-gut-health/) - [Bloating Relief](/healthsecrets/bloating-relief-protocol/) - [Gut Detox](/healthsecrets/gut-detox-protocol/) - [Meal Plan](/healthsecrets/gut-health-meal-plan-resources/) - [Prebiotic Foods](/healthsecrets/prebiotic-foods-resources/) - [Fermented Foods](/healthsecrets/fermented-foods-guide/) | [Complete Gut Health Guide](https://healthsecrets.com/gut-health/complete-guide-gut-health) |
-| Supplements | [Supplements Database](/healthsecrets/evidence-based-supplements/) - [Myths Fact-Checker](/healthsecrets/supplement-myths-fact-checker/) - [Calcium & Bone Health](/healthsecrets/evidence-based-calcium-bone-health/) - [Vitamin C](/healthsecrets/evidence-based-vitamin-c/) - [Magnesium](/healthsecrets/magnesium-supplement-guide/) - [Zinc](/healthsecrets/zinc-supplement-guide/) - [Complete Reference](/healthsecrets/complete-supplement-reference/) | [Supplements Guide](https://healthsecrets.com/supplements/supplements-guide-evidence-based) |
+| Supplements | [Supplements Database](/healthsecrets/evidence-based-supplements/) - [Myths Fact-Checker](/healthsecrets/supplement-myths-fact-checker/) - [Calcium & Bone Health](/healthsecrets/evidence-based-calcium-bone-health/) - [Vitamin C](/healthsecrets/evidence-based-vitamin-c/) - [Magnesium](/healthsecrets/magnesium-supplement-guide/) - [Zinc](/healthsecrets/zinc-supplement-guide/) | [Supplements Guide](https://healthsecrets.com/supplements/supplements-guide-evidence-based) |
 | Detox | [Detox Protocols](/healthsecrets/detox-protocols/) - [Lymphatic Drainage](/healthsecrets/lymphatic-drainage-guide/) - [Glutathione](/healthsecrets/evidence-based-glutathione/) | [Detox Guide](https://healthsecrets.com/detox/detox-guide-evidence-based) |
-| Longevity | [Biohacker Stack](/healthsecrets/biohacker-stack/) | [Longevity Secrets](https://healthsecrets.com/longevity/longevity-secrets-science-backed-strategies-to-live-longer) |
+| Longevity | [Biohacker Stack](/healthsecrets/biohacker-stack/) - [Longevity Science Toolkit](/healthsecrets/longevity-science-toolkit/) | [Longevity Secrets](https://healthsecrets.com/longevity/longevity-secrets-science-backed-strategies-to-live-longer) |
 | Immune | [Immune System Guide](/healthsecrets/immune-system-guide/) - [Immune Recipes](/healthsecrets/immune-nutrition-recipes/) - [Child Immunity](/healthsecrets/evidence-based-child-immunity/) | [Immune System Guide](https://healthsecrets.com/immune-system/how-to-boost-your-immune-system-naturally-15-science-backed-strategies) |
 | Inflammation | [Anti-Inflammation Toolkit](/healthsecrets/anti-inflammation-toolkit/) - [Headache Relief](/healthsecrets/natural-headache-relief/) - [CBD Resources](/healthsecrets/evidence-based-cbd/) | [Anti-Inflammatory Guide](https://healthsecrets.com/inflammation/reduce-inflammation-naturally-complete-anti-inflammatory-guide) |
-| Mental Wellness | [Brain Health Resources](/healthsecrets/brain-health-resources/) - [Anxiety Relief](/healthsecrets/anxiety-relief-toolkit/) - [Omega-3 Guide](/healthsecrets/omega-3-brain-health-guide/) - [Insomnia Protocols](/healthsecrets/insomnia-treatment-protocols/) - [Sleep Optimization](/healthsecrets/evidence-based-sleep-optimization/) - [Brain Fog Solutions](/healthsecrets/brain-fog-natural-solutions/) | [Mental Wellness Guide](https://healthsecrets.com/mental-wellness/mental-wellness-guide) |
+| Mental Wellness | [Brain Health Resources](/healthsecrets/brain-health-resources/) - [Anxiety Relief](/healthsecrets/anxiety-relief-toolkit/) - [Omega-3 Guide](/healthsecrets/omega-3-brain-health-guide/) - [Insomnia Protocols](/healthsecrets/insomnia-treatment-protocols/) - [Sleep Optimization](/healthsecrets/evidence-based-sleep-optimization/) | [Mental Wellness Guide](https://healthsecrets.com/mental-wellness/mental-wellness-guide) |
 | Natural Remedies | [Natural Remedies DB](/healthsecrets/natural-remedies-db/) - [Rosacea Care](/healthsecrets/rosacea-natural-care/) - [Bronchitis](/healthsecrets/bronchitis-natural-remedies/) | [Natural Remedies Guide](https://healthsecrets.com/natural-remedies/natural-remedies-guide) |
 
 ---
