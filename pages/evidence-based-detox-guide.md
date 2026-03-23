@@ -423,7 +423,7 @@ Peer-reviewed research organized by detox pathway and topic:
 
 ## Free Tools & Checklists
 
-<!-- TODO: Add Notion page link when published -->
+📋 **Free Tools:** Download our [💧 7-Day Detox Meal Plan Template](https://healthsecrets.notion.site)
 
 📋 **More Protocols:** See our [Evidence-Based Detox Protocols](/healthsecrets/detox-protocols/) for step-by-step liver support, heavy metal chelation strategies, and gut detox guides.
 
