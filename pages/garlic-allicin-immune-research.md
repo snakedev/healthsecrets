@@ -407,6 +407,9 @@ A traditional preparation that combines garlic with other immune-boosting ingred
 - [🍽️ Immune Nutrition Recipes](/healthsecrets/immune-nutrition-recipes/) — 15+ evidence-based recipes with immune nutrient breakdowns
 - [💊 Evidence-Based Supplements Database](/healthsecrets/evidence-based-supplements/) — Full supplement reference with dosing protocols
 
+📋 **Free Tools:**
+- [🧄 Garlic for Immunity Quick Reference](https://healthsecrets.notion.site) — Garlic forms comparison, allicin maximization guide, dosing protocols, and daily recipes
+
 📖 **Full guides on [HealthSecrets.com](https://healthsecrets.com):**
 - [Garlic for Immune Health: Complete Guide](https://healthsecrets.com/immune-system/garlic-immune-health) — Deep dive on allicin biochemistry, supplement reviews, and protocols
 - [How to Boost Your Immune System Naturally](https://healthsecrets.com/immune-system/how-to-boost-your-immune-system-naturally-15-science-backed-strategies) — 15 science-backed strategies for immune support
