@@ -69,7 +69,8 @@ author: Health Secrets
           {"@type": "ListItem", "position": 33, "url": "https://snakedev.github.io/healthsecrets/heavy-metal-chelation-safety/", "name": "Evidence-Based Heavy Metal Chelation Safety Resources"},
           {"@type": "ListItem", "position": 34, "url": "https://snakedev.github.io/healthsecrets/immune-system-science-toolkit/", "name": "Immune System Science Toolkit"},
           {"@type": "ListItem", "position": 35, "url": "https://snakedev.github.io/healthsecrets/evidence-based-detox-guide/", "name": "Evidence-Based Detox Guide"},
-          {"@type": "ListItem", "position": 36, "url": "https://snakedev.github.io/healthsecrets/sleep-hygiene-evidence-protocols/", "name": "Sleep Hygiene Evidence-Based Protocols"}
+          {"@type": "ListItem", "position": 36, "url": "https://snakedev.github.io/healthsecrets/sleep-hygiene-evidence-protocols/", "name": "Sleep Hygiene Evidence-Based Protocols"},
+          {"@type": "ListItem", "position": 37, "url": "https://snakedev.github.io/healthsecrets/mental-wellness-natural-toolkit/", "name": "Mental Wellness Natural Toolkit"}
         ]
       }
     }
@@ -202,6 +203,7 @@ From brain fog to sleep quality to stress management — evidence-based strategi
 | **[Insomnia Treatment Protocols](/healthsecrets/insomnia-treatment-protocols/)** | CBT-I components, sleep restriction schedules, stimulus control rules, insomnia type classification, and supplement evidence ratings |
 | **[Evidence-Based Sleep Optimization Protocols](/healthsecrets/evidence-based-sleep-optimization/)** | Sleep architecture guides, circadian rhythm optimization, supplement dosing tables, sleep tracking metrics, and disorder identification resources |
 | **[Sleep Hygiene Evidence-Based Protocols](/healthsecrets/sleep-hygiene-evidence-protocols/)** | 15 rules ranked by clinical evidence strength, sleep environment optimization, circadian alignment protocols, supplement timing, and sleep tracking tools |
+| **[Mental Wellness Natural Toolkit](/healthsecrets/mental-wellness-natural-toolkit/)** | Comprehensive mental wellness framework covering nutrition, sleep, exercise, stress management, supplement protocols, gut-brain axis research, and a 30-day reset protocol |
 
 ---
 
@@ -227,7 +229,7 @@ Traditional remedies backed by modern science. Find out which natural treatments
 | Longevity | [Biohacker Stack](/healthsecrets/biohacker-stack/) - [Longevity Science Toolkit](/healthsecrets/longevity-science-toolkit/) | [Longevity Secrets](https://healthsecrets.com/longevity/longevity-secrets-science-backed-strategies-to-live-longer) |
 | Immune | [Immune System Guide](/healthsecrets/immune-system-guide/) - [Immune Recipes](/healthsecrets/immune-nutrition-recipes/) - [Child Immunity](/healthsecrets/evidence-based-child-immunity/) - [Immune Science Toolkit](/healthsecrets/immune-system-science-toolkit/) | [Immune System Guide](https://healthsecrets.com/immune-system/how-to-boost-your-immune-system-naturally-15-science-backed-strategies) |
 | Inflammation | [Anti-Inflammation Toolkit](/healthsecrets/anti-inflammation-toolkit/) - [Headache Relief](/healthsecrets/natural-headache-relief/) - [CBD Resources](/healthsecrets/evidence-based-cbd/) | [Anti-Inflammatory Guide](https://healthsecrets.com/inflammation/reduce-inflammation-naturally-complete-anti-inflammatory-guide) |
-| Mental Wellness | [Brain Health Resources](/healthsecrets/brain-health-resources/) - [Anxiety Relief](/healthsecrets/anxiety-relief-toolkit/) - [Omega-3 Guide](/healthsecrets/omega-3-brain-health-guide/) - [Insomnia Protocols](/healthsecrets/insomnia-treatment-protocols/) - [Sleep Optimization](/healthsecrets/evidence-based-sleep-optimization/) - [Sleep Hygiene Protocols](/healthsecrets/sleep-hygiene-evidence-protocols/) | [Mental Wellness Guide](https://healthsecrets.com/mental-wellness/mental-wellness-guide) |
+| Mental Wellness | [Brain Health Resources](/healthsecrets/brain-health-resources/) - [Anxiety Relief](/healthsecrets/anxiety-relief-toolkit/) - [Omega-3 Guide](/healthsecrets/omega-3-brain-health-guide/) - [Insomnia Protocols](/healthsecrets/insomnia-treatment-protocols/) - [Sleep Optimization](/healthsecrets/evidence-based-sleep-optimization/) - [Sleep Hygiene Protocols](/healthsecrets/sleep-hygiene-evidence-protocols/) - [Mental Wellness Toolkit](/healthsecrets/mental-wellness-natural-toolkit/) | [Mental Wellness Guide](https://healthsecrets.com/mental-wellness/mental-wellness-guide) |
 | Natural Remedies | [Natural Remedies DB](/healthsecrets/natural-remedies-db/) - [Rosacea Care](/healthsecrets/rosacea-natural-care/) - [Bronchitis](/healthsecrets/bronchitis-natural-remedies/) | [Natural Remedies Guide](https://healthsecrets.com/natural-remedies/natural-remedies-guide) |
 
 ---
