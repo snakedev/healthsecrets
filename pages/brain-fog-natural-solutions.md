@@ -143,6 +143,7 @@ keywords:
 - [Brain Fog Severity Tracking Scale](#brain-fog-severity-tracking-scale)
 - [Frequently Asked Questions](#frequently-asked-questions)
 - [References](#references)
+- [📋 Free Tools](#-free-tools)
 
 ---
 
@@ -585,6 +586,16 @@ Track your brain fog daily to identify patterns and measure improvement. Rate ea
 20. Morris MC, et al. "MIND diet associated with reduced incidence of Alzheimer's disease." *Alzheimers Dement.* 2015;11(9):1007-1014.
 21. Cleveland Clinic. "Brain Fog: What It Is, Causes, Symptoms & Treatment." 2025. https://my.clevelandclinic.org/health/symptoms/brain-fog
 22. University of Rochester Medical Center. "What Causes Brain Fog?" 2026. https://www.urmc.rochester.edu/news/story/what-causes-brain-fog
+
+---
+
+## 📋 Free Tools
+
+Put these protocols into practice with our free interactive Notion template:
+
+- 📋 **Brain Fog Root Cause Finder & Clarity Protocol** — Root-cause diagnostic checklist, 7-day elimination protocol, and daily clarity log
+
+→ [Browse all free health tools on Notion](https://healthsecrets.notion.site)
 
 ---
 
