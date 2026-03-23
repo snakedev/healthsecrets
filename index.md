@@ -61,7 +61,8 @@ author: Health Secrets
           {"@type": "ListItem", "position": 25, "url": "https://snakedev.github.io/healthsecrets/evidence-based-calcium-bone-health/", "name": "Evidence-Based Calcium & Bone Health"},
           {"@type": "ListItem", "position": 26, "url": "https://snakedev.github.io/healthsecrets/evidence-based-vitamin-c/", "name": "Evidence-Based Vitamin C"},
           {"@type": "ListItem", "position": 27, "url": "https://snakedev.github.io/healthsecrets/magnesium-supplement-guide/", "name": "Magnesium Supplement Guide"},
-          {"@type": "ListItem", "position": 28, "url": "https://snakedev.github.io/healthsecrets/evidence-based-child-immunity/", "name": "Evidence-Based Child Immunity"}
+          {"@type": "ListItem", "position": 28, "url": "https://snakedev.github.io/healthsecrets/evidence-based-child-immunity/", "name": "Evidence-Based Child Immunity"},
+          {"@type": "ListItem", "position": 29, "url": "https://snakedev.github.io/healthsecrets/zinc-supplement-guide/", "name": "Zinc Supplement Guide"}
         ]
       }
     }
@@ -111,12 +112,14 @@ Cut through the noise. Find out which supplements have real evidence behind them
 | **[Evidence-Based Calcium & Bone Health](/healthsecrets/evidence-based-calcium-bone-health/)** | Calcium forms comparison, Bone Health Quartet framework, dosing by population, food sources database, absorption optimization, and cardiovascular controversy |
 | **[Evidence-Based Vitamin C](/healthsecrets/evidence-based-vitamin-c/)** | Forms comparison (ascorbic acid, liposomal, buffered, Ester-C), dose-dependent absorption kinetics, immune protocols, food sources, and safety profiles |
 | **[Magnesium Supplement Guide](/healthsecrets/magnesium-supplement-guide/)** | Complete forms comparison table, dosing-by-goal protocols, food sources database, drug interactions reference, and curated PubMed research |
+| **[Zinc Supplement Guide](/healthsecrets/zinc-supplement-guide/)** | Complete zinc forms comparison (7 forms), dosing charts, zinc-copper ratio calculator, food sources database, and curated PubMed research |
 
 **On [HealthSecrets.com](https://healthsecrets.com):**
 - [Supplements Guide](https://healthsecrets.com/supplements/supplements-guide-evidence-based) — Complete evidence-based supplements guide
 - [Calcium & Bone Health Guide](https://healthsecrets.com/supplements/calcium-and-bone-health-complete-supplement-guide) — Complete calcium supplementation guide
 - [Vitamin C Complete Guide](https://healthsecrets.com/supplements/vitamin-c-complete-guide-immune-and-antioxidant-support) — Immune and antioxidant support guide
 - [Magnesium Complete Guide](https://healthsecrets.com/supplements/magnesium-complete-guide) — The relaxation mineral guide
+- [Zinc Complete Guide](https://healthsecrets.com/supplements/zinc-complete-guide) — Immune and hormone support guide
 
 ---
 
@@ -205,7 +208,7 @@ Traditional remedies backed by modern science. Find out which natural treatments
 | Pillar | GitHub Resource | HealthSecrets.com Guide |
 |--------|----------------|------------------------|
 | Gut Health | [Awesome Gut Health](/healthsecrets/awesome-gut-health/) - [Bloating Relief](/healthsecrets/bloating-relief-protocol/) - [Gut Detox](/healthsecrets/gut-detox-protocol/) - [Meal Plan](/healthsecrets/gut-health-meal-plan-resources/) - [Prebiotic Foods](/healthsecrets/prebiotic-foods-resources/) | [Complete Gut Health Guide](https://healthsecrets.com/gut-health/complete-guide-gut-health) |
-| Supplements | [Supplements Database](/healthsecrets/evidence-based-supplements/) - [Myths Fact-Checker](/healthsecrets/supplement-myths-fact-checker/) - [Calcium & Bone Health](/healthsecrets/evidence-based-calcium-bone-health/) - [Vitamin C](/healthsecrets/evidence-based-vitamin-c/) - [Magnesium](/healthsecrets/magnesium-supplement-guide/) | [Supplements Guide](https://healthsecrets.com/supplements/supplements-guide-evidence-based) |
+| Supplements | [Supplements Database](/healthsecrets/evidence-based-supplements/) - [Myths Fact-Checker](/healthsecrets/supplement-myths-fact-checker/) - [Calcium & Bone Health](/healthsecrets/evidence-based-calcium-bone-health/) - [Vitamin C](/healthsecrets/evidence-based-vitamin-c/) - [Magnesium](/healthsecrets/magnesium-supplement-guide/) - [Zinc](/healthsecrets/zinc-supplement-guide/) | [Supplements Guide](https://healthsecrets.com/supplements/supplements-guide-evidence-based) |
 | Detox | [Detox Protocols](/healthsecrets/detox-protocols/) - [Lymphatic Drainage](/healthsecrets/lymphatic-drainage-guide/) - [Glutathione](/healthsecrets/evidence-based-glutathione/) | [Detox Guide](https://healthsecrets.com/detox/detox-guide-evidence-based) |
 | Longevity | [Biohacker Stack](/healthsecrets/biohacker-stack/) | [Longevity Secrets](https://healthsecrets.com/longevity/longevity-secrets-science-backed-strategies-to-live-longer) |
 | Immune | [Immune System Guide](/healthsecrets/immune-system-guide/) - [Immune Recipes](/healthsecrets/immune-nutrition-recipes/) - [Child Immunity](/healthsecrets/evidence-based-child-immunity/) | [Immune System Guide](https://healthsecrets.com/immune-system/how-to-boost-your-immune-system-naturally-15-science-backed-strategies) |
