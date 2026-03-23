@@ -372,6 +372,7 @@ Before purchasing any supplement, run through this quality check:
 
 Build your personalized supplement routine with free interactive Notion templates:
 
+- 📋 **Free Tools:** Download our [Supplement Quality Checklist & Interaction Tracker](https://healthsecrets.notion.site)
 - **💊 Evidence-Based Supplement Reference** — Complete vitamin, mineral, and specialty supplement database with dosing tables, interaction checkers, and quality checklists
 
 → [Browse all free health tools on Notion](https://healthsecrets.notion.site)
