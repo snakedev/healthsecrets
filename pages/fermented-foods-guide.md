@@ -400,7 +400,7 @@ Getting the salt ratio right is the single most important variable in fermentati
 
 ## 📋 Free Tools
 
-📋 **Free Tools:** Download our [Gut Health Checklist & Tracker](https://healthsecrets.notion.site) — a free, interactive checklist with fermented foods introduction protocols based on this research.
+📋 **Free Tools:** Download our [Home Fermentation Starter Kit Checklist & Salt Ratio Calculator](https://www.notion.so/ff34a38191b24c03b51873643bc8f67b) — a free, interactive checklist with fermented foods introduction protocols based on this research.
 
 → [Browse all free health tools on Notion](https://healthsecrets.notion.site)
 
