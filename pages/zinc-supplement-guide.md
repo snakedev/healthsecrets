@@ -484,6 +484,8 @@ Key studies organized by topic and graded by evidence quality:
 
 ## 📋 Free Tools
 
+📋 **Free Tools:** Download our [Zinc Supplement Decision Checklist & Dosing Tracker](https://www.notion.so/ae3a94efe13246dfa0351fc09185d6d3)
+
 → [Browse all free health tools on Notion](https://healthsecrets.notion.site)
 
 ---
