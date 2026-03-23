@@ -18,7 +18,7 @@ permalink: /evidence-based-calcium-bone-health/
       "description": "A curated evidence-based calcium resource covering forms comparison, the Bone Health Quartet framework, dosing by population, food sources database, and absorption optimization.",
       "url": "https://snakedev.github.io/healthsecrets/evidence-based-calcium-bone-health/",
       "datePublished": "2026-03-22",
-      "dateModified": "2026-03-22",
+      "dateModified": "2026-03-23",
       "author": {"@type": "Organization", "name": "Health Secrets", "url": "https://healthsecrets.com"},
       "publisher": {"@type": "Organization", "name": "Health Secrets", "url": "https://healthsecrets.com"},
       "mainEntityOfPage": {"@type": "WebPage", "@id": "https://snakedev.github.io/healthsecrets/evidence-based-calcium-bone-health/"}
@@ -233,7 +233,7 @@ For educational purposes only. Not medical advice. Consult a healthcare professi
 
 ## Related Resources
 
-📋 **Free Tools:** Download our [Calcium & Bone Health Supplement Dosing Tracker](https://www.notion.so/cb33e09b64644d0b93a418030274e6e9)
+📋 **Free Tools:** Download our [Calcium & Bone Health Supplement Dosing Tracker](https://healthsecrets.notion.site)
 
 **On this site:**
 - [Evidence-Based Supplements Database](/healthsecrets/evidence-based-supplements/)
@@ -245,6 +245,9 @@ For educational purposes only. Not medical advice. Consult a healthcare professi
 **On HealthSecrets.com:**
 - [Calcium and Bone Health Complete Guide](https://healthsecrets.com/supplements/calcium-and-bone-health-complete-supplement-guide)
 - [Evidence-Based Supplements Guide](https://healthsecrets.com/supplements/supplements-guide-evidence-based)
+
+**Across the web:**
+- 🅱️ **Blogger:** Read our [blog post](https://healthsecretsog.blogspot.com/2026/03/how-to-take-calcium-safely-why-you-need.html)
 
 ---
 
