@@ -430,8 +430,7 @@ This repository is for educational purposes only. The information provided does 
 
 ## Free Tools & Checklists
 
-📋 **Free Tools:** Download our [Liver Health Protocol Tracker](https://healthsecrets.notion.site) — a free, interactive checklist based on this research for tracking your silymarin protocol and liver health biomarkers.
-<!-- TODO: Add specific Notion page link when published -->
+📋 **Free Tools:** Download our [🌱 Milk Thistle & Liver Supplement Guide](https://healthsecrets.notion.site) — a free supplement comparison, dosing protocols, and brand evaluation checklist for tracking your silymarin protocol and liver health biomarkers.
 
 ---
 
