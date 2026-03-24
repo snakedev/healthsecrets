@@ -352,7 +352,9 @@ Each food in this database targets one or more of these phases with specific com
 
 📋 **Glutathione Deep Dive:** Check out [Evidence-Based Glutathione](/healthsecrets/evidence-based-glutathione/) for form comparisons and precursor stacking strategies.
 
-<!-- TODO: Add Notion page link when published -->
+📋 **Free Tools:** Download our [🥗 7-Day Detox Diet Planner & Shopping Checklist](https://www.notion.so/032f8bccbbb2474495cfb464463b89a3) — interactive day-by-day meal checklist with shopping lists and hydration tracker
+
+📋 **Free Tools:** Download our [💧 Detox Foods Tracker & Daily Detox Log](https://www.notion.so/df5518c7954c4768aed32659660b0778) — track detox-supporting foods, water intake, and daily symptoms
 
 ---
 

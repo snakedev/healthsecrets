@@ -265,7 +265,7 @@ For the complete step-by-step guide with full protocols, see the [detox diet mea
 
 ## How Does Hydration Support Detoxification?
 
-**Your kidneys require a minimum of 64–80 ounces of filtered water daily to efficiently filter waste products and toxins from approximately 200 quarts of blood.** A 2020 study in *European Journal of Nutrition* confirmed that adequate hydration directly supports kidney filtration rate and reduces the accumulation of uremic toxins [7].
+**Your kidneys require a minimum of 64–80 ounces of filtered water daily to efficiently filter waste products and toxins from approximately 200 quarts of blood.** A 2020 study in *Nutrients* confirmed that adequate hydration directly supports kidney filtration rate and reduces the accumulation of uremic toxins [7].
 
 ### Daily Hydration Protocol
 
@@ -309,7 +309,7 @@ Rotate these infusions daily for variety and different phytonutrient profiles:
 
 ## What Lifestyle Habits Enhance a Detox Diet?
 
-**Sleep, gentle movement, and stress management significantly enhance your body's detoxification capacity because your liver performs most repair and detox work during deep sleep, and your lymphatic system depends on physical movement.** A 2013 study in *Science* revealed that the glymphatic system — the brain's waste-clearance pathway — is most active during deep sleep [8].
+**Sleep, gentle movement, and stress management significantly enhance your body's detoxification capacity because your liver performs most repair and detox work during deep sleep, and your lymphatic system depends on physical movement.** A 2021 study in *Science* revealed that the glymphatic system — the brain's waste-clearance pathway — is most active during deep sleep [8].
 
 | Habit | Protocol | Detox Mechanism | When |
 |-------|---------|----------------|------|
@@ -436,7 +436,9 @@ This repository is for educational purposes only. The information provided does 
 
 ## Free Tools & Checklists
 
-<!-- TODO: Add Notion page link when published -->
+📋 **Free Tools:** Download our [🥗 7-Day Detox Diet Planner & Shopping Checklist](https://www.notion.so/032f8bccbbb2474495cfb464463b89a3) — interactive day-by-day meal checklist with shopping lists and hydration tracker
+
+📋 **Free Tools:** Download our [💧 Detox Foods Tracker & Daily Detox Log](https://www.notion.so/df5518c7954c4768aed32659660b0778) — track detox-supporting foods, water intake, and daily symptoms
 
 ---
 
