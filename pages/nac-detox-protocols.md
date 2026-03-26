@@ -397,12 +397,6 @@ NAC reduces homocysteine levels (a cardiovascular risk factor) in a dose-depende
 
 ---
 
-📋 **Free Tools:** Check out our [detox protocols and checklists](https://healthsecrets.notion.site) on Notion — free, interactive tools based on this research.
-
-<!-- TODO: Add specific N-50 Notion checklist link when published -->
-
----
-
 **Further Reading on [HealthSecrets.com](https://healthsecrets.com):**
 
 - [NAC for Detox: N-Acetyl Cysteine Liver Support — Complete Guide](https://healthsecrets.com/supplements/nac-detox-liver-support)
