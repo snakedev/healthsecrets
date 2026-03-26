@@ -29,7 +29,7 @@ permalink: /nac-detox-protocols/
     "@id": "https://snakedev.github.io/healthsecrets/nac-detox-protocols/"
   },
   "datePublished": "2026-03-26",
-  "dateModified": "2026-03-26",
+  "dateModified": "2026-03-27",
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": ["#quick-answer", "#faq"]
@@ -394,6 +394,10 @@ NAC reduces homocysteine levels (a cardiovascular risk factor) in a dose-depende
 20. Samuni, Y. et al. "The chemistry and biological activities of N-acetylcysteine." *Biochimica et Biophysica Acta*, 2013. [https://doi.org/10.1016/j.bbagen.2013.04.016](https://doi.org/10.1016/j.bbagen.2013.04.016)
 21. Raghu, G. et al. "The Multifaceted Therapeutic Role of N-Acetylcysteine (NAC) in Disorders Characterized by Oxidative Stress." *Current Neuropharmacology*, 2022. [https://pmc.ncbi.nlm.nih.gov/articles/PMC8719286/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8719286/)
 22. Efficacy of NAC on Liver Function and Metabolic Profiles in MASLD. *Nutrients*, 2025. [https://pmc.ncbi.nlm.nih.gov/articles/PMC12718416/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12718416/)
+
+---
+
+📋 **Free Tools:** Download our [💊 NAC Detox Protocol Tracker & Dosing Guide](https://healthsecrets.notion.site) on Notion — free, interactive tools based on this research.
 
 ---
 
