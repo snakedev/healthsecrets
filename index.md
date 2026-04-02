@@ -5,7 +5,7 @@ description: "Free, evidence-based health guides, protocols, and curated resourc
 author: Health Secrets
 ---
 
-&lt;script type="application/ld+json"&gt;
+<script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -93,13 +93,14 @@ author: Health Secrets
           {"@type": "ListItem", "position": 57, "url": "https://snakedev.github.io/healthsecrets/adaptogen-stress-protocols/", "name": "Adaptogen Stress Protocols"},
           {"@type": "ListItem", "position": 58, "url": "https://snakedev.github.io/healthsecrets/evidence-based-nootropics/", "name": "Evidence-Based Nootropics Research Database"},
           {"@type": "ListItem", "position": 59, "url": "https://snakedev.github.io/healthsecrets/awesome-lions-mane/", "name": "Awesome Lion's Mane Research Resources"},
-          {"@type": "ListItem", "position": 60, "url": "https://snakedev.github.io/healthsecrets/ginkgo-biloba-research/", "name": "Ginkgo Biloba Research — Clinical Evidence Database"}
+          {"@type": "ListItem", "position": 60, "url": "https://snakedev.github.io/healthsecrets/ginkgo-biloba-research/", "name": "Ginkgo Biloba Research — Clinical Evidence Database"},
+          {"@type": "ListItem", "position": 61, "url": "https://snakedev.github.io/healthsecrets/natural-depression-remedies-research/", "name": "Natural Depression Remedies — Evidence-Based Research Database"}
         ]
       }
     }
   ]
 }
-&lt;/script&gt;
+</script>
 
 # Health Secrets — Evidence-Based Health Resources
 
@@ -109,10 +110,10 @@ author: Health Secrets
 
 Welcome to the **Health Secrets open-source health resource hub**. Every guide, protocol, and resource below is grounded in peer-reviewed research from PubMed, Cochrane, and NIH databases.
 
-&gt; **Evidence-based** — Every recommendation backed by peer-reviewed clinical trials and meta-analyses
-&gt; **Actionable** — Protocols, checklists, and supplement stacks you can start today
-&gt; **Free tools** — Interactive Notion templates to track your progress
-&gt; **Open source** — All resources free forever. Contributions welcome.
+> **Evidence-based** — Every recommendation backed by peer-reviewed clinical trials and meta-analyses
+> **Actionable** — Protocols, checklists, and supplement stacks you can start today
+> **Free tools** — Interactive Notion templates to track your progress
+> **Open source** — All resources free forever. Contributions welcome.
 
 ---
 
@@ -270,6 +271,7 @@ Traditional remedies backed by modern science. Find out which natural treatments
 | **[Natural Remedies Database](/healthsecrets/natural-remedies-db/)** | Evidence-graded database of 50+ herbal and natural remedies with PubMed citations, dosing protocols, safety profiles, and drug interaction warnings |
 | **[Rosacea Natural Care](/healthsecrets/rosacea-natural-care/)** | Trigger database, evidence-graded natural treatments, skincare ingredient safety ratings, and anti-inflammatory protocols for rosacea management |
 | **[Bronchitis Natural Remedies](/healthsecrets/bronchitis-natural-remedies/)** | Steam inhalation protocols, herbal tea database, honey dosing by age, supplement stacks, and day-by-day recovery timeline |
+| **[🧠 Natural Depression Remedies Research](/healthsecrets/natural-depression-remedies-research/)** | Curated evidence database for 8 natural depression remedies with dosing protocols, drug interaction matrix, PubMed citations, and crisis resources |
 
 ---
 
@@ -284,7 +286,7 @@ Traditional remedies backed by modern science. Find out which natural treatments
 | Immune | [Immune System Guide](/healthsecrets/immune-system-guide/) - [Immune Recipes](/healthsecrets/immune-nutrition-recipes/) - [Child Immunity](/healthsecrets/evidence-based-child-immunity/) - [Immune Science Toolkit](/healthsecrets/immune-system-science-toolkit/) - [Garlic & Allicin](/healthsecrets/garlic-allicin-immune-research/) - [Vitamin C Immune Health](/healthsecrets/vitamin-c-immune-health-resources/) - [Immune Supplement Guide](/healthsecrets/immune-supplement-guide/) - [Probiotic Strains Guide](/healthsecrets/immune-probiotic-strains-guide/) - [Gut Immune Connection](/healthsecrets/gut-immune-connection-resources/) - [Astragalus Immune Support](/healthsecrets/astragalus-immune-support-resources/) | [Immune System Guide](https://healthsecrets.com/immune-system/how-to-boost-your-immune-system-naturally-15-science-backed-strategies) |
 | Inflammation | [Anti-Inflammation Toolkit](/healthsecrets/anti-inflammation-toolkit/) - [Headache Relief](/healthsecrets/natural-headache-relief/) - [CBD Resources](/healthsecrets/evidence-based-cbd/) - [Curcumin Anti-Inflammatory](/healthsecrets/curcumin-inflammation-resources/) - [Glucosamine & Chondroitin](/healthsecrets/glucosamine-chondroitin-resources/) - [Chronic Inflammation Resources](/healthsecrets/chronic-inflammation-resources/) - [Natural Pain Relief Protocols](/healthsecrets/natural-pain-relief-protocols/) | [Anti-Inflammatory Guide](https://healthsecrets.com/inflammation/reduce-inflammation-naturally-complete-anti-inflammatory-guide) |
 | Mental Wellness | [Brain Health Resources](/healthsecrets/brain-health-resources/) - [Anxiety Relief](/healthsecrets/anxiety-relief-toolkit/) - [Omega-3 Guide](/healthsecrets/omega-3-brain-health-guide/) - [Insomnia Protocols](/healthsecrets/insomnia-treatment-protocols/) - [Sleep Optimization](/healthsecrets/evidence-based-sleep-optimization/) - [Sleep Hygiene Protocols](/healthsecrets/sleep-hygiene-evidence-protocols/) - [Mental Wellness Toolkit](/healthsecrets/mental-wellness-natural-toolkit/) - [Adaptogen Stress Protocols](/healthsecrets/adaptogen-stress-protocols/) - [Evidence-Based Nootropics](/healthsecrets/evidence-based-nootropics/) - [Lion's Mane Research](/healthsecrets/awesome-lions-mane/) - [Ginkgo Biloba Research](/healthsecrets/ginkgo-biloba-research/) - [Gut-Brain Axis Resources](/healthsecrets/gut-brain-axis-resources/) | [Mental Wellness Guide](https://healthsecrets.com/mental-wellness/mental-wellness-guide) |
-| Natural Remedies | [Natural Remedies DB](/healthsecrets/natural-remedies-db/) - [Rosacea Care](/healthsecrets/rosacea-natural-care/) - [Bronchitis](/healthsecrets/bronchitis-natural-remedies/) | [Natural Remedies Guide](https://healthsecrets.com/natural-remedies/natural-remedies-guide) |
+| Natural Remedies | [Natural Remedies DB](/healthsecrets/natural-remedies-db/) - [Rosacea Care](/healthsecrets/rosacea-natural-care/) - [Bronchitis](/healthsecrets/bronchitis-natural-remedies/) - [Depression Remedies](/healthsecrets/natural-depression-remedies-research/) | [Natural Remedies Guide](https://healthsecrets.com/natural-remedies/natural-remedies-guide) |
 
 ---
 
