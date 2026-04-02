@@ -78,7 +78,8 @@ author: Health Secrets
           {"@type": "ListItem", "position": 42, "url": "https://snakedev.github.io/healthsecrets/bentonite-clay-detox-guide/", "name": "Evidence-Based Bentonite Clay Detox Guide"},
           {"@type": "ListItem", "position": 43, "url": "https://snakedev.github.io/healthsecrets/gut-brain-axis-resources/", "name": "Evidence-Based Gut-Brain Axis Resources"},
           {"@type": "ListItem", "position": 44, "url": "https://snakedev.github.io/healthsecrets/anti-inflammatory-gut-foods/", "name": "Evidence-Based Anti-Inflammatory Gut Foods Database"},
-          {"@type": "ListItem", "position": 45, "url": "https://snakedev.github.io/healthsecrets/curcumin-inflammation-resources/", "name": "Evidence-Based Curcumin Anti-Inflammatory Research"}
+          {"@type": "ListItem", "position": 45, "url": "https://snakedev.github.io/healthsecrets/curcumin-inflammation-resources/", "name": "Evidence-Based Curcumin Anti-Inflammatory Research"},
+          {"@type": "ListItem", "position": 46, "url": "https://snakedev.github.io/healthsecrets/gut-healing-recipes-resources/", "name": "Gut-Healing Recipes Resources"}
         ]
       }
     }
@@ -117,6 +118,7 @@ Your gut microbiome influences digestion, immunity, mood, and metabolism. These 
 | **[Evidence-Based Fermented Foods Resources](/healthsecrets/fermented-foods-guide/)** | Lacto-fermentation recipes, salt ratio charts, probiotic foods database, fermentation timelines, and troubleshooting guides backed by PubMed research |
 | **[Evidence-Based Gut-Brain Axis Resources](/healthsecrets/gut-brain-axis-resources/)** | Psychobiotic strain database, vagus nerve stimulation protocols, gut-brain communication pathways, SCFA-producing bacteria list, and curated PubMed research |
 | **[Evidence-Based Anti-Inflammatory Gut Foods Database](/healthsecrets/anti-inflammatory-gut-foods/)** | 30+ anti-inflammatory foods with key compounds, evidence tiers, serving sizes, 7-day meal plan, foods-to-avoid list, and curated PubMed references |
+| **[Gut-Healing Recipes Resources](/healthsecrets/gut-healing-recipes-resources/)** | Bone broth nutrient database, fermented food probiotic strain guide, fermentation salt brine calculator, prebiotic fiber sources, resistant starch formation guide, and 10 PubMed-cited references |
 
 ---
 
@@ -241,7 +243,7 @@ Traditional remedies backed by modern science. Find out which natural treatments
 
 | Pillar | GitHub Resource | HealthSecrets.com Guide |
 |--------|----------------|------------------------|
-| Gut Health | [Awesome Gut Health](/healthsecrets/awesome-gut-health/) - [Bloating Relief](/healthsecrets/bloating-relief-protocol/) - [Gut Detox](/healthsecrets/gut-detox-protocol/) - [Meal Plan](/healthsecrets/gut-health-meal-plan-resources/) - [Prebiotic Foods](/healthsecrets/prebiotic-foods-resources/) - [Fermented Foods](/healthsecrets/fermented-foods-guide/) - [Gut-Brain Axis](/healthsecrets/gut-brain-axis-resources/) - [Anti-Inflammatory Gut Foods](/healthsecrets/anti-inflammatory-gut-foods/) | [Complete Gut Health Guide](https://healthsecrets.com/gut-health/complete-guide-gut-health) |
+| Gut Health | [Awesome Gut Health](/healthsecrets/awesome-gut-health/) - [Bloating Relief](/healthsecrets/bloating-relief-protocol/) - [Gut Detox](/healthsecrets/gut-detox-protocol/) - [Meal Plan](/healthsecrets/gut-health-meal-plan-resources/) - [Prebiotic Foods](/healthsecrets/prebiotic-foods-resources/) - [Fermented Foods](/healthsecrets/fermented-foods-guide/) - [Gut-Brain Axis](/healthsecrets/gut-brain-axis-resources/) - [Anti-Inflammatory Gut Foods](/healthsecrets/anti-inflammatory-gut-foods/) - [Gut-Healing Recipes](/healthsecrets/gut-healing-recipes-resources/) | [Complete Gut Health Guide](https://healthsecrets.com/gut-health/complete-guide-gut-health) |
 | Supplements | [Supplements Database](/healthsecrets/evidence-based-supplements/) - [Myths Fact-Checker](/healthsecrets/supplement-myths-fact-checker/) - [Calcium & Bone Health](/healthsecrets/evidence-based-calcium-bone-health/) - [Vitamin C](/healthsecrets/evidence-based-vitamin-c/) - [Magnesium](/healthsecrets/magnesium-supplement-guide/) - [Zinc](/healthsecrets/zinc-supplement-guide/) - [CoQ10 Guide](/healthsecrets/coq10-cellular-energy-guide/) | [Supplements Guide](https://healthsecrets.com/supplements/supplements-guide-evidence-based) |
 | Detox | [Detox Protocols](/healthsecrets/detox-protocols/) - [Detox Guide](/healthsecrets/evidence-based-detox-guide/) - [Lymphatic Drainage](/healthsecrets/lymphatic-drainage-guide/) - [Glutathione](/healthsecrets/evidence-based-glutathione/) - [Milk Thistle Silymarin](/healthsecrets/milk-thistle-silymarin-research/) - [Heavy Metal Chelation](/healthsecrets/heavy-metal-chelation-safety/) - [Detox Foods Database](/healthsecrets/detox-foods-evidence-database/) - [NAC Detox Protocols](/healthsecrets/nac-detox-protocols/) - [Bentonite Clay Detox](/healthsecrets/bentonite-clay-detox-guide/) | [Detox Guide](https://healthsecrets.com/detox/detox-guide-evidence-based) |
 | Longevity | [Biohacker Stack](/healthsecrets/biohacker-stack/) - [Longevity Science Toolkit](/healthsecrets/longevity-science-toolkit/) | [Longevity Secrets](https://healthsecrets.com/longevity/longevity-secrets-science-backed-strategies-to-live-longer) |
