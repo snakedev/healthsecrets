@@ -79,7 +79,7 @@ author: Health Secrets
           {"@type": "ListItem", "position": 43, "url": "https://snakedev.github.io/healthsecrets/gut-brain-axis-resources/", "name": "Evidence-Based Gut-Brain Axis Resources"},
           {"@type": "ListItem", "position": 44, "url": "https://snakedev.github.io/healthsecrets/anti-inflammatory-gut-foods/", "name": "Evidence-Based Anti-Inflammatory Gut Foods Database"},
           {"@type": "ListItem", "position": 45, "url": "https://snakedev.github.io/healthsecrets/curcumin-inflammation-resources/", "name": "Evidence-Based Curcumin Anti-Inflammatory Research"},
-          {"@type": "ListItem", "position": 46, "url": "https://snakedev.github.io/healthsecrets/medicinal-mushrooms-immune-resources/", "name": "Evidence-Based Medicinal Mushrooms Immune Resources"}
+          {"@type": "ListItem", "position": 46, "url": "https://snakedev.github.io/healthsecrets/glucosamine-chondroitin-resources/", "name": "Glucosamine & Chondroitin Research Resources"}
         ]
       }
     }
@@ -185,12 +185,10 @@ Strengthen your natural defenses with evidence-based strategies — from nutriti
 | **[🧒 Evidence-Based Child Immunity](/healthsecrets/evidence-based-child-immunity/)** | Pediatric immune development by age, safe supplement protocols, nutrition strategies for picky eaters, red flags reference, and daily immune routines backed by AAP and PubMed research |
 | **[🔬 Immune System Science Toolkit](/healthsecrets/immune-system-science-toolkit/)** | 15 evidence-based strategies ranked by research strength, supplement systematic review summaries, immune-boosting foods database, lifestyle dose-response data, and 30-day optimization protocol |
 | **[🧄 Garlic & Allicin Immune Research](/healthsecrets/garlic-allicin-immune-research/)** | Clinical trials database, allicin biochemistry, raw vs aged garlic comparisons, dosing protocols, and antimicrobial research backed by 17+ PubMed citations |
-| **[🍄 Evidence-Based Medicinal Mushrooms Immune Resources](/healthsecrets/medicinal-mushrooms-immune-resources/)** | Curated PubMed research on 7 immune-modulating mushrooms (reishi, turkey tail, chaga, cordyceps), beta-glucan mechanisms, dosing protocols, fruiting body vs mycelium quality guide, and supplement comparison chart |
 
 **On [HealthSecrets.com](https://healthsecrets.com):**
 - [How to Boost Your Immune System Naturally](https://healthsecrets.com/immune-system/how-to-boost-your-immune-system-naturally-15-science-backed-strategies) — 15 science-backed strategies
 - [Boosting Children's Immunity Naturally](https://healthsecrets.com/immune-system/boost-child-immunity-naturally) — Parent's guide to pediatric immune health
-- [Medicinal Mushrooms for Immunity](https://healthsecrets.com/immune-system/medicinal-mushrooms-immunity) — Complete evidence-based mushroom guide
 
 ---
 
@@ -204,11 +202,13 @@ Chronic inflammation is linked to nearly every major disease. Learn how to reduc
 | **[Natural Headache Relief](/healthsecrets/natural-headache-relief/)** | Evidence-based headache protocols, trigger identification, natural remedies, and prevention strategies |
 | **[Evidence-Based CBD Resources](/healthsecrets/evidence-based-cbd/)** | CBD research database, dosing protocols, product comparison matrix, drug interaction reference, and 8-week pain management protocol backed by 15+ PubMed citations |
 | **[Evidence-Based Curcumin Anti-Inflammatory Research](/healthsecrets/curcumin-inflammation-resources/)** | Curcumin mechanisms (NF-κB, COX-2), clinical evidence tables by condition, bioavailability comparisons, condition-specific dosing protocols, quality checklist, and 20+ curated PubMed citations |
+| **[🦴 Glucosamine & Chondroitin Research Resources](/healthsecrets/glucosamine-chondroitin-resources/)** | GAIT trial data, Cochrane meta-analyses, dosing protocols (1,500mg/1,200mg), sulfate vs HCl form comparisons, quality testing resources, alternative joint supplements, and 15+ curated PubMed citations |
 
 **On [HealthSecrets.com](https://healthsecrets.com):**
 - [Reduce Inflammation Naturally](https://healthsecrets.com/inflammation/reduce-inflammation-naturally-complete-anti-inflammatory-guide) — Complete anti-inflammatory guide
 - [CBD for Inflammation and Pain](https://healthsecrets.com/inflammation/cbd-inflammation-pain-guide) — Evidence-based cannabidiol guide
 - [Turmeric for Inflammation: Curcumin Complete Guide](https://healthsecrets.com/supplements/turmeric-inflammation-curcumin) — Evidence-based turmeric and curcumin guide
+- [Glucosamine & Chondroitin Joint Support Guide](https://healthsecrets.com/natural-remedies/glucosamine-chondroitin-guide) — Evidence-based joint support guide
 
 ---
 
@@ -248,8 +248,8 @@ Traditional remedies backed by modern science. Find out which natural treatments
 | Supplements | [Supplements Database](/healthsecrets/evidence-based-supplements/) - [Myths Fact-Checker](/healthsecrets/supplement-myths-fact-checker/) - [Calcium & Bone Health](/healthsecrets/evidence-based-calcium-bone-health/) - [Vitamin C](/healthsecrets/evidence-based-vitamin-c/) - [Magnesium](/healthsecrets/magnesium-supplement-guide/) - [Zinc](/healthsecrets/zinc-supplement-guide/) - [CoQ10 Guide](/healthsecrets/coq10-cellular-energy-guide/) | [Supplements Guide](https://healthsecrets.com/supplements/supplements-guide-evidence-based) |
 | Detox | [Detox Protocols](/healthsecrets/detox-protocols/) - [Detox Guide](/healthsecrets/evidence-based-detox-guide/) - [Lymphatic Drainage](/healthsecrets/lymphatic-drainage-guide/) - [Glutathione](/healthsecrets/evidence-based-glutathione/) - [Milk Thistle Silymarin](/healthsecrets/milk-thistle-silymarin-research/) - [Heavy Metal Chelation](/healthsecrets/heavy-metal-chelation-safety/) - [Detox Foods Database](/healthsecrets/detox-foods-evidence-database/) - [NAC Detox Protocols](/healthsecrets/nac-detox-protocols/) - [Bentonite Clay Detox](/healthsecrets/bentonite-clay-detox-guide/) | [Detox Guide](https://healthsecrets.com/detox/detox-guide-evidence-based) |
 | Longevity | [Biohacker Stack](/healthsecrets/biohacker-stack/) - [Longevity Science Toolkit](/healthsecrets/longevity-science-toolkit/) | [Longevity Secrets](https://healthsecrets.com/longevity/longevity-secrets-science-backed-strategies-to-live-longer) |
-| Immune | [Immune System Guide](/healthsecrets/immune-system-guide/) - [Immune Recipes](/healthsecrets/immune-nutrition-recipes/) - [Child Immunity](/healthsecrets/evidence-based-child-immunity/) - [Immune Science Toolkit](/healthsecrets/immune-system-science-toolkit/) - [Garlic & Allicin](/healthsecrets/garlic-allicin-immune-research/) - [Medicinal Mushrooms](/healthsecrets/medicinal-mushrooms-immune-resources/) | [Immune System Guide](https://healthsecrets.com/immune-system/how-to-boost-your-immune-system-naturally-15-science-backed-strategies) |
-| Inflammation | [Anti-Inflammation Toolkit](/healthsecrets/anti-inflammation-toolkit/) - [Headache Relief](/healthsecrets/natural-headache-relief/) - [CBD Resources](/healthsecrets/evidence-based-cbd/) - [Curcumin Anti-Inflammatory](/healthsecrets/curcumin-inflammation-resources/) | [Anti-Inflammatory Guide](https://healthsecrets.com/inflammation/reduce-inflammation-naturally-complete-anti-inflammatory-guide) |
+| Immune | [Immune System Guide](/healthsecrets/immune-system-guide/) - [Immune Recipes](/healthsecrets/immune-nutrition-recipes/) - [Child Immunity](/healthsecrets/evidence-based-child-immunity/) - [Immune Science Toolkit](/healthsecrets/immune-system-science-toolkit/) - [Garlic & Allicin](/healthsecrets/garlic-allicin-immune-research/) | [Immune System Guide](https://healthsecrets.com/immune-system/how-to-boost-your-immune-system-naturally-15-science-backed-strategies) |
+| Inflammation | [Anti-Inflammation Toolkit](/healthsecrets/anti-inflammation-toolkit/) - [Headache Relief](/healthsecrets/natural-headache-relief/) - [CBD Resources](/healthsecrets/evidence-based-cbd/) - [Curcumin Anti-Inflammatory](/healthsecrets/curcumin-inflammation-resources/) - [Glucosamine & Chondroitin](/healthsecrets/glucosamine-chondroitin-resources/) | [Anti-Inflammatory Guide](https://healthsecrets.com/inflammation/reduce-inflammation-naturally-complete-anti-inflammatory-guide) |
 | Mental Wellness | [Brain Health Resources](/healthsecrets/brain-health-resources/) - [Anxiety Relief](/healthsecrets/anxiety-relief-toolkit/) - [Omega-3 Guide](/healthsecrets/omega-3-brain-health-guide/) - [Insomnia Protocols](/healthsecrets/insomnia-treatment-protocols/) - [Sleep Optimization](/healthsecrets/evidence-based-sleep-optimization/) - [Sleep Hygiene Protocols](/healthsecrets/sleep-hygiene-evidence-protocols/) - [Mental Wellness Toolkit](/healthsecrets/mental-wellness-natural-toolkit/) | [Mental Wellness Guide](https://healthsecrets.com/mental-wellness/mental-wellness-guide) |
 | Natural Remedies | [Natural Remedies DB](/healthsecrets/natural-remedies-db/) - [Rosacea Care](/healthsecrets/rosacea-natural-care/) - [Bronchitis](/healthsecrets/bronchitis-natural-remedies/) | [Natural Remedies Guide](https://healthsecrets.com/natural-remedies/natural-remedies-guide) |
 
