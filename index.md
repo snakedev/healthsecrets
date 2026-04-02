@@ -5,7 +5,7 @@ description: "Free, evidence-based health guides, protocols, and curated resourc
 author: Health Secrets
 ---
 
-&lt;script type="application/ld+json"&gt;
+<script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -90,14 +90,13 @@ author: Health Secrets
           {"@type": "ListItem", "position": 54, "url": "https://snakedev.github.io/healthsecrets/nad-aging-resources/", "name": "Evidence-Based NAD+ and Aging Resources"},
           {"@type": "ListItem", "position": 55, "url": "https://snakedev.github.io/healthsecrets/intermittent-fasting-longevity-protocols/", "name": "Evidence-Based Intermittent Fasting Protocols"},
           {"@type": "ListItem", "position": 56, "url": "https://snakedev.github.io/healthsecrets/hormone-optimization-resources/", "name": "Hormone Optimization Resources"},
-          {"@type": "ListItem", "position": 57, "url": "https://snakedev.github.io/healthsecrets/awesome-exercise-longevity/", "name": "Awesome Exercise Longevity Resources"},
-          {"@type": "ListItem", "position": 58, "url": "https://snakedev.github.io/healthsecrets/awesome-alpha-lipoic-acid/", "name": "Awesome Alpha-Lipoic Acid Research Resources"}
+          {"@type": "ListItem", "position": 57, "url": "https://snakedev.github.io/healthsecrets/adaptogen-stress-protocols/", "name": "Adaptogen Stress Protocols"}
         ]
       }
     }
   ]
 }
-&lt;/script&gt;
+</script>
 
 # Health Secrets — Evidence-Based Health Resources
 
@@ -107,10 +106,10 @@ author: Health Secrets
 
 Welcome to the **Health Secrets open-source health resource hub**. Every guide, protocol, and resource below is grounded in peer-reviewed research from PubMed, Cochrane, and NIH databases.
 
-&gt; **Evidence-based** — Every recommendation backed by peer-reviewed clinical trials and meta-analyses
-&gt; **Actionable** — Protocols, checklists, and supplement stacks you can start today
-&gt; **Free tools** — Interactive Notion templates to track your progress
-&gt; **Open source** — All resources free forever. Contributions welcome.
+> **Evidence-based** — Every recommendation backed by peer-reviewed clinical trials and meta-analyses
+> **Actionable** — Protocols, checklists, and supplement stacks you can start today
+> **Free tools** — Interactive Notion templates to track your progress
+> **Open source** — All resources free forever. Contributions welcome.
 
 ---
 
@@ -186,11 +185,6 @@ What does the science actually say about living longer? Protocols, biomarkers, a
 | **[Evidence-Based NAD+ and Aging Resources](/healthsecrets/nad-aging-resources/)** | NAD+ science overview, NMN vs NR comparison tables, clinical trial database, dosing protocols, sirtuin research, lifestyle NAD+ boosters, and safety profiles backed by 20 curated PubMed references |
 | **[Evidence-Based Intermittent Fasting Protocols](/healthsecrets/intermittent-fasting-longevity-protocols/)** | IF methods comparison table (16:8, 5:2, ADF, OMAD, extended), longevity mechanisms summary, fasting protocols by goal, safety screening checklist, 4-week ramp-up protocol, and curated PubMed research |
 | **[Hormone Optimization Resources](/healthsecrets/hormone-optimization-resources/)** | Hormone decline overview, testing protocols (reference vs optimal ranges), natural optimization evidence, HRT risk-benefit summaries (men vs women), and supplement evidence tables backed by 20+ PubMed citations |
-| **[Awesome Exercise Longevity Resources](/healthsecrets/awesome-exercise-longevity/)** | Curated exercise longevity research papers, Zone 2 and HIIT training protocols, VO2 max tools, Blue Zones movement guides, sarcopenia prevention strategies, and fitness trackers backed by 15 PubMed citations |
-| **[⚡ Awesome Alpha-Lipoic Acid Research Resources](/healthsecrets/awesome-alpha-lipoic-acid/)** | Curated PubMed research database organized by benefit (neuropathy, blood sugar, anti-aging, neuroprotection), dosing protocols with evidence grades, R-ALA vs racemic comparison tables, brand quality guide, and drug interactions reference backed by 20 PubMed citations |
-
-**On [HealthSecrets.com](https://healthsecrets.com):**
-- [Alpha-Lipoic Acid Anti-Aging Guide](https://healthsecrets.com/supplements/alpha-lipoic-acid-anti-aging) — Complete alpha-lipoic acid supplementation guide
 
 ---
 
@@ -256,6 +250,7 @@ From brain fog to sleep quality to stress management — evidence-based strategi
 | **[Evidence-Based Sleep Optimization Protocols](/healthsecrets/evidence-based-sleep-optimization/)** | Sleep architecture guides, circadian rhythm optimization, supplement dosing tables, sleep tracking metrics, and disorder identification resources |
 | **[Sleep Hygiene Evidence-Based Protocols](/healthsecrets/sleep-hygiene-evidence-protocols/)** | 15 rules ranked by clinical evidence strength, sleep environment optimization, circadian alignment protocols, supplement timing, and sleep tracking tools |
 | **[Mental Wellness Natural Toolkit](/healthsecrets/mental-wellness-natural-toolkit/)** | Comprehensive mental wellness framework covering nutrition, sleep, exercise, stress management, supplement protocols, gut-brain axis research, and a 30-day reset protocol |
+| **[🌿 Adaptogen Stress Protocols](/healthsecrets/adaptogen-stress-protocols/)** | Curated adaptogen research database with clinical trial evidence for ashwagandha, rhodiola, holy basil, dosing protocols, safety matrix, contraindications, and stress supplement protocols backed by 18 PubMed references |
 
 ---
 
@@ -278,10 +273,10 @@ Traditional remedies backed by modern science. Find out which natural treatments
 | Gut Health | [Awesome Gut Health](/healthsecrets/awesome-gut-health/) - [Bloating Relief](/healthsecrets/bloating-relief-protocol/) - [Gut Detox](/healthsecrets/gut-detox-protocol/) - [Meal Plan](/healthsecrets/gut-health-meal-plan-resources/) - [Prebiotic Foods](/healthsecrets/prebiotic-foods-resources/) - [Fermented Foods](/healthsecrets/fermented-foods-guide/) - [Gut-Brain Axis](/healthsecrets/gut-brain-axis-resources/) - [Anti-Inflammatory Gut Foods](/healthsecrets/anti-inflammatory-gut-foods/) | [Complete Gut Health Guide](https://healthsecrets.com/gut-health/complete-guide-gut-health) |
 | Supplements | [Supplements Database](/healthsecrets/evidence-based-supplements/) - [Myths Fact-Checker](/healthsecrets/supplement-myths-fact-checker/) - [Calcium & Bone Health](/healthsecrets/evidence-based-calcium-bone-health/) - [Vitamin C](/healthsecrets/evidence-based-vitamin-c/) - [Magnesium](/healthsecrets/magnesium-supplement-guide/) - [Zinc](/healthsecrets/zinc-supplement-guide/) - [CoQ10 Guide](/healthsecrets/coq10-cellular-energy-guide/) | [Supplements Guide](https://healthsecrets.com/supplements/supplements-guide-evidence-based) |
 | Detox | [Detox Protocols](/healthsecrets/detox-protocols/) - [Detox Guide](/healthsecrets/evidence-based-detox-guide/) - [Lymphatic Drainage](/healthsecrets/lymphatic-drainage-guide/) - [Glutathione](/healthsecrets/evidence-based-glutathione/) - [Milk Thistle Silymarin](/healthsecrets/milk-thistle-silymarin-research/) - [Heavy Metal Chelation](/healthsecrets/heavy-metal-chelation-safety/) - [Detox Foods Database](/healthsecrets/detox-foods-evidence-database/) - [NAC Detox Protocols](/healthsecrets/nac-detox-protocols/) - [Bentonite Clay Detox](/healthsecrets/bentonite-clay-detox-guide/) | [Detox Guide](https://healthsecrets.com/detox/detox-guide-evidence-based) |
-| Longevity | [Biohacker Stack](/healthsecrets/biohacker-stack/) - [Longevity Science Toolkit](/healthsecrets/longevity-science-toolkit/) - [NAD+ and Aging Resources](/healthsecrets/nad-aging-resources/) - [IF Longevity Protocols](/healthsecrets/intermittent-fasting-longevity-protocols/) - [Hormone Optimization](/healthsecrets/hormone-optimization-resources/) - [Exercise Longevity Resources](/healthsecrets/awesome-exercise-longevity/) - [Alpha-Lipoic Acid](/healthsecrets/awesome-alpha-lipoic-acid/) | [Longevity Secrets](https://healthsecrets.com/longevity/longevity-secrets-science-backed-strategies-to-live-longer) |
+| Longevity | [Biohacker Stack](/healthsecrets/biohacker-stack/) - [Longevity Science Toolkit](/healthsecrets/longevity-science-toolkit/) - [NAD+ and Aging Resources](/healthsecrets/nad-aging-resources/) - [IF Longevity Protocols](/healthsecrets/intermittent-fasting-longevity-protocols/) - [Hormone Optimization](/healthsecrets/hormone-optimization-resources/) | [Longevity Secrets](https://healthsecrets.com/longevity/longevity-secrets-science-backed-strategies-to-live-longer) |
 | Immune | [Immune System Guide](/healthsecrets/immune-system-guide/) - [Immune Recipes](/healthsecrets/immune-nutrition-recipes/) - [Child Immunity](/healthsecrets/evidence-based-child-immunity/) - [Immune Science Toolkit](/healthsecrets/immune-system-science-toolkit/) - [Garlic & Allicin](/healthsecrets/garlic-allicin-immune-research/) - [Vitamin C Immune Health](/healthsecrets/vitamin-c-immune-health-resources/) - [Immune Supplement Guide](/healthsecrets/immune-supplement-guide/) - [Probiotic Strains Guide](/healthsecrets/immune-probiotic-strains-guide/) - [Gut Immune Connection](/healthsecrets/gut-immune-connection-resources/) - [Astragalus Immune Support](/healthsecrets/astragalus-immune-support-resources/) | [Immune System Guide](https://healthsecrets.com/immune-system/how-to-boost-your-immune-system-naturally-15-science-backed-strategies) |
 | Inflammation | [Anti-Inflammation Toolkit](/healthsecrets/anti-inflammation-toolkit/) - [Headache Relief](/healthsecrets/natural-headache-relief/) - [CBD Resources](/healthsecrets/evidence-based-cbd/) - [Curcumin Anti-Inflammatory](/healthsecrets/curcumin-inflammation-resources/) - [Glucosamine & Chondroitin](/healthsecrets/glucosamine-chondroitin-resources/) - [Chronic Inflammation Resources](/healthsecrets/chronic-inflammation-resources/) - [Natural Pain Relief Protocols](/healthsecrets/natural-pain-relief-protocols/) | [Anti-Inflammatory Guide](https://healthsecrets.com/inflammation/reduce-inflammation-naturally-complete-anti-inflammatory-guide) |
-| Mental Wellness | [Brain Health Resources](/healthsecrets/brain-health-resources/) - [Anxiety Relief](/healthsecrets/anxiety-relief-toolkit/) - [Omega-3 Guide](/healthsecrets/omega-3-brain-health-guide/) - [Insomnia Protocols](/healthsecrets/insomnia-treatment-protocols/) - [Sleep Optimization](/healthsecrets/evidence-based-sleep-optimization/) - [Sleep Hygiene Protocols](/healthsecrets/sleep-hygiene-evidence-protocols/) - [Mental Wellness Toolkit](/healthsecrets/mental-wellness-natural-toolkit/) | [Mental Wellness Guide](https://healthsecrets.com/mental-wellness/mental-wellness-guide) |
+| Mental Wellness | [Brain Health Resources](/healthsecrets/brain-health-resources/) - [Anxiety Relief](/healthsecrets/anxiety-relief-toolkit/) - [Omega-3 Guide](/healthsecrets/omega-3-brain-health-guide/) - [Insomnia Protocols](/healthsecrets/insomnia-treatment-protocols/) - [Sleep Optimization](/healthsecrets/evidence-based-sleep-optimization/) - [Sleep Hygiene Protocols](/healthsecrets/sleep-hygiene-evidence-protocols/) - [Mental Wellness Toolkit](/healthsecrets/mental-wellness-natural-toolkit/) - [Adaptogen Stress Protocols](/healthsecrets/adaptogen-stress-protocols/) | [Mental Wellness Guide](https://healthsecrets.com/mental-wellness/mental-wellness-guide) |
 | Natural Remedies | [Natural Remedies DB](/healthsecrets/natural-remedies-db/) - [Rosacea Care](/healthsecrets/rosacea-natural-care/) - [Bronchitis](/healthsecrets/bronchitis-natural-remedies/) | [Natural Remedies Guide](https://healthsecrets.com/natural-remedies/natural-remedies-guide) |
 
 ---
