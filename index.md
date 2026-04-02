@@ -77,7 +77,8 @@ author: Health Secrets
           {"@type": "ListItem", "position": 41, "url": "https://snakedev.github.io/healthsecrets/nac-detox-protocols/", "name": "Evidence-Based NAC Detoxification Protocols"},
           {"@type": "ListItem", "position": 42, "url": "https://snakedev.github.io/healthsecrets/bentonite-clay-detox-guide/", "name": "Evidence-Based Bentonite Clay Detox Guide"},
           {"@type": "ListItem", "position": 43, "url": "https://snakedev.github.io/healthsecrets/gut-brain-axis-resources/", "name": "Evidence-Based Gut-Brain Axis Resources"},
-          {"@type": "ListItem", "position": 44, "url": "https://snakedev.github.io/healthsecrets/anti-inflammatory-gut-foods/", "name": "Evidence-Based Anti-Inflammatory Gut Foods Database"}
+          {"@type": "ListItem", "position": 44, "url": "https://snakedev.github.io/healthsecrets/anti-inflammatory-gut-foods/", "name": "Evidence-Based Anti-Inflammatory Gut Foods Database"},
+          {"@type": "ListItem", "position": 45, "url": "https://snakedev.github.io/healthsecrets/curcumin-inflammation-resources/", "name": "Evidence-Based Curcumin Anti-Inflammatory Research"}
         ]
       }
     }
@@ -199,10 +200,12 @@ Chronic inflammation is linked to nearly every major disease. Learn how to reduc
 | **[Anti-Inflammation Toolkit](/healthsecrets/anti-inflammation-toolkit/)** | Diet templates, supplement protocols, inflammatory biomarker reference, 7-day meal framework, and tracking protocol for reducing chronic inflammation |
 | **[Natural Headache Relief](/healthsecrets/natural-headache-relief/)** | Evidence-based headache protocols, trigger identification, natural remedies, and prevention strategies |
 | **[Evidence-Based CBD Resources](/healthsecrets/evidence-based-cbd/)** | CBD research database, dosing protocols, product comparison matrix, drug interaction reference, and 8-week pain management protocol backed by 15+ PubMed citations |
+| **[Evidence-Based Curcumin Anti-Inflammatory Research](/healthsecrets/curcumin-inflammation-resources/)** | Curcumin mechanisms (NF-κB, COX-2), clinical evidence tables by condition, bioavailability comparisons, condition-specific dosing protocols, quality checklist, and 20+ curated PubMed citations |
 
 **On [HealthSecrets.com](https://healthsecrets.com):**
 - [Reduce Inflammation Naturally](https://healthsecrets.com/inflammation/reduce-inflammation-naturally-complete-anti-inflammatory-guide) — Complete anti-inflammatory guide
 - [CBD for Inflammation and Pain](https://healthsecrets.com/inflammation/cbd-inflammation-pain-guide) — Evidence-based cannabidiol guide
+- [Turmeric for Inflammation: Curcumin Complete Guide](https://healthsecrets.com/supplements/turmeric-inflammation-curcumin) — Evidence-based turmeric and curcumin guide
 
 ---
 
@@ -243,7 +246,7 @@ Traditional remedies backed by modern science. Find out which natural treatments
 | Detox | [Detox Protocols](/healthsecrets/detox-protocols/) - [Detox Guide](/healthsecrets/evidence-based-detox-guide/) - [Lymphatic Drainage](/healthsecrets/lymphatic-drainage-guide/) - [Glutathione](/healthsecrets/evidence-based-glutathione/) - [Milk Thistle Silymarin](/healthsecrets/milk-thistle-silymarin-research/) - [Heavy Metal Chelation](/healthsecrets/heavy-metal-chelation-safety/) - [Detox Foods Database](/healthsecrets/detox-foods-evidence-database/) - [NAC Detox Protocols](/healthsecrets/nac-detox-protocols/) - [Bentonite Clay Detox](/healthsecrets/bentonite-clay-detox-guide/) | [Detox Guide](https://healthsecrets.com/detox/detox-guide-evidence-based) |
 | Longevity | [Biohacker Stack](/healthsecrets/biohacker-stack/) - [Longevity Science Toolkit](/healthsecrets/longevity-science-toolkit/) | [Longevity Secrets](https://healthsecrets.com/longevity/longevity-secrets-science-backed-strategies-to-live-longer) |
 | Immune | [Immune System Guide](/healthsecrets/immune-system-guide/) - [Immune Recipes](/healthsecrets/immune-nutrition-recipes/) - [Child Immunity](/healthsecrets/evidence-based-child-immunity/) - [Immune Science Toolkit](/healthsecrets/immune-system-science-toolkit/) - [Garlic & Allicin](/healthsecrets/garlic-allicin-immune-research/) | [Immune System Guide](https://healthsecrets.com/immune-system/how-to-boost-your-immune-system-naturally-15-science-backed-strategies) |
-| Inflammation | [Anti-Inflammation Toolkit](/healthsecrets/anti-inflammation-toolkit/) - [Headache Relief](/healthsecrets/natural-headache-relief/) - [CBD Resources](/healthsecrets/evidence-based-cbd/) | [Anti-Inflammatory Guide](https://healthsecrets.com/inflammation/reduce-inflammation-naturally-complete-anti-inflammatory-guide) |
+| Inflammation | [Anti-Inflammation Toolkit](/healthsecrets/anti-inflammation-toolkit/) - [Headache Relief](/healthsecrets/natural-headache-relief/) - [CBD Resources](/healthsecrets/evidence-based-cbd/) - [Curcumin Anti-Inflammatory](/healthsecrets/curcumin-inflammation-resources/) | [Anti-Inflammatory Guide](https://healthsecrets.com/inflammation/reduce-inflammation-naturally-complete-anti-inflammatory-guide) |
 | Mental Wellness | [Brain Health Resources](/healthsecrets/brain-health-resources/) - [Anxiety Relief](/healthsecrets/anxiety-relief-toolkit/) - [Omega-3 Guide](/healthsecrets/omega-3-brain-health-guide/) - [Insomnia Protocols](/healthsecrets/insomnia-treatment-protocols/) - [Sleep Optimization](/healthsecrets/evidence-based-sleep-optimization/) - [Sleep Hygiene Protocols](/healthsecrets/sleep-hygiene-evidence-protocols/) - [Mental Wellness Toolkit](/healthsecrets/mental-wellness-natural-toolkit/) | [Mental Wellness Guide](https://healthsecrets.com/mental-wellness/mental-wellness-guide) |
 | Natural Remedies | [Natural Remedies DB](/healthsecrets/natural-remedies-db/) - [Rosacea Care](/healthsecrets/rosacea-natural-care/) - [Bronchitis](/healthsecrets/bronchitis-natural-remedies/) | [Natural Remedies Guide](https://healthsecrets.com/natural-remedies/natural-remedies-guide) |
 
