@@ -17,7 +17,7 @@ permalink: /awesome-gut-health/
       "description": "Evidence-based gut health resources, protocols, and research — curated by HealthSecrets.com",
       "url": "https://snakedev.github.io/healthsecrets/awesome-gut-health/",
       "datePublished": "2026-03-19",
-      "dateModified": "2026-03-23",
+      "dateModified": "2026-04-02",
       "author": {"@type": "Organization", "name": "Health Secrets", "url": "https://healthsecrets.com"},
       "publisher": {"@type": "Organization", "name": "Health Secrets", "url": "https://healthsecrets.com"},
       "mainEntityOfPage": {"@type": "WebPage", "@id": "https://snakedev.github.io/healthsecrets/awesome-gut-health/"},
@@ -281,3 +281,4 @@ This repository is for educational purposes only. The information provided does 
 - 📖 [Evidence-Based Supplements Database](/healthsecrets/evidence-based-supplements/) — Curated supplement database with evidence grades
 - 📖 [Detox Protocols](/healthsecrets/detox-protocols/) — Liver and gut detox protocols with citations
 - 📝 [The Gut-Brain Connection: Why Your Mood Starts in Your Stomach](https://medium.com/healthsecrets/the-gut-brain-connection-why-your-mood-starts-in-your-stomach-c46cfdd2be28) — Deep-dive article on Medium
+- 📝 [I Fixed My Gut in 30 Days — Here's the Science Behind It](https://medium.com/@healthsecrets/i-fixed-my-gut-in-30-days-heres-the-science-behind-it-b567d2b4e4bf) — Personal gut transformation story on Medium
