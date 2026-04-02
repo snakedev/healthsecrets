@@ -17,7 +17,7 @@ permalink: /liver-detox-support-protocols/
       "description": "Science-backed liver detox natural protocols — Phase I/II/III pathways, supplement dosing tables, liver-friendly foods database, and 30-day liver reset protocol backed by PubMed research.",
       "url": "https://snakedev.github.io/healthsecrets/liver-detox-support-protocols/",
       "datePublished": "2026-03-24",
-      "dateModified": "2026-03-24",
+      "dateModified": "2026-04-02",
       "author": {"@type": "Organization", "name": "Health Secrets", "url": "https://healthsecrets.com"},
       "publisher": {"@type": "Organization", "name": "Health Secrets", "url": "https://healthsecrets.com"},
       "mainEntityOfPage": {"@type": "WebPage", "@id": "https://snakedev.github.io/healthsecrets/liver-detox-support-protocols/"},
@@ -149,7 +149,7 @@ Phase I uses over 50 cytochrome P450 (CYP) isoenzymes to oxidize, reduce, and hy
 Phase II attaches large water-soluble molecules to Phase I intermediates, rendering them non-toxic and ready for excretion. Six major conjugation pathways each require specific nutrients [3].
 
 | Pathway | Required Nutrients | Top Food Sources | What It Detoxifies |
-|---------|-------------------|-----------------|--------------------|
+|---------|-------------------|-----------------|--------------------| 
 | **Glutathione conjugation** | NAC, selenium, alpha-lipoic acid | Cruciferous vegetables, garlic, onions | Heavy metals, drugs, carcinogens |
 | **Sulfation** | Sulfur amino acids, molybdenum | Eggs, cruciferous vegetables, alliums | Hormones, neurotransmitters, drugs |
 | **Glucuronidation** | Calcium-D-glucarate, B vitamins, magnesium | Apples, citrus, cruciferous vegetables | Bilirubin, hormones, environmental toxins |
@@ -164,7 +164,7 @@ Phase II attaches large water-soluble molecules to Phase I intermediates, render
 Phase III transports conjugated toxins out of liver cells into bile or blood for final excretion. This phase relies on transport proteins including P-glycoprotein and MRP2 [5].
 
 | Route | Requirements | Supporting Actions |
-|-------|-------------|--------------------|
+|-------|-------------|--------------------| 
 | **Bile → Gut → Feces** | Healthy bile flow, adequate fiber (30g+/day) | Bitter foods, fiber-rich diet, healthy gut microbiome |
 | **Blood → Kidneys → Urine** | Adequate hydration | 2+ liters water daily |
 | **Sweat** | Functional sweat glands | Exercise, sauna (infrared preferred) |
@@ -215,7 +215,7 @@ NAC's mechanism is elegant: it provides cysteine, the rate-limiting amino acid f
 ### Liver-Friendly Foods Database
 
 | Food | Key Compounds | Primary Mechanism | Evidence Level | Serving Suggestion |
-|------|--------------|-------------------|---------------|--------------------|
+|------|--------------|-------------------|---------------|--------------------| 
 | **Broccoli / Broccoli Sprouts** | Sulforaphane, indole-3-carbinol | Upregulates Phase II enzymes, boosts glutathione | **A — Strong** | 1-2 cups daily (lightly steamed) |
 | **Coffee** | Cafestol, kahweol, chlorogenic acid | Reduces liver fat, lowers enzymes, increases glutathione | **A — Strong** | 2-3 cups filtered coffee daily |
 | **Garlic** | Allicin, sulfur compounds | Activates Phase II, antimicrobial, enhances excretion | **A — Strong** | 1-2 cloves daily (crushed, let sit 10 min) |
@@ -230,7 +230,7 @@ NAC's mechanism is elegant: it provides cysteine, the rate-limiting amino acid f
 ### Foods to Avoid for Liver Health
 
 | Category | Examples | Why It Harms the Liver |
-|----------|---------|------------------------|
+|----------|---------|------------------------| 
 | **Alcohol** | All types | Directly hepatotoxic, depletes glutathione, causes fatty liver → cirrhosis |
 | **Excess fructose** | Soda, HFCS, fruit juice | Metabolized exclusively by liver, drives NAFLD |
 | **Trans fats** | Partially hydrogenated oils | Increases liver inflammation and fat accumulation |
@@ -468,6 +468,7 @@ This repository is for educational purposes only. The information provided does 
 
 ## Further Reading
 
+- 📝 **Full Article:** Read our [detailed article on Medium](https://medium.com/healthsecrets/9f59e024c4c0)
 - 📖 [Liver Detox: Natural Support — Health Secrets](https://healthsecrets.com/detox/liver-detox-naturally)
 - 📖 [Evidence-Based Detox Guide — Health Secrets](https://healthsecrets.com/detox/detox-guide-evidence-based)
 - 📖 [Milk Thistle for Liver Health — HealthSecrets.com](https://healthsecrets.com/supplements/milk-thistle-liver-health)
