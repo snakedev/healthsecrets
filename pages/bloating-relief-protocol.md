@@ -301,6 +301,7 @@ This repository is for educational purposes only. The information provided does 
 
 ## Further Reading
 
+- 📝 **Full Article:** Read our [detailed article](https://medium.com/@healthsecrets/why-youre-bloated-and-it-s-not-what-you-think-d751308ca53c)
 - 📖 [Bloating Relief: Natural Remedies — Health Secrets](https://healthsecrets.com/gut-health/bloating-relief-natural) — Full 15-remedy guide with product recommendations
 - 📖 [The Complete Guide to Gut Health — Health Secrets](https://healthsecrets.com/gut-health/complete-guide-gut-health) — Comprehensive microbiome science and protocols
 - 📖 [Awesome Gut Health Resources](/healthsecrets/awesome-gut-health/) — Curated research papers, probiotic databases, and gut-brain axis resources
