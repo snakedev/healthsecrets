@@ -5,7 +5,7 @@ description: "Free, evidence-based health guides, protocols, and curated resourc
 author: Health Secrets
 ---
 
-<script type="application/ld+json">
+&lt;script type="application/ld+json"&gt;
 {
   "@context": "https://schema.org",
   "@graph": [
@@ -92,13 +92,14 @@ author: Health Secrets
           {"@type": "ListItem", "position": 56, "url": "https://snakedev.github.io/healthsecrets/hormone-optimization-resources/", "name": "Hormone Optimization Resources"},
           {"@type": "ListItem", "position": 57, "url": "https://snakedev.github.io/healthsecrets/adaptogen-stress-protocols/", "name": "Adaptogen Stress Protocols"},
           {"@type": "ListItem", "position": 58, "url": "https://snakedev.github.io/healthsecrets/evidence-based-nootropics/", "name": "Evidence-Based Nootropics Research Database"},
-          {"@type": "ListItem", "position": 59, "url": "https://snakedev.github.io/healthsecrets/awesome-lions-mane/", "name": "Awesome Lion's Mane Research Resources"}
+          {"@type": "ListItem", "position": 59, "url": "https://snakedev.github.io/healthsecrets/awesome-lions-mane/", "name": "Awesome Lion's Mane Research Resources"},
+          {"@type": "ListItem", "position": 60, "url": "https://snakedev.github.io/healthsecrets/ginkgo-biloba-research/", "name": "Ginkgo Biloba Research — Clinical Evidence Database"}
         ]
       }
     }
   ]
 }
-</script>
+&lt;/script&gt;
 
 # Health Secrets — Evidence-Based Health Resources
 
@@ -108,10 +109,10 @@ author: Health Secrets
 
 Welcome to the **Health Secrets open-source health resource hub**. Every guide, protocol, and resource below is grounded in peer-reviewed research from PubMed, Cochrane, and NIH databases.
 
-> **Evidence-based** — Every recommendation backed by peer-reviewed clinical trials and meta-analyses
-> **Actionable** — Protocols, checklists, and supplement stacks you can start today
-> **Free tools** — Interactive Notion templates to track your progress
-> **Open source** — All resources free forever. Contributions welcome.
+&gt; **Evidence-based** — Every recommendation backed by peer-reviewed clinical trials and meta-analyses
+&gt; **Actionable** — Protocols, checklists, and supplement stacks you can start today
+&gt; **Free tools** — Interactive Notion templates to track your progress
+&gt; **Open source** — All resources free forever. Contributions welcome.
 
 ---
 
@@ -255,6 +256,7 @@ From brain fog to sleep quality to stress management — evidence-based strategi
 | **[🌿 Adaptogen Stress Protocols](/healthsecrets/adaptogen-stress-protocols/)** | Curated adaptogen research database with clinical trial evidence for ashwagandha, rhodiola, holy basil, dosing protocols, safety matrix, contraindications, and stress supplement protocols backed by 18 PubMed references |
 | **[🧠 Evidence-Based Nootropics Research Database](/healthsecrets/evidence-based-nootropics/)** | Curated nootropics research database with 10-compound comparison table, evidence grades (A/B/C), pre-built cognitive stacks, dosing-by-goal protocols, safety/interaction matrix, and PubMed research library |
 | **[🧠 Awesome Lion's Mane Research Resources](/healthsecrets/awesome-lions-mane/)** | Curated clinical studies, NGF & neurogenesis research database, dosing protocols by goal, forms comparison (powder vs extract vs dual extract), quality assessment guide, and safety profiles backed by 20 PubMed citations |
+| **[🧠 Ginkgo Biloba Research — Evidence Database](/healthsecrets/ginkgo-biloba-research/)** | Curated ginkgo biloba clinical evidence database organized by condition, EGb 761 trial summaries, drug interaction reference table, dosing protocols, 24/6 quality standards, and product comparison backed by 20 PubMed studies |
 | **[🧠 Evidence-Based Gut-Brain Axis Resources](/healthsecrets/gut-brain-axis-resources/)** | Psychobiotic strain database, 4R gut healing protocol, Mediterranean diet plan, vagus nerve stimulation guide, 30-day gut-brain protocol, and curated PubMed research |
 
 ---
@@ -281,7 +283,7 @@ Traditional remedies backed by modern science. Find out which natural treatments
 | Longevity | [Biohacker Stack](/healthsecrets/biohacker-stack/) - [Longevity Science Toolkit](/healthsecrets/longevity-science-toolkit/) - [NAD+ and Aging Resources](/healthsecrets/nad-aging-resources/) - [IF Longevity Protocols](/healthsecrets/intermittent-fasting-longevity-protocols/) - [Hormone Optimization](/healthsecrets/hormone-optimization-resources/) | [Longevity Secrets](https://healthsecrets.com/longevity/longevity-secrets-science-backed-strategies-to-live-longer) |
 | Immune | [Immune System Guide](/healthsecrets/immune-system-guide/) - [Immune Recipes](/healthsecrets/immune-nutrition-recipes/) - [Child Immunity](/healthsecrets/evidence-based-child-immunity/) - [Immune Science Toolkit](/healthsecrets/immune-system-science-toolkit/) - [Garlic & Allicin](/healthsecrets/garlic-allicin-immune-research/) - [Vitamin C Immune Health](/healthsecrets/vitamin-c-immune-health-resources/) - [Immune Supplement Guide](/healthsecrets/immune-supplement-guide/) - [Probiotic Strains Guide](/healthsecrets/immune-probiotic-strains-guide/) - [Gut Immune Connection](/healthsecrets/gut-immune-connection-resources/) - [Astragalus Immune Support](/healthsecrets/astragalus-immune-support-resources/) | [Immune System Guide](https://healthsecrets.com/immune-system/how-to-boost-your-immune-system-naturally-15-science-backed-strategies) |
 | Inflammation | [Anti-Inflammation Toolkit](/healthsecrets/anti-inflammation-toolkit/) - [Headache Relief](/healthsecrets/natural-headache-relief/) - [CBD Resources](/healthsecrets/evidence-based-cbd/) - [Curcumin Anti-Inflammatory](/healthsecrets/curcumin-inflammation-resources/) - [Glucosamine & Chondroitin](/healthsecrets/glucosamine-chondroitin-resources/) - [Chronic Inflammation Resources](/healthsecrets/chronic-inflammation-resources/) - [Natural Pain Relief Protocols](/healthsecrets/natural-pain-relief-protocols/) | [Anti-Inflammatory Guide](https://healthsecrets.com/inflammation/reduce-inflammation-naturally-complete-anti-inflammatory-guide) |
-| Mental Wellness | [Brain Health Resources](/healthsecrets/brain-health-resources/) - [Anxiety Relief](/healthsecrets/anxiety-relief-toolkit/) - [Omega-3 Guide](/healthsecrets/omega-3-brain-health-guide/) - [Insomnia Protocols](/healthsecrets/insomnia-treatment-protocols/) - [Sleep Optimization](/healthsecrets/evidence-based-sleep-optimization/) - [Sleep Hygiene Protocols](/healthsecrets/sleep-hygiene-evidence-protocols/) - [Mental Wellness Toolkit](/healthsecrets/mental-wellness-natural-toolkit/) - [Adaptogen Stress Protocols](/healthsecrets/adaptogen-stress-protocols/) - [Evidence-Based Nootropics](/healthsecrets/evidence-based-nootropics/) - [Lion's Mane Research](/healthsecrets/awesome-lions-mane/) - [Gut-Brain Axis Resources](/healthsecrets/gut-brain-axis-resources/) | [Mental Wellness Guide](https://healthsecrets.com/mental-wellness/mental-wellness-guide) |
+| Mental Wellness | [Brain Health Resources](/healthsecrets/brain-health-resources/) - [Anxiety Relief](/healthsecrets/anxiety-relief-toolkit/) - [Omega-3 Guide](/healthsecrets/omega-3-brain-health-guide/) - [Insomnia Protocols](/healthsecrets/insomnia-treatment-protocols/) - [Sleep Optimization](/healthsecrets/evidence-based-sleep-optimization/) - [Sleep Hygiene Protocols](/healthsecrets/sleep-hygiene-evidence-protocols/) - [Mental Wellness Toolkit](/healthsecrets/mental-wellness-natural-toolkit/) - [Adaptogen Stress Protocols](/healthsecrets/adaptogen-stress-protocols/) - [Evidence-Based Nootropics](/healthsecrets/evidence-based-nootropics/) - [Lion's Mane Research](/healthsecrets/awesome-lions-mane/) - [Ginkgo Biloba Research](/healthsecrets/ginkgo-biloba-research/) - [Gut-Brain Axis Resources](/healthsecrets/gut-brain-axis-resources/) | [Mental Wellness Guide](https://healthsecrets.com/mental-wellness/mental-wellness-guide) |
 | Natural Remedies | [Natural Remedies DB](/healthsecrets/natural-remedies-db/) - [Rosacea Care](/healthsecrets/rosacea-natural-care/) - [Bronchitis](/healthsecrets/bronchitis-natural-remedies/) | [Natural Remedies Guide](https://healthsecrets.com/natural-remedies/natural-remedies-guide) |
 
 ---
