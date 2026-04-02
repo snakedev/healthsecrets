@@ -17,7 +17,7 @@ permalink: /fermented-foods-guide/
       "description": "Curated fermented foods resources with lacto-fermentation recipes, salt ratio charts, fermentation timelines, troubleshooting guides, and probiotic foods database — backed by PubMed research.",
       "url": "https://snakedev.github.io/healthsecrets/fermented-foods-guide/",
       "datePublished": "2026-03-23",
-      "dateModified": "2026-03-23",
+      "dateModified": "2026-04-02",
       "author": {"@type": "Organization", "name": "Health Secrets", "url": "https://healthsecrets.com"},
       "publisher": {"@type": "Organization", "name": "Health Secrets", "url": "https://healthsecrets.com"},
       "mainEntityOfPage": {"@type": "WebPage", "@id": "https://snakedev.github.io/healthsecrets/fermented-foods-guide/"},
@@ -400,7 +400,7 @@ Getting the salt ratio right is the single most important variable in fermentati
 
 ## 📋 Free Tools
 
-📋 **Free Tools:** Download our [Home Fermentation Starter Kit Checklist & Salt Ratio Calculator](https://www.notion.so/ff34a38191b24c03b51873643bc8f67b) — a free, interactive checklist with fermented foods introduction protocols based on this research.
+📋 **Free Tools:** Download our [Home Fermentation Starter Kit Checklist & Salt Ratio Calculator](https://healthsecrets.notion.site) — a free, interactive checklist with fermented foods introduction protocols based on this research.
 
 → [Browse all free health tools on Notion](https://healthsecrets.notion.site)
 
@@ -478,6 +478,7 @@ This content is for educational purposes only. The information provided does not
 - 📖 [Prebiotic Foods Database](/healthsecrets/prebiotic-foods-resources/) — 22+ prebiotic foods that feed your fermented food bacteria
 - 📖 [Gut Health Meal Plan Resources](/healthsecrets/gut-health-meal-plan-resources/) — Weekly anti-inflammatory meal plans with gut-healing foods
 - 📖 [Bloating Relief Protocol](/healthsecrets/bloating-relief-protocol/) — Evidence-based remedies for digestive discomfort
+- 🤖 **Reddit:** Join the [discussion on fermented foods](https://www.reddit.com/r/HealthSecrets/comments/1sabytf/psa_most_storebought_fermented_foods_are/)
 
 ---
 
